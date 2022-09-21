@@ -1,0 +1,2270 @@
+{"Aves":
+    [
+        {
+            "Codigo":"001",
+            "Nombre_Comun": "Tinamú chico",
+            "Nombre_Cientifico": "Crypturellus soui",
+            "Orden": "Tinamiforme",
+            "Familia": "Tinamidae",
+            "Nombre_Ingles": "Little tinamou",
+            "Vocalizacion": "“iiiiirrrr…” Silbido vibrante muy agudo y sostenido",
+            "Distribucion": "< 2000 msnm ",
+            "Tamano": "23 cm",
+            "Imagen_Ave": "001/Ave001.webp",
+            "Sonidos": ["001/Aud001.mp3"],
+            "Alimentos": ["Anfi", "Crusta", "Frugiv", "FrutPeq", "Insec", "Semllas", "Semlleros"]
+        }, 
+
+        {
+            "Codigo":"002",
+            "Nombre_Comun": "Iguaza común",
+            "Nombre_Cientifico": "Dendrocygna autumnalis",
+            "Orden": "Anseriforme",
+            "Familia": "Anatidae",
+            "Nombre_Ingles": "Black-bellied Whistling-Duck",
+            "Vocalizacion": "Onomatopeya a uno de sus nombres comunes, “Suirirí” piquirrojo",
+            "Distribucion": "<2600 msnm",
+            "Tamano": "50 cm",
+            "Imagen_Ave": "002/Ave002.webp",
+            "Sonidos": ["002/Aud002.mp3"],
+            "Alimentos": ["Crusta", "FrutPeq", "Insec"]
+        },
+
+        {
+            "Codigo":"003",
+            "Nombre_Comun": "Pato de torrentes",
+            "Nombre_Cientifico": "Merganetta armata",
+            "Orden": "Anseriforme",
+            "Familia": "Anatidae",
+            "Nombre_Ingles": "Torrent Duck",
+            "Vocalizacion": "Si bien, no son frecuentes los registros de su vocalización, emite llamados similares a silbidos cortos y repetitivos “Fiu”",
+            "Distribucion": "1000 - 3500 msnm",
+            "Tamano": "40-46 cm",
+            "Imagen_Ave": "003/Ave003.webp",
+            "Sonidos": [ ],
+            "Alimentos": ["Crusta", "Insec"]
+        },
+
+        {
+            "Codigo":"004",
+            "Nombre_Comun": "Pava caucana",
+            "Nombre_Cientifico": "Penelope perspicax",
+            "Orden": "Galliforme",
+            "Familia": "Cracidae",
+            "Nombre_Ingles": "Cauca guan",
+            "Vocalizacion": "Graznidos repetidos en alto tono “Wik Wik Wiok Wiok Wiok…”",
+            "Distribucion": "900 – 2000 msnm",
+            "Tamano": "75-85 cm",
+            "Imagen_Ave": "004/Ave004.webp",
+            "Sonidos": ["004/Aud004.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+        },
+
+        {
+            "Codigo":"005",
+            "Nombre_Comun": "Guacharaca colombiana",
+            "Nombre_Cientifico": "Ortalis columbiana",
+            "Orden": "Galliforme",
+            "Familia": "Cracidae",
+            "Nombre_Ingles": "Colombian Chachalaca",
+            "Vocalizacion": "Onomatopeya de su nombre común “Gua…cha-ra-ca” o “Cha, cha-la-ca”. Muy intenso y repetitivo",
+            "Distribucion": "En la cordillera oriental, occidental y central entre los 300 – 2000 msnm",
+            "Tamano": "50-55 cm",
+            "Imagen_Ave": "005/Ave005.webp",
+            "Sonidos": ["005/Aud005-1.mp3", "005/Aud005-2.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+        },
+
+        {
+            "Codigo":"006",
+            "Nombre_Comun": "Perdiz colorada",
+            "Nombre_Cientifico": "Odontophorus hyperythrus",
+            "Orden": "Galliforme",
+            "Familia": "Odontophoridae",
+            "Nombre_Ingles": "Chestnut Wood-Quail",
+            "Vocalizacion": "Onomatopeya a uno de sus nombres comunes “Corcovado” Castaño, a veces puede escucharse como “Chogu-Chogüi-Chogu-Chogüi” repetidamente, alternado y en alto volumen",
+            "Distribucion": "En la cordillera oriental, occidental y central entre los 1300 - 2600 msnm",
+            "Tamano": "27 cm",
+            "Imagen_Ave": "006/Ave006.webp",
+            "Sonidos": ["006/Aud006.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+        },
+        
+        {
+            "Codigo":"007",
+            "Nombre_Comun": "Paloma colorada",
+            "Nombre_Cientifico": "Patagioenas cayennensis",
+            "Orden": "Columbiforme",
+            "Familia": "Columbidae",
+            "Nombre_Ingles": "Pale-vented Pigeon",
+            "Vocalizacion": "“Ju-Ju-Juuu… Ju-Ju-Juuu…”. 3 notas las dos primeras cortas y la tercera sostenida",
+            "Distribucion": "<2000 m.s.n.m",
+            "Tamano": "35 cm",
+            "Imagen_Ave": "007/Ave007.webp",
+            "Sonidos": ["007/Aud007.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Gran", "Semllas", "Semlleros"]
+        },
+
+        {
+            "Codigo":"008",
+            "Nombre_Comun": "Torcaza nagüiblanca",
+            "Nombre_Cientifico": "Zenaida auriculata",
+            "Orden": "Columbiforme",
+            "Familia": "Columbidae",
+            "Nombre_Ingles": "Eared dove",
+            "Vocalizacion": "“Ju-uuh… Ju-uuh” en tono bajo desde una percha y repetido.",
+            "Distribucion": "< 3500 m.s.n.m",
+            "Tamano": "26 cm",
+            "Imagen_Ave": "008/Ave008.webp",
+            "Sonidos": ["008/Aud008.mp3"],
+            "Alimentos": ["Gran", "Semllas", "Semlleros"]
+        },
+
+        {
+            "Codigo":"009",
+            "Nombre_Comun": "Tortolita común",
+            "Nombre_Cientifico": "Columbina talpacoti",
+            "Orden": "Columbiforme",
+            "Familia": "Columbidae",
+            "Nombre_Ingles": "Ruddy Ground Dove",
+            "Vocalizacion": "“Hú… Hú… Hú… Hú…” Repetitivo y muy acentuado en la Ú",
+            "Distribucion": "< 2500 m.s.n.m",
+            "Tamano": "18 cm",
+            "Imagen_Ave": "009/Ave009.webp",
+            "Sonidos": ["009/Aud009-1.mp3","009/Aud009-2.mp3"],
+            "Alimentos": ["Semllas", "Semlleros"]
+        },
+
+        {
+            "Codigo":"010",
+            "Nombre_Comun": "Garapatero común",
+            "Nombre_Cientifico": "Crotophaga ani",
+            "Orden": "Cuculiforme",
+            "Familia": "Cuculidae",
+            "Nombre_Ingles": "Colombian Chachalaca",
+            "Vocalizacion": "Muy ruidoso, vocalizan al vuelo o desde una percha, normalmente lo hacen diferentes individuos de la misma familia “Weeeiii-Weeeii-Weeeii…”",
+            "Distribucion": "< 3000 m.s.n.m",
+            "Tamano": "35 cm",
+            "Imagen_Ave": "010/Ave010.webp",
+            "Sonidos": ["010/Aud010.mp3"],
+            "Alimentos": ["Anfi", "Frugiv", "FrutPeq", "Huevos", "Insec", "Rat", "Semllas", "Semlleros"]
+        },
+
+        {
+            "Codigo":"011",
+            "Nombre_Comun": "Trespiés / Cuco sin fin",
+            "Nombre_Cientifico": "Tapera naevia",
+            "Orden": "Cuculiforme",
+            "Familia": "Cuculidae",
+            "Nombre_Ingles": "Striped Cuckoo",
+            "Vocalizacion": "Revela su presencia principalmente por su canto, desde una percha expuesta, dos notas muy acentuadas, como onomatopeya de su nombre común “Sin…fin -Sin…Fin…” o “Tres…piés – Tres…piés…”",
+            "Distribucion": "< 2000 m.s.n.m",
+            "Tamano": "28 cm",
+            "Imagen_Ave": "011/Ave011.webp",
+            "Sonidos": ["011/Aud011-1.mp3", "011/Aud011-2.mp3"],
+            "Alimentos": ["Insec"]
+        },
+
+        {
+            "Codigo":"012",
+            "Nombre_Comun": "Cuco ardilla",
+            "Nombre_Cientifico": "Piaya cayana",
+            "Orden": "Cuculiforme",
+            "Familia": "Cuculidae",
+            "Nombre_Ingles": "Squirrel Cuckoo",
+            "Vocalizacion": "Ejecuta diferentes llamados y cantos muy característicos, uno de los más comunes es “Chi…cuah…” o “Chi…cuee…”",
+            "Distribucion": "< 2000 m.s.n.m",
+            "Tamano": "50 cm",
+            "Imagen_Ave": "012/Ave012.webp",
+            "Sonidos": ["012/Aud012.mp3"],
+            "Alimentos": ["Insec"]
+        },  
+
+        {
+            "Codigo":"013",
+            "Nombre_Comun": "Bienparado común",
+            "Nombre_Cientifico": "Nyctibius griseus",
+            "Orden": "Nyctibiiforme",
+            "Familia": "Nyctibiidae",
+            "Nombre_Ingles": "Common Potoo",
+            "Vocalizacion": "Alrededor de su vocalización se han generado Gran cantidad de leyendas, puesto que, es similar a un lamento. Se caracteriza por tener 4 o 5 tiempos: “Ju… Juu… Juu… Juu… Ju”",
+            "Distribucion": "< 2600 m.s.n.m",
+            "Tamano": "38 cm",
+            "Imagen_Ave": "013/Ave013.webp",
+            "Sonidos": ["013/Aud013.mp3"],
+            "Alimentos": ["Insec"]
+        },  
+        
+        {
+            "Codigo":"014",
+            "Nombre_Comun": "Gallina ciega común / Guarda caminos común",
+            "Nombre_Cientifico": "Nyctidromus albicollis",
+            "Orden": "Caprimulgiforme",
+            "Familia": "Caprimulgidae",
+            "Nombre_Ingles": "Common Pauraque",
+            "Vocalizacion": "Interpretación onomatopéyica de la palabra “wío... wío…”, la nota se repite en tremolo de forma aguda",
+            "Distribucion": "< 2300 m.s.n.m",
+            "Tamano": "27 cm",
+            "Imagen_Ave": "014/Ave014.webp",
+            "Sonidos": ["014/Aud014-1.mp3", "014/Aud014-2.mp3"],
+            "Alimentos": ["Insec"]
+        },  
+        
+        {
+            "Codigo":"015",
+            "Nombre_Comun": "Colibrí collarejo",
+            "Nombre_Cientifico": "Florisuga mellivora",
+            "Orden": "Apodiforme",
+            "Familia": "Trochilidae",
+            "Nombre_Ingles": "White-necked Jacobin",
+            "Vocalizacion": "Emite llamados cortos y repetitivos, en vuelo o desde una percha “Tsi – Tsi - Tsi”",
+            "Distribucion": "< 2000 m.s.n.m",
+            "Tamano": "10 cm",
+            "Imagen_Ave": "015/Ave015.webp",
+            "Sonidos": [ ],
+            "Alimentos": ["Insec", "Nectari"]
+        },
+        
+        {
+            "Codigo":"016",
+            "Nombre_Comun": "Ermitaño verde",
+            "Nombre_Cientifico": "Phaethornis guy",
+            "Orden": "Apodiforme",
+            "Familia": "Trochilidae",
+            "Nombre_Ingles": "Green Hermit",
+            "Vocalizacion": "Asociada principalmente a dinámicas de cortejo, en las cuales se reúnen diferentes machos en un área determinada, para competir los unos contra los otros por la atención de una o varias hembras (Lek). En estos procesos, se emite enérgica y repetidamente la misma nota “cuit - cuit - cuit – cuit”",
+            "Distribucion": "600- 2200 m.s.n.m.",
+            "Tamano": "12.5 cm",
+            "Imagen_Ave": "016/Ave016.webp",
+            "Sonidos": ["016/Aud016-1.mp3", "016/Aud016-2.mp3"],
+            "Alimentos": ["Insec", "Nectari"]
+        }, 
+        
+        {
+            "Codigo":"017",
+            "Nombre_Comun": "Colibrí cola de raqueta",
+            "Nombre_Cientifico": "Ocreatus underwoodii",
+            "Orden": "Apodiforme",
+            "Familia": "Trochilidae",
+            "Nombre_Ingles": "Booted Racket-tail ",
+            "Vocalizacion": "Trino corto, enérgico y repetitivo “Píriri – Píriri - Píriri” acentuado en la primera (Í)",
+            "Distribucion": "1000 – 2700 m.s.n.m",
+            "Tamano": "Macho: 12 cm y Hembra: 7.6 cm",
+            "Imagen_Ave": "017/Ave017.webp",
+            "Sonidos": [ ],
+            "Alimentos": ["Insec", "Nectari"]
+        },    
+        
+        {
+            "Codigo":"018",
+            "Nombre_Comun": "Colibrí Coliazul",
+            "Nombre_Cientifico": "Saucerottia saucerottei",
+            "Orden": "Apodiforme",
+            "Familia": "Trochilidae",
+            "Nombre_Ingles": "Steely-vented Hummingbird",
+            "Vocalizacion": "Realiza llamados muy agudos, puede constar de una sola nota o de trinos rápidos. “Sibi sibi…”",
+            "Distribucion": "< 2100 m.s.n.m",
+            "Tamano": "8.7 cm",
+            "Imagen_Ave": "018/Ave018.webp",
+            "Sonidos": ["018/Aud018.mp3"],
+            "Alimentos": ["Insec", "Nectari"]
+        },    
+        
+        {
+            "Codigo":"019",
+            "Nombre_Comun": "Pollita de agua",
+            "Nombre_Cientifico": "Aramides cajaneus",
+            "Orden": "Gruiforme",
+            "Familia": "Aramidae",
+            "Nombre_Ingles": "Gray-necked Wood-Rail",
+            "Vocalizacion": "Interpreta un canto fuerte, solitaria, en duetos o grupos familiares y en postura erguida “Cu - Cu - Cu - Cu - Cu - Cui - Ca - Cui - Ca”, repetidamente",
+            "Distribucion": "< 2000 m.s.n.m",
+            "Tamano": "35-40 cm",
+            "Imagen_Ave": "019/Ave019.webp",
+            "Sonidos": ["019/Aud019.mp3"],
+            "Alimentos": ["Crusta", "Insec", "Pisci"]
+        },  
+
+        {
+            "Codigo":"020",
+            "Nombre_Comun": "Polluela chocoana",
+            "Nombre_Cientifico": "Laterallus albigularis",
+            "Orden": "Gruiforme",
+            "Familia": "Rallidae",
+            "Nombre_Ingles": "White-throated Crake",
+            "Vocalizacion": "Se registra más por su canto que visualmente; emite un llamado prolongado, similar a un tamborileo, se acentúa al inicio y va disminuyendo intensidad",
+            "Distribucion": "< 2000 m.s.n.m",
+            "Tamano": "15 cm",
+            "Imagen_Ave": "020/Ave020.webp",
+            "Sonidos": ["020/Aud020.mp3"],
+            "Alimentos": ["Crusta", "Insec", "Semllas", "Semlleros"]
+        },         
+
+        {
+            "Codigo":"021",
+            "Nombre_Comun": "Polla azul",
+            "Nombre_Cientifico": "Porphyrio martinica",
+            "Orden": "Gruiforme",
+            "Familia": "Rallidae",
+            "Nombre_Ingles": "Purple Gallinule",
+            "Vocalizacion": "Se caracteriza principalmente por cloqueos o cacareos fuertes y seguidos",
+            "Distribucion": "< 3500 m.s.n.m",
+            "Tamano": "33 cm",
+            "Imagen_Ave": "021/Ave021.webp",
+            "Sonidos": ["021/Aud021.mp3"],
+            "Alimentos": ["Anfi", "Crusta", "FrutPeq", "Insec", "Pisci", "Semllas", "Semlleros"]
+        },  
+
+        {
+            "Codigo":"022",
+            "Nombre_Comun": "Caravana / Pellar común  ",
+            "Nombre_Cientifico": "Vanellus chilensis",
+            "Orden": "Charadriiforme",
+            "Familia": "Charadriidae",
+            "Nombre_Ingles": "Southern Lapwing",
+            "Vocalizacion": "Emite su canto en vuelo o en el suelo, repetidamente “Ki – Kik – Kik – Kik”",
+            "Distribucion": "< 3300 m.s.n.m",
+            "Tamano": "37 cm",
+            "Imagen_Ave": "022/Ave022.webp",
+            "Sonidos": ["022/Aud022.mp3"],
+            "Alimentos": ["Crusta", "Insec", "Pisci"]
+        },
+        
+        {
+            "Codigo":"023",
+            "Nombre_Comun": "Garcita rayada",
+            "Nombre_Cientifico": "Butorides striata",
+            "Orden": "Pelecaniforme",
+            "Familia": "Ardeidae",
+            "Nombre_Ingles": "Striated Heron",
+            "Vocalizacion": "Emite reclamos cortos, pueden ser únicos o repetitivos “Quiak – Quiak – Quiak”",
+            "Distribucion": "< 2600 m.s.n.m",
+            "Tamano": "45 cm",
+            "Imagen_Ave": "023/Ave023.webp",
+            "Sonidos": ["023/Aud023.mp3"],
+            "Alimentos": ["Anfi", "Crusta", "Insec", "Pisci", "Rat"]
+        }, 
+
+        {
+            "Codigo":"024",
+            "Nombre_Comun": "Garza patiamarilla",
+            "Nombre_Cientifico": "Egretta thula",
+            "Orden": "Pelecaniforme",
+            "Familia": "Ardeidae",
+            "Nombre_Ingles": "Snowy Egret",
+            "Vocalizacion": "Poco activa a través de su canto, llamados en vuelo ásperos, un tanto metálicos",
+            "Distribucion": "< 3000 m.s.n.m",
+            "Tamano": "60 cm",
+            "Imagen_Ave": "024/Ave024.webp",
+            "Sonidos": [ ],
+            "Alimentos": ["Anfi", "Crusta", "Insec", "Pisci", "Rat"]
+        },
+        
+        {
+            "Codigo":"025",
+            "Nombre_Comun": "Coclí",
+            "Nombre_Cientifico": "Theristicus caudatus",
+            "Orden": "Pelecaniforme",
+            "Familia": "Threskiornithidae",
+            "Nombre_Ingles": "Buff-necked Ibis",
+            "Vocalizacion": "Representación onomatopéyica de su nombre común, “Coclí – Coclí - Coclí”",
+            "Distribucion": "< 1800 m.s.n.m",
+            "Tamano": "75 cm",
+            "Imagen_Ave": "025/Ave025.webp",
+            "Sonidos": ["025/Aud025-1.mp3","025/Aud025-2.mp3"],
+            "Alimentos": ["Anfi", "Crusta", "Insec", "Pisci", "Rat"]
+        }, 
+        
+        
+        {
+            "Codigo":"026",
+            "Nombre_Comun": "Guala común",
+            "Nombre_Cientifico": "Cathartes aura",
+            "Orden": "Cathartiforme",
+            "Familia": "Cathartidae",
+            "Nombre_Ingles": "Turkey vulture",
+            "Vocalizacion": "",
+            "Distribucion": "< 2600 m.s.n.m",
+            "Tamano": "75 cm",
+            "Imagen_Ave": "026/Ave026.webp",
+            "Sonidos": ["026/Aud026.mp3"],
+            "Alimentos": []
+        },
+        
+        {
+            "Codigo":"027",
+            "Nombre_Comun": "Caracolero selvático",
+            "Nombre_Cientifico": "Chondrohierax uncinatus (macho)",
+            "Orden": "Accipitriforme",
+            "Familia": "Accipitridae",
+            "Nombre_Ingles": "Hook-billed kite",
+            "Vocalizacion": "Su canto se caracteriza por repetir rápidamente una misma nota “ki – ki – ki – ki – ki – ki – ki – ki – ki”",
+            "Distribucion": "< 3000 m.s.n.m",
+            "Tamano": "40-50 cm",
+            "Imagen_Ave": "027/Ave027.webp",
+            "Sonidos": ["027/Aud027.mp3"],
+            "Alimentos": ["Anfi", "Crusta", "Insec"]
+        },    
+        
+        {
+            "Codigo":"028",
+            "Nombre_Comun": "Caracolero selvático",
+            "Nombre_Cientifico": "Chondrohierax uncinatus (hembra)",
+            "Orden": "Accipitriforme",
+            "Familia": "Accipitridae",
+            "Nombre_Ingles": "Hook-billed kite",
+            "Vocalizacion": "Su canto se caracteriza por repetir rápidamente una misma nota “ki – ki – ki – ki – ki – ki – ki – ki – ki”",
+            "Distribucion": "< 3000 m.s.n.m",
+            "Tamano": "40-50 cm",
+            "Imagen_Ave": "028/Ave028.webp",
+            "Sonidos": ["027/Aud027.mp3"],
+            "Alimentos": ["Anfi", "Crusta", "Insec"]
+        },   
+        
+        {
+            "Codigo":"029",
+            "Nombre_Comun": "Águila iguanera",
+            "Nombre_Cientifico": "Spizaetus tyrannus",
+            "Orden": "Accipitriforme",
+            "Familia": "Accipitridae",
+            "Nombre_Ingles": "Black Hawk-Eagle",
+            "Vocalizacion": "Emite llamados agudos y potentes, “Fu – Fiuu…”, “fu – fu – fiuu…”, “Fu… Fu Fu Fiuu…”",
+            "Distribucion": "< 2000 m.s.n.m",
+            "Tamano": "60-70 cm",
+            "Imagen_Ave": "029/Ave029.webp",
+            "Sonidos": ["029/Aud029.mp3"],
+            "Alimentos": ["Anfi", "Rat", "Paj"]
+        },
+        
+        {
+            "Codigo":"030",
+            "Nombre_Comun": "Águila coronada",
+            "Nombre_Cientifico": "Spizaetus ornatus",
+            "Orden": "Accipitriforme",
+            "Familia": "Accipitridae",
+            "Nombre_Ingles": "Ornate Hawk-Eagle",
+            "Vocalizacion": "Llamados explosivos y seguidos “Ki – Ki – Ki – Kio”",
+            "Distribucion": "< 2400 m.s.n.m",
+            "Tamano": "60-70 cm",
+            "Imagen_Ave": "030/Ave030.webp",
+            "Sonidos": ["030/Aud030.mp3"],
+            "Alimentos": ["Anfi", "Rat", "Paj"]
+        },   
+        
+        {
+            "Codigo":"031",
+            "Nombre_Comun": "Águila real de montaña / Águila crestada",
+            "Nombre_Cientifico": "Spizaetus isidori",
+            "Orden": "Accipitriforme",
+            "Familia": "Accipitridae",
+            "Nombre_Ingles": "Black-and-chestnut Eagle",
+            "Vocalizacion": "Chillidos fuertes “Wui-o… Wui-o… Wui-o…”",
+            "Distribucion": "1500 - 3500 m.s.n.m.",
+            "Tamano": "60-80 cm",
+            "Imagen_Ave": "031/Ave031.webp",
+            "Sonidos": ["031/Aud031.mp3"],
+            "Alimentos": ["Anfi", "Rat", "Paj"]
+        },
+        
+        {
+            "Codigo":"032",
+            "Nombre_Comun": "Azor cordillerano",
+            "Nombre_Cientifico": "Accipiter striatus",
+            "Orden": "Accipitriforme",
+            "Familia": "Accipitridae",
+            "Nombre_Ingles": "Sharp-shinned Hawk",
+            "Vocalizacion": "Serie aguda y repetitiva “Cui-Cui-Cui-Cui-Cui…”",
+            "Distribucion": "1200 – 3500 m.s.n.m",
+            "Tamano": "28-35 cm",
+            "Imagen_Ave": "032/Ave032.webp",
+            "Sonidos": ["032/Aud032.mp3"],
+            "Alimentos": ["Anfi", "Rat", "Paj"]
+        }, 
+        
+        
+        {
+            "Codigo":"033",
+            "Nombre_Comun": "Gavilán caminero",
+            "Nombre_Cientifico": "Rupornis magnirostris",
+            "Orden": "Accipitriforme",
+            "Familia": "Accipitridae",
+            "Nombre_Ingles": "Roadside Hawk",
+            "Vocalizacion": "Sonido explosivo y agudo “Cuuuííooo… Cuuuííooo…” o “Cuí - Cuí - Cuí – Cuí” Muy seguido y acentuado en la “í”",
+            "Distribucion": "< 2700 m.s.n.m",
+            "Tamano": "33-40 cm",
+            "Imagen_Ave": "033/Ave033.webp",
+            "Sonidos": ["033/Aud033-1.mp3", "033/Aud033-2.mp3", "033/Aud033-3.mp3"],
+            "Alimentos": ["Anfi", "Insec", "Rat", "Paj", "Pisci"]
+        }, 
+        
+        
+        {
+            "Codigo":"034",
+            "Nombre_Comun": "Águila paramuna",
+            "Nombre_Cientifico": "Geranoaetus melanoleucus",
+            "Orden": "Accipitriforme",
+            "Familia": "Accipitridae",
+            "Nombre_Ingles": "Black-chested Buzzard-Eagle",
+            "Vocalizacion": "Emite llamados cortos en forma de graznido o chillido",
+            "Distribucion": "1600 - 3500 m.s.n.m",
+            "Tamano": "60-75 cm",
+            "Imagen_Ave": "034/Ave034.webp",
+            "Sonidos": [ ],
+            "Alimentos": ["Anfi", "Insec", "Rat", "Paj"]
+        },
+
+        {
+            "Codigo":"035",
+            "Nombre_Comun": "Currucutú común",
+            "Nombre_Cientifico": "Megascops choliba",
+            "Orden": "Strigiforme",
+            "Familia": "Strigidae",
+            "Nombre_Ingles": "Tropical Screech-Owl",
+            "Vocalizacion": "Referencia onomatopéyica a su nombre común, “Currurru […] Cú”. El inicio del canto es repetido rápida e intensamente, para terminar en un “Hú” o “Cú” acentuado",
+            "Distribucion": "2700 m.s.n.m",
+            "Tamano": "23 cm",
+            "Imagen_Ave": "035/Ave035.webp",
+            "Sonidos": ["035/Aud035.mp3"],
+            "Alimentos": ["Crusta", "Insec", "Rat"]
+        },    
+        
+        {
+            "Codigo":"036",
+            "Nombre_Comun": "Búho de anteojos",
+            "Nombre_Cientifico": "Pulsatrix perspicillata",
+            "Orden": "Strigiforme",
+            "Familia": "Strigidae",
+            "Nombre_Ingles": "Spectacled Owl",
+            "Vocalizacion": "“Hub – hub – hub – hub…” Acentuado al principio, la nota se alarga y pierde un poco de intensidad al final",
+            "Distribucion": "< 1500 m.s.n.m",
+            "Tamano": "43-52 cm",
+            "Imagen_Ave": "036/Ave036.webp",
+            "Sonidos": [ ],
+            "Alimentos": ["Anfi", "Insec", "Rat"]
+        },  
+        
+        {
+            "Codigo":"037",
+            "Nombre_Comun": "Búho moteado",
+            "Nombre_Cientifico": "Ciccaba virgata",
+            "Orden": "Strigiforme",
+            "Familia": "Strigidae",
+            "Nombre_Ingles": "Mottled Owl",
+            "Vocalizacion": "Serie de alrededor de 5 notas, ulula en alto tono “Uhú – Uhú – Uhú – Uhú - Uhú…”.  La última nota un poco más fuerte",
+            "Distribucion": "< 1500 m.s.n.m < 2300 m.s.n.m",
+            "Tamano": "30-35 cm",
+            "Imagen_Ave": "037/Ave037.webp",
+            "Sonidos": ["037/Aud037-1.mp3", "037/Aud037-2.mp3"],
+            "Alimentos": ["Anfi", "Insec", "Rat"]
+        }, 
+        
+        {
+            "Codigo":"038",
+            "Nombre_Comun": "Quetzal cabecidorado",
+            "Nombre_Cientifico": "Pharomachrus auriceps",
+            "Orden": "Trogoniforme",
+            "Familia": "Trogonidae",
+            "Nombre_Ingles": "Golden-headed Quetzal",
+            "Vocalizacion": "Su canto se compone de dos frases en forma de silbidos intensos “Ju-Ju-ú… Ju-Ju-ú…”",
+            "Distribucion": "1200 - 2800 m.s.n.m",
+            "Tamano": "36 cm",
+            "Imagen_Ave": "038/Ave038.webp",
+            "Sonidos": ["038/Aud038.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq"]
+        },  
+        
+        {
+            "Codigo":"039",
+            "Nombre_Comun": "Trogón collarejo",
+            "Nombre_Cientifico": "Trogon collaris",
+            "Orden": "Trogoniforme",
+            "Familia": "Trogonidae",
+            "Nombre_Ingles": "Collared trogon",
+            "Vocalizacion": "Silbido grave que contiene entre 3 y 6 notas “Ju-Ju…Ju…Jú”.",
+            "Distribucion": "< 2500 m.s.n.m",
+            "Tamano": "26 cm",
+            "Imagen_Ave": "039/Ave039.webp",
+            "Sonidos": ["039/Aud039-1.mp3", "039/Aud039-2.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+        },
+
+        
+        {
+            "Codigo":"040",
+            "Nombre_Comun": "Barranquero coronado",
+            "Nombre_Cientifico": "Momotus aequatorialis",
+            "Orden": "Coraciiforme",
+            "Familia": "Momotidae",
+            "Nombre_Ingles": "Andean Motmot",
+            "Vocalizacion": "Emite diferentes llamados principalmente al amanecer y al anochecer “Jurup… Jurup… Jurup”, En época de cortejo o en disputas territoriales emiten chasquidos fuertes",
+            "Distribucion": "1300 - 3000 m.s.n.m",
+            "Tamano": "48 cm",
+            "Imagen_Ave": "040/Ave040.webp",
+            "Sonidos": ["040/Aud040-1.mp3", "040/Aud040-2.mp3", "040/Aud040-3.mp3"],
+            "Alimentos": ["Anfi", "Crusta", "Insec", "Rat"]
+        },
+
+        {
+            "Codigo":"041",
+            "Nombre_Comun": "Torito cabecirrojo",
+            "Nombre_Cientifico": "Eubucco bourcierii",
+            "Orden": "Piciforme",
+            "Familia": "Capitonidae",
+            "Nombre_Ingles": "Red-headed Barbet",
+            "Vocalizacion": "Similar a un timbre de teléfono, de tonalidad grave “Rrrruu… Rrrruu…”.",
+            "Distribucion": "900 – 2500 m.s.n.m",
+            "Tamano": "15.5 cm",
+            "Imagen_Ave": "041/Ave041.webp",
+            "Sonidos": ["041/Aud041.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+        },        
+                
+        
+        {
+            "Codigo":"042",
+            "Nombre_Comun": "Tucancito esmeralda",
+            "Nombre_Cientifico": "Aulacorhynchus prasinus",
+            "Orden": "Piciforme",
+            "Familia": "Ramphastidae",
+            "Nombre_Ingles": "Emerald Toucanet",
+            "Vocalizacion": "Realiza llamados fuertes, similares a ladridos o crujidos repetitivos “Cruak-Cruak-Cruak-Cruak…”.",
+            "Distribucion": "1500 - 3300 m.s.n.m",
+            "Tamano": "31-37 cm",
+            "Imagen_Ave": "042/Ave042.webp",
+            "Sonidos": ["042/Aud042.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Huevos", "Anfi"]
+        },
+        
+        {
+            "Codigo":"043",
+            "Nombre_Comun": "Tucancito rabirrojo",
+            "Nombre_Cientifico": "Aulacorhynchus haematopygus",
+            "Orden": "Piciforme",
+            "Familia": "Ramphastidae",
+            "Nombre_Ingles": "Crimson-rumped Toucanet",
+            "Vocalizacion": "Similar a A. Prasinus, los intervalos entre llamados son más lentos y algo más graves.",
+            "Distribucion": "600 - 2200 m.s.n.m",
+            "Tamano": "40-45 cm",
+            "Imagen_Ave": "043/Ave043.webp",
+            "Sonidos": ["043/Aud043.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Huevos", "Anfi"]
+        }, 
+        
+        {
+            "Codigo":"044",
+            "Nombre_Comun": "Terlaque pechiazul",
+            "Nombre_Cientifico": "Andigena nigrirostris",
+            "Orden": "Piciforme",
+            "Familia": "Ramphastidae",
+            "Nombre_Ingles": "Black-billed Mountain-Toucan",
+            "Vocalizacion": "Se comunica a través de diferentes sonidos, el más común es similar a una bocina con trémolo “Cu-eh… Cu-eh…”, emite chasquidos con su lengua como matraqueos seguidos y fuertes, al mismo tiempo, realiza movimientos de cabeza y cuerpo desde una percha",
+            "Distribucion": "1200 - 3000 m.s.n.m",
+            "Tamano": "48 cm",
+            "Imagen_Ave": "044/Ave044.webp",
+            "Sonidos": ["044/Aud044.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+        },   
+        
+        {
+            "Codigo":"045",
+            "Nombre_Comun": "Carpinterito punteado",
+            "Nombre_Cientifico": "Picumnus Granadensis",
+            "Orden": "Piciforme",
+            "Familia": "Picidae",
+            "Nombre_Ingles": "Grayish Piculet",
+            "Vocalizacion": "Trino corto, dos segundos aproximadamente “Ririririririri…”.",
+            "Distribucion": "500 - 2200 m.s.n.m",
+            "Tamano": "9.5 cm",
+            "Imagen_Ave": "045/Ave045.webp",
+            "Sonidos": ["045/Aud045.mp3"],
+            "Alimentos": ["Insec"]
+        },  
+        
+        {
+            "Codigo":"046",
+            "Nombre_Comun": "Carpintero payaso",
+            "Nombre_Cientifico": "Melanerpes formicivorus",
+            "Orden": "Piciforme",
+            "Familia": "Picidae",
+            "Nombre_Ingles": "Acorn Woodpecker",
+            "Vocalizacion": "Similar a una risa “Cra – Cra - Crá… Cra – Cra - Crá…”.",
+            "Distribucion": "1400 - 2700 m.s.n.m",
+            "Tamano": "23 cm",
+            "Imagen_Ave": "046/Ave046.webp",
+            "Sonidos": ["046/Aud046.mp3"],
+            "Alimentos": ["FrutPeq", "Insec", "Anfi", "Nectari", "Semllas"]
+        },  
+        
+        {
+            "Codigo":"047",
+            "Nombre_Comun": "Carpintero habado",
+            "Nombre_Cientifico": "Melanerpes rubricapillus",
+            "Orden": "Piciforme",
+            "Familia": "Picidae",
+            "Nombre_Ingles": "Red-crowned Woodpecker",
+            "Vocalizacion": "Llamado fuerte, sostenido en la “r” “Chirrrr… Chirrrr… Chirrrr…”.",
+            "Distribucion": "< 2000 m.s.n.m",
+            "Tamano": "18 cm",
+            "Imagen_Ave": "047/Ave047.webp",
+            "Sonidos": ["047/Aud047.mp3"],
+            "Alimentos": ["FrutPeq", "Insec", "Anfi", "Nectari", "Semllas"]
+        },
+
+        {
+            "Codigo":"048",
+            "Nombre_Comun": "Carpintero ahumado",
+            "Nombre_Cientifico": "Picoides fumigatus",
+            "Orden": "Piciforme",
+            "Familia": "Picidae",
+            "Nombre_Ingles": "Smoky-brown Woodpecker",
+            "Vocalizacion": "Series de pocos segundos, “Crrrr… Crrrr…”.",
+            "Distribucion": "800 - 2800 m.s.n.m",
+            "Tamano": "17 cm",
+            "Imagen_Ave": "048/Ave048.webp",
+            "Sonidos": ["048/Aud048.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+        }, 
+        
+        {
+            "Codigo":"049",
+            "Nombre_Comun": "Carpintero cariblanco",
+            "Nombre_Cientifico": "Colaptes rubiginosus",
+            "Orden": "Piciforme",
+            "Familia": "Picidae",
+            "Nombre_Ingles": "Golden-olive Woodpecker",
+            "Vocalizacion": "Similar al trémolo de los carpinteros, la distancia entre notas es más larga que Colaptes punctigula. “Prrrrrr… Prrrrrr…”.",
+            "Distribucion": "900 - 3000 m.s.n.m",
+            "Tamano": "23 cm",
+            "Imagen_Ave": "049/Ave049.webp",
+            "Sonidos": ["049/Aud049.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+        },    
+
+
+        {
+            "Codigo":"050",
+            "Nombre_Comun": "Carpintero cariblanco",
+            "Nombre_Cientifico": "Colaptes punctigula",
+            "Orden": "Piciforme",
+            "Familia": "Picidae",
+            "Nombre_Ingles": "Spot-breasted Woodpecker",
+            "Vocalizacion": "Llamado fuerte muy acentuado en la “í” “Rí-rí-rí-rí-rí-rí”.",
+            "Distribucion": "< 1800 m.s.n.m",
+            "Tamano": "20 cm",
+            "Imagen_Ave": "050/Ave050.webp",
+            "Sonidos": ["050/Aud050.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+        }, 
+
+
+        {
+            "Codigo":"051",
+            "Nombre_Comun": "Carpintero real",
+            "Nombre_Cientifico": "Dryocopus lineatus",
+            "Orden": "Piciforme",
+            "Familia": "Picidae",
+            "Nombre_Ingles": "Lineated Woodpecker",
+            "Vocalizacion": "Es posible diferenciarlo gracias a sus explosivos llamados “Uíuíuíuíuíuí… Uíuíuíuíuíuí…” también, “Kiurrrrr…”. Así como también, por su fuerte martilleo",
+            "Distribucion": "< 2300 m.s.n.m",
+            "Tamano": "33 cm",
+            "Imagen_Ave": "051/Ave051.webp",
+            "Sonidos": ["051/Aud051.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Semllas"]
+        },
+
+        {
+            "Codigo":"052",
+            "Nombre_Comun": "Pigua",
+            "Nombre_Cientifico": "Milvago chimachima",
+            "Orden": "Falconiforme",
+            "Familia": "Falconidae",
+            "Nombre_Ingles": "Yellow-headed Caracara",
+            "Vocalizacion": "Bastante ruidosa, graznidos fuertes y repetitivos, pueden ser cortos o alargados “Cuig-Cuig-Cuig… Cuig-Cuig-Cuig…”.",
+            "Distribucion": "< 2700 m.s.n.m",
+            "Tamano": "40-45 cm",
+            "Imagen_Ave": "052/Ave052.webp",
+            "Sonidos": ["052/Aud052.mp3"],
+            "Alimentos": ["Anfi", "Crusta", "Gran", "FrutPeq", "Insec", "Pisci", "Rat", "Semllas"]
+        },  
+        
+        {
+            "Codigo":"053",
+            "Nombre_Comun": "Halcón murcielaguero",
+            "Nombre_Cientifico": "Falco rufigularis",
+            "Orden": "Falconiforme",
+            "Familia": "Falconidae",
+            "Nombre_Ingles": "Bat Falcon",
+            "Vocalizacion": "Serie larga de llamadas agudas “Ki–Ki–Ki–Ki–Ki–Ki–Ki–Ki”",
+            "Distribucion": "< 2600 m.s.n.m",
+            "Tamano": "40-45 cm",
+            "Imagen_Ave": "053/Ave053.webp",
+            "Sonidos": [ ],
+            "Alimentos": ["Anfi", "Insec", "Rat"]
+        }, 
+
+        {
+            "Codigo":"054",
+            "Nombre_Comun": "Halcón plomizo",
+            "Nombre_Cientifico": "Falco femoralis",
+            "Orden": "Falconiforme",
+            "Familia": "Falconidae",
+            "Nombre_Ingles": "Aplomado falcon",
+            "Vocalizacion": "Serie larga, cada nota se repite despacio “Cue – Cue – Cue – Cue – Cue – Cue”",
+            "Distribucion": "< 2000 m.s.n.m",
+            "Tamano": "38 cm",
+            "Imagen_Ave": "054/Ave054.webp",
+            "Sonidos": ["054/Aud054.mp3"],
+            "Alimentos": ["Anfi", "Insec", "Rat"]
+        },
+        
+        {
+            "Codigo":"055",
+            "Nombre_Comun": "Periquito bronceado",
+            "Nombre_Cientifico": "Brotogeris jugularis",
+            "Orden": "Psittaciforme",
+            "Familia": "Psittacidae",
+            "Nombre_Ingles": "Orange-chinned Parakeet",
+            "Vocalizacion": "Parloteos agudos y seguidos de forma desordenada “¡Krikri! – Krikri!”",
+            "Distribucion": "< 1500 m.s.n.m",
+            "Tamano": "18.5 cm",
+            "Imagen_Ave": "055/Ave055.webp",
+            "Sonidos": ["055/Aud055.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Gran", "Nectari", "Semllas"]
+        },        
+        
+
+        {
+            "Codigo":"056",
+            "Nombre_Comun": "Lora cabeciazul / Cotorra cheja",
+            "Nombre_Cientifico": "Pionus menstruus",
+            "Orden": "Psittaciforme",
+            "Familia": "Psittacidae",
+            "Nombre_Ingles": "Blue-headed Parrot",
+            "Vocalizacion": "Ruidosa en vuelo o en percha, parloteos estridentes y repetitivos",
+            "Distribucion": "< 2000 m.s.n.m",
+            "Tamano": "26 cm",
+            "Imagen_Ave": "056/Ave056.webp",
+            "Sonidos": ["056/Aud056-1.mp3", "056/Aud056-2.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Gran", "Nectari", "Semllas"]
+        }, 
+        
+        {
+            "Codigo":"057",
+            "Nombre_Comun": "Periquito de anteojos",
+            "Nombre_Cientifico": "Forpus conspicillatus",
+            "Orden": "Psittaciforme",
+            "Familia": "Psittacidae",
+            "Nombre_Ingles": "Spectacled Parrotlet",
+            "Vocalizacion": "Llamados fuertes, cortos y agudos “Tibí - Tibí - Tibí…”.",
+            "Distribucion": "< 2600 m.s.n.m",
+            "Tamano": "12.5 cm",
+            "Imagen_Ave": "057/Ave057.webp",
+            "Sonidos": ["057/Aud057-1.mp3", "057/Aud057-2.mp3", "057/Aud057-3.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Gran", "Nectari", "Semllas"]
+        },     
+        
+        
+        {
+            "Codigo":"058",
+            "Nombre_Comun": "Lora frentiroja",
+            "Nombre_Cientifico": "Psittacara wagleri",
+            "Orden": "Psittaciforme",
+            "Familia": "Psittacidae",
+            "Nombre_Ingles": "Scarlet-fronted Parakeet",
+            "Vocalizacion": "Parloteos fuertes y chirridos, emiten llamados en vuelo, también mientras se agrupan para alimentarse en arboles fructificados",
+            "Distribucion": "500 – 2600 m.s.n.m",
+            "Tamano": "35 cm",
+            "Imagen_Ave": "058/Ave058.webp",
+            "Sonidos": ["058/Aud058-1.mp3", "058/Aud058-2.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Gran", "Nectari", "Semllas"]
+        },  
+        
+        {
+            "Codigo":"059",
+            "Nombre_Comun": "Batará mayor (Macho)",
+            "Nombre_Cientifico": "Taraba major",
+            "Orden": "Passeriforme",
+            "Familia": "Thamnophilidae",
+            "Nombre_Ingles": "Great Antshrike",
+            "Vocalizacion": "Su nombre común, hace referencia a su canto, si bien emite diferentes vocalizaciones, el más común, es un gorgoteo similar a la caída de una canica en el suelo, finalizando en un crujido nasal. “Hu-hu-hu-hu-hu… cruack”",
+            "Distribucion": "< 1500 m.s.n.m",
+            "Tamano": "19.5 cm",
+            "Imagen_Ave": "059/Ave059.webp",
+            "Sonidos": ["059/Aud059.mp3"],
+            "Alimentos": ["Anfi", "Crusta", "Insec"]
+        },   
+        
+        {
+            "Codigo":"060",
+            "Nombre_Comun": "Batará mayor (hembra)",
+            "Nombre_Cientifico": "Taraba major",
+            "Orden": "Passeriforme",
+            "Familia": "Thamnophilidae",
+            "Nombre_Ingles": "Great Antshrike",
+            "Vocalizacion": "Su nombre común, hace referencia a su canto, si bien emite diferentes vocalizaciones, el más común, es un gorgoteo similar a la caída de una canica en el suelo, finalizando en un crujido nasal. “Hu-hu-hu-hu-hu… cruack”",
+            "Distribucion": "< 1500 m.s.n.m",
+            "Tamano": "19.5 cm",
+            "Imagen_Ave": "060/Ave060.webp",
+            "Sonidos": ["059/Aud059.mp3"],
+            "Alimentos": ["Anfi", "Crusta", "Insec"]
+        }, 
+
+        {
+            "Codigo":"061",
+            "Nombre_Comun": "Batará carcajada (macho)",
+            "Nombre_Cientifico": "Thamnophilus multistriatus",
+            "Orden": "Passeriforme",
+            "Familia": "Thamnophilidae",
+            "Nombre_Ingles": "Bar-crested Antshrike",
+            "Vocalizacion": "Al igual que otros batarás, hace referencia onomatopéyica a su nombre común, similar a la caída de una canica",
+            "Distribucion": "< 2000 m.s.n.m",
+            "Tamano": "16 cm",
+            "Imagen_Ave": "061/Ave061.webp",
+            "Sonidos": ["061/Aud061-1.mp3", "061/Aud061-2.mp3", "061/Aud061-3.mp3"],
+            "Alimentos": ["Insec", "Semllas"]
+        },
+        
+        {
+            "Codigo":"062",
+            "Nombre_Comun": "Batará carcajada (hembra)",
+            "Nombre_Cientifico": "Thamnophilus multistriatus",
+            "Orden": "Passeriforme",
+            "Familia": "Thamnophilidae",
+            "Nombre_Ingles": "Bar-crested Antshrike",
+            "Vocalizacion": "Al igual que otros batarás, hace referencia onomatopéyica a su nombre común, similar a la caída de una canica",
+            "Distribucion": "< 2000 m.s.n.m",
+            "Tamano": "16 cm",
+            "Imagen_Ave": "062/Ave062.webp",
+            "Sonidos": ["061/Aud061-1.mp3", "061/Aud061-2.mp3", "061/Aud061-3.mp3"],
+            "Alimentos": ["Insec", "Semllas"]
+        },
+        
+        {
+            "Codigo":"063",
+            "Nombre_Comun": "Batará occidental",
+            "Nombre_Cientifico": "Thamnophilus atrinucha",
+            "Orden": "Passeriforme",
+            "Familia": "Thamnophilidae",
+            "Nombre_Ingles": "Black-crowned Antshrike",
+            "Vocalizacion": "Gorgoteo similar a otras especies de batará, pero el final de la serie termina en una exclamación “hu-hu-hu-hu-hu… Juii”",
+            "Distribucion": "< 1400 m.s.n.m",
+            "Tamano": "15 cm",
+            "Imagen_Ave": "063/Ave063.webp",
+            "Sonidos": ["063/Aud063-1.mp3", "063/Aud063-2.mp3"],
+            "Alimentos": ["Anfi", "Insec"]
+        },
+
+        {
+            "Codigo":"064",
+            "Nombre_Comun": "Hormiguero tiznado",
+            "Nombre_Cientifico": "Dysithamnus mentalis",
+            "Orden": "Passeriforme",
+            "Familia": "Thamnophilidae",
+            "Nombre_Ingles": "Plain Antvireo",
+            "Vocalizacion": "Serie de notas similares, el tiempo de nota a nota varía simulando la caída de una canica “fiú-fiú-fiú-fiú-fiú…”. Más corta la distancia entre notas al final de la serie",
+            "Distribucion": "400 – 2300 m.s.n.m",
+            "Tamano": "12 cm",
+            "Imagen_Ave": "064/Ave064.webp",
+            "Sonidos": ["064/Aud064.mp3"],
+            "Alimentos": ["FrutPeq", "Insec"]
+        },   
+        
+        
+        {
+            "Codigo":"065",
+            "Nombre_Comun": "Hormiguero de Parker",
+            "Nombre_Cientifico": "Cercomacroides parkeri",
+            "Orden": "Passeriforme",
+            "Familia": "Thamnophilidae",
+            "Nombre_Ingles": "Parker´s Antbird",
+            "Vocalizacion": "Serie aguda similar a Thamnophilus, “Wi… í – í – í – í – í – a – o”",
+            "Distribucion": "1200 – 2000 m.s.n.m",
+            "Tamano": "14 cm",
+            "Imagen_Ave": "065/Ave065.webp",
+            "Sonidos": ["065/Aud065.mp3"],
+            "Alimentos": ["Insec"]
+        },    
+        
+        {
+            "Codigo":"066",
+            "Nombre_Comun": "Hormiguero yeguá",
+            "Nombre_Cientifico": "Cercomacra nigricans",
+            "Orden": "Passeriforme",
+            "Familia": "Thamnophilidae",
+            "Nombre_Ingles": "Jet Antbird",
+            "Vocalizacion": "Serie repetitiva muy distintiva “Chicuá – Chicuá – Chicuá…”",
+            "Distribucion": "< 1500 m.s.n.m",
+            "Tamano": "15 cm",
+            "Imagen_Ave": "066/Ave066.webp",
+            "Sonidos": ["066/Aud066.mp3"],
+            "Alimentos": ["Insec"]
+        },
+        
+        {
+            "Codigo":"067",
+            "Nombre_Comun": "Hormiguero inmaculado",
+            "Nombre_Cientifico": "Hafferia immaculata",
+            "Orden": "Passeriforme",
+            "Familia": "Thamnophilidae",
+            "Nombre_Ingles": "Blue-lored Antbird",
+            "Vocalizacion": "Silbidos potentes agudos y seguidos “Fíu…Fíu…Fíu…Fíu…”",
+            "Distribucion": "600 – 1800 m.s.n.m",
+            "Tamano": "18 cm",
+            "Imagen_Ave": "067/Ave067.webp",
+            "Sonidos": ["067/Aud067.mp3"],
+            "Alimentos": ["Anfi", "Insec"]
+        },
+        
+        {
+            "Codigo":"068",
+            "Nombre_Comun": "Tororoi dorsiescamado",
+            "Nombre_Cientifico": "Grallaria guatimalensis",
+            "Orden": "Passeriforme",
+            "Familia": "Grallariidae",
+            "Nombre_Ingles": "Scaled Antpitta",
+            "Vocalizacion": "VibRato sostenido por unos segundos “Juuururururu…”",
+            "Distribucion": "< 2000 m.s.n.m",
+            "Tamano": "17 cm",
+            "Imagen_Ave": "068/Ave068.webp",
+            "Sonidos": ["068/Aud068.mp3"],
+            "Alimentos": ["Anfi", "Insec"]
+        },  
+        
+        {
+            "Codigo":"069",
+            "Nombre_Comun": "Tororoi comprapán",
+            "Nombre_Cientifico": "Grallaria ruficapilla",
+            "Orden": "Passeriforme",
+            "Familia": "Grallariidae",
+            "Nombre_Ingles": "Chestnut-crowned Antpitta",
+            "Vocalizacion": "3 notas melódicas, onomatopeya de su nombre común “Fi…Fu…Fiu…”",
+            "Distribucion": "1200 – 3200 m.s.n.m",
+            "Tamano": "19 cm",
+            "Imagen_Ave": "069/Ave069.webp",
+            "Sonidos": ["069/Aud069.mp3"],
+            "Alimentos": ["Anfi", "Insec"]
+        },
+        
+        {
+            "Codigo":"070",
+            "Nombre_Comun": "Trepatroncos cocoa",
+            "Nombre_Cientifico": "Xiphorhynchus susurrans",
+            "Orden": "Passeriforme",
+            "Familia": "Furnariidae",
+            "Nombre_Ingles": "Cocoa Woodcreeper",
+            "Vocalizacion": "Silbidos agudos y fuertes; las notas son más seguidas al principio de la serie y se acentúan al final. “Fí-Fí-Fí-Fí-Fí…Fí…Fí…”",
+            "Distribucion": "< 1700 m.s.n.m",
+            "Tamano": "24 cm",
+            "Imagen_Ave": "070/Ave070.webp",
+            "Sonidos": ["070/Aud070.mp3"],
+            "Alimentos": ["Anfi", "Insec"]
+        },  
+        
+        {
+            "Codigo":"071",
+            "Nombre_Comun": "Trepatroncos campestre",
+            "Nombre_Cientifico": "Lepidocolaptes souleyetii",
+            "Orden": "Passeriforme",
+            "Familia": "Furnariidae",
+            "Nombre_Ingles": "Streak-headed Woodcreeper",
+            "Vocalizacion": "Fuerte “Piriririri…” ejecuciones cortas, de 1 a 2 segundos. Repetitivo",
+            "Distribucion": "< 1400 m.s.n.m",
+            "Tamano": "19.5 cm",
+            "Imagen_Ave": "071/Ave071.webp",
+            "Sonidos": ["071/Aud071.mp3"],
+            "Alimentos": ["Anfi", "Insec", "FrutPeq"]
+        },
+        
+        {
+            "Codigo":"072",
+            "Nombre_Comun": "Rastrojero rubicundo",
+            "Nombre_Cientifico": "Cranioleuca erythrops",
+            "Orden": "Passeriforme",
+            "Familia": "Furnariidae",
+            "Nombre_Ingles": "Red-faced Spinetail",
+            "Vocalizacion": "Trino repetitivo e intenso, “Tititi - tiririri…”",
+            "Distribucion": "1000 - 2200 m.s.n.m",
+            "Tamano": "14.5 cm",
+            "Imagen_Ave": "072/Ave072.webp",
+            "Sonidos": ["072/Aud072.mp3"],
+            "Alimentos": ["Insec", "FrutPeq"]
+        },   
+        
+        {
+            "Codigo":"073",
+            "Nombre_Comun": "Rastrojero pizarra",
+            "Nombre_Cientifico": "Synallaxis brachyura",
+            "Orden": "Passeriforme",
+            "Familia": "Furnariidae",
+            "Nombre_Ingles": "Slaty Spinetail",
+            "Vocalizacion": "Trino grabe o gorgoteo “Chug-chug-chug-chug-chug…”, más acentuado y acelerado al final",
+            "Distribucion": "< 1800 m.s.n.m",
+            "Tamano": "15 cm",
+            "Imagen_Ave": "073/Ave073.webp",
+            "Sonidos": ["073/Aud073.mp3"],
+            "Alimentos": ["Insec"]
+        },   
+        
+        {
+            "Codigo":"074",
+            "Nombre_Comun": "Rastrojero pálido",
+            "Nombre_Cientifico": "Synallaxis albescens",
+            "Orden": "Passeriforme",
+            "Familia": "Furnariidae",
+            "Nombre_Ingles": "Pale-breasted Spinetail",
+            "Vocalizacion": "Bastante ruidoso e insistente, “Ueic-ap…Ueic-ap…Ueic-ap…”",
+            "Distribucion": "< 2000 m.s.n.m",
+            "Tamano": "14 cm",
+            "Imagen_Ave": "074/Ave074.webp",
+            "Sonidos": ["074/Aud074.mp3"],
+            "Alimentos": ["Insec"]
+        }, 
+        
+        {
+            "Codigo":"075",
+            "Nombre_Comun": "Rastrojero de azara / Chamicero piscuís",
+            "Nombre_Cientifico": "Synallaxis azarae",
+            "Orden": "Passeriforme",
+            "Familia": "Furnariidae",
+            "Nombre_Ingles": "Azara´s Spinetail",
+            "Vocalizacion": "Si bien es difícil de observar, es común escuchar su canto característico, el cual, es una referencia onomatopéyica de su nombre común “Pis - cuís… Pis – cuís…”, repetitivo e intenso",
+            "Distribucion": "1300 – 3200 m.s.n.m",
+            "Tamano": "16 cm",
+            "Imagen_Ave": "075/Ave075.webp",
+            "Sonidos": ["075/Aud075-1.mp3", "075/Aud075-2.mp3"],
+            "Alimentos": ["Insec"]
+        }, 
+        
+        {
+            "Codigo":"076",
+            "Nombre_Comun": "Mosquerito cabecigrís",
+            "Nombre_Cientifico": "Phyllomyias griseiceps",
+            "Orden": "Passeriforme",
+            "Familia": "Tyrannidae",
+            "Nombre_Ingles": "Sooty-headed Tyrannulet",
+            "Vocalizacion": "Frecuente vocalizando desde una percha “Pi-pi-pi-pu-wi” repetitivo",
+            "Distribucion": "< 1800 m.s.n.m",
+            "Tamano": "10 cm",
+            "Imagen_Ave": "076/Ave076.webp",
+            "Sonidos": ["076/Aud076-1.mp3", "076/Aud076-2.mp3"],
+            "Alimentos": ["Insec"]
+        },
+        
+        {
+            "Codigo":"077",
+            "Nombre_Comun": "Mosquerito coronado",
+            "Nombre_Cientifico": "Tyrannulus elatus",
+            "Orden": "Passeriforme",
+            "Familia": "Tyrannidae",
+            "Nombre_Ingles": "Yellow-crowned Tyrannulet",
+            "Vocalizacion": "Llamado fuerte y característico “Fi – Fiut…”",
+            "Distribucion": "< 1700 m.s.n.m",
+            "Tamano": "11 cm",
+            "Imagen_Ave": "077/Ave077.webp",
+            "Sonidos": ["077/Aud077.mp3"],
+            "Alimentos": ["Insec", "FrutPeq"]
+        },     
+        
+        {
+            "Codigo":"078",
+            "Nombre_Comun": "Elaenia copetona",
+            "Nombre_Cientifico": "Elaenia flavogaster",
+            "Orden": "Passeriforme",
+            "Familia": "Tyrannidae",
+            "Nombre_Ingles": "Yellow-bellied Elaenia",
+            "Vocalizacion": "llamado desordenado, en alto tono y áspero, “Ee-yee-up – Ee-yee-up” repetido",
+            "Distribucion": "< 2300 m.s.n.m",
+            "Tamano": "16.5 cm",
+            "Imagen_Ave": "078/Ave078.webp",
+            "Sonidos": [ ],
+            "Alimentos": ["Insec", "FrutPeq"]
+        },   
+        
+        {
+            "Codigo":"079",
+            "Nombre_Comun": "Atrapamoscas ocráceo / Patito de hule",
+            "Nombre_Cientifico": "Tyrannulus elatusMionectes oleagineus",
+            "Orden": "Passeriforme",
+            "Familia": "Tyrannidae",
+            "Nombre_Ingles": "Ochre-bellied Flycatcher",
+            "Vocalizacion": "Llamados repetitivos al defender su territorio, sonido chillón, similar al apretar un pato de hule “¡Cuip – Cuip – Cuip – Cuip!”",
+            "Distribucion": "< 1700 m.s.n.m",
+            "Tamano": "13 cm",
+            "Imagen_Ave": "079/Ave079.webp",
+            "Sonidos": ["079/Aud079.mp3"],
+            "Alimentos": ["Insec", "FrutPeq"]
+        },  
+        
+        {
+            "Codigo":"080",
+            "Nombre_Comun": "Tiranuelo matapalos / Tiranuelo cejiamarillo",
+            "Nombre_Cientifico": "Zimmerius chrysops",
+            "Orden": "Passeriforme",
+            "Familia": "Tyrannidae",
+            "Nombre_Ingles": "Golden-faced Tyrannulet",
+            "Vocalizacion": "Silbido simple y repetitivo “Piu…”, o intenso al principio de la serie y se va degradando “Pi…pi-pi-pi-pi…”",
+            "Distribucion": "500 – 2500 m.s.n.m",
+            "Tamano": "11 cm",
+            "Imagen_Ave": "080/Ave080.webp",
+            "Sonidos": ["080/Aud080.mp3"],
+            "Alimentos": ["Insec", "FrutPeq"]
+        },
+
+        {
+            "Codigo":"081",
+            "Nombre_Comun": "Tiranuelo pileado",
+            "Nombre_Cientifico": "Lophotriccus pileatus",
+            "Orden": "Passeriforme",
+            "Familia": "Tyrannidae",
+            "Nombre_Ingles": "Scale-crested Pygmy-Tyrant",
+            "Vocalizacion": "Pitidos repetitivos y agudos “Tip-Tip-Tip…” o “¡Priiip!”.",
+            "Distribucion": "400 - 2400 m.s.n.m",
+            "Tamano": "9.7 cm",
+            "Imagen_Ave": "081/Ave081.webp",
+            "Sonidos": ["081/Aud081-1.mp3", "081/Aud081-2.mp3", "081/Aud081-3.mp3"],
+            "Alimentos": ["Insec"]
+        },        
+
+        {
+            "Codigo":"082",
+            "Nombre_Comun": "Espatulilla rastrojera / Titirijí gris",
+            "Nombre_Cientifico": "Poecilotriccus Sylvia",
+            "Orden": "Passeriforme",
+            "Familia": "Tyrannidae",
+            "Nombre_Ingles": "Slate-headed Tody-Flycatcher",
+            "Vocalizacion": "Llamado simple de sonido rasgado, repetitivo “Prríu… Prríu… “.",
+            "Distribucion": "< 1300 m.s.n.m",
+            "Tamano": "9.5 cm",
+            "Imagen_Ave": "082/Ave082.webp",
+            "Sonidos": ["082/Aud082.mp3"],
+            "Alimentos": ["Insec", "FrutPeq"]
+        },        
+
+        {
+            "Codigo":"083",
+            "Nombre_Comun": "Espatulilla común",
+            "Nombre_Cientifico": "Todirostrum cinereum",
+            "Orden": "Passeriforme",
+            "Familia": "Tyrannidae",
+            "Nombre_Ingles": "Common Tody-Flycatcher",
+            "Vocalizacion": "Serie de 3 a 4 notas, repetitiva “TíTíTí… TíTíTí…”.",
+            "Distribucion": "< 2200 m.s.n.m",
+            "Tamano": "9.5 cm",
+            "Imagen_Ave": "083/Ave083.webp",
+            "Sonidos": ["083/Aud083.mp3"],
+            "Alimentos": ["Insec", "FrutPeq"]
+        }, 
+        
+        {
+            "Codigo":"084",
+            "Nombre_Comun": "Atrapamoscas guardapuentes / Mosquero negro",
+            "Nombre_Cientifico": "Sayornis nigricans",
+            "Orden": "Passeriforme",
+            "Familia": "Tyrannidae",
+            "Nombre_Ingles": "Black Phoebe",
+            "Vocalizacion": "Llamados repetitivos “Fibí… Prrí – Fibí… Prrí”.",
+            "Distribucion": "200 - 2800 m.s.n.m",
+            "Tamano": "16 cm",
+            "Imagen_Ave": "084/Ave084.webp",
+            "Sonidos": [ ],
+            "Alimentos": ["Insec", "FrutPeq"]
+        },
+
+        {
+            "Codigo":"085",
+            "Nombre_Comun": "Viudita común",
+            "Nombre_Cientifico": "Fluvicola pica",
+            "Orden": "Passeriforme",
+            "Familia": "Tyrannidae",
+            "Nombre_Ingles": "Pied Water-Tyrant",
+            "Vocalizacion": "“Chriioo…” Sonido nasal y rasgueado",
+            "Distribucion": "< 1200 m.s.n.m",
+            "Tamano": "13 cm",
+            "Imagen_Ave": "085/Ave085.webp",
+            "Sonidos": ["085/Aud085.mp3"],
+            "Alimentos": ["Insec"]
+        },
+
+        {
+            "Codigo":"086",
+            "Nombre_Comun": "Peti rojo",
+            "Nombre_Cientifico": "Pyrocephalus rubinus",
+            "Orden": "Passeriforme",
+            "Familia": "Tyrannidae",
+            "Nombre_Ingles": "Vermilion Flycatcher",
+            "Vocalizacion": "Serie corta y repetitiva “Titiribí… Titiribí…”",
+            "Distribucion": "< 2700 m.s.n.m",
+            "Tamano": "13 cm",
+            "Imagen_Ave": "086/Ave086.webp",
+            "Sonidos": ["086/Aud086.mp3"],
+            "Alimentos": ["Insec"]
+        }, 
+        
+        {
+            "Codigo":"087",
+            "Nombre_Comun": "Atrapamoscas ganadero",
+            "Nombre_Cientifico": "Machetornis rixosa",
+            "Orden": "Passeriforme",
+            "Familia": "Tyrannidae",
+            "Nombre_Ingles": "Cattle tyrant",
+            "Vocalizacion": "Series agudas similares a pitidos tenues “Sibí-Sibí-Sibí…”",
+            "Distribucion": "< 3200 m.s.n.m",
+            "Tamano": "19.5 cm",
+            "Imagen_Ave": "087/Ave087.webp",
+            "Sonidos": ["087/Aud087.mp3"],
+            "Alimentos": ["Insec", "Frugiv"]
+        },
+        
+        {
+            "Codigo":"088",
+            "Nombre_Comun": "Sirirí rayado",
+            "Nombre_Cientifico": "Myiodynastes maculatus",
+            "Orden": "Passeriforme",
+            "Familia": "Tyrannidae",
+            "Nombre_Ingles": "Streaked Flycatcher",
+            "Vocalizacion": "ruidoso, serie repetitiva “¡Chip-Chip-Chip!”",
+            "Distribucion": "< 1600 m.s.n.m",
+            "Tamano": "20.5 cm",
+            "Imagen_Ave": "088/Ave088.webp",
+            "Sonidos": ["088/Aud088-1.mp3", "088/Aud088-2.mp3"],
+            "Alimentos": ["Insec", "FrutPeq", "Anfi"]
+        }, 
+        
+        {
+            "Codigo":"089",
+            "Nombre_Comun": "Bichofué gritón",
+            "Nombre_Cientifico": "Pitangus sulphuRatus",
+            "Orden": "Passeriforme",
+            "Familia": "Tyrannidae",
+            "Nombre_Ingles": "Great kiskadee",
+            "Vocalizacion": "Referencia onomatopéyica del nombre común “Bi…chofuéé”. Muy ruidoso",
+            "Distribucion": "< 2600 m.s.n.m",
+            "Tamano": "22 cm",
+            "Imagen_Ave": "089/Ave089.webp",
+            "Sonidos": ["089/Aud089-1.mp3", "089/Aud089-2.mp3"],
+            "Alimentos": ["Insec", "Frugiv", "Anfi", "Crusta", "FrutPeq", "Pisci", "Rat", "Semllas"]
+        },
+        
+        
+        {
+            "Codigo":"090",
+            "Nombre_Comun": "Suelda crestinegra",
+            "Nombre_Cientifico": "Myiozetetes cayanensis",
+            "Orden": "Passeriforme",
+            "Familia": "Tyrannidae",
+            "Nombre_Ingles": "Rusty-margined Flycatcher",
+            "Vocalizacion": "Silbidos repetitivos “Weiii… Weiii”",
+            "Distribucion": "< 2200 m.s.n.m",
+            "Tamano": "17 cm",
+            "Imagen_Ave": "090/Ave090.webp",
+            "Sonidos": ["090/Aud090-1.mp3", "090/Aud090-2.mp3"],
+            "Alimentos": ["Insec", "FrutPeq"]
+        },
+
+        {
+            "Codigo":"091",
+            "Nombre_Comun": "Sirirí común",
+            "Nombre_Cientifico": "Tyrannus melancholicus",
+            "Orden": "Passeriforme",
+            "Familia": "Tyrannidae",
+            "Nombre_Ingles": "Tropical Kingbird",
+            "Vocalizacion": "Referencia onomatopéyica de su nombre común, “Sirirí-Sirirí”",
+            "Distribucion": "< 2800 m.s.n.m",
+            "Tamano": "22 cm",
+            "Imagen_Ave": "091/Ave091.webp",
+            "Sonidos": ["091/Aud091.mp3"],
+            "Alimentos": ["Insec", "FrutPeq", "Anfi"]
+        },
+
+        {
+            "Codigo":"092",
+            "Nombre_Comun": "Sirirí tijereta",
+            "Nombre_Cientifico": "Tyrannus savana",
+            "Orden": "Passeriforme",
+            "Familia": "Tyrannidae",
+            "Nombre_Ingles": "Fork-tailed Flycatcher",
+            "Vocalizacion": "Series agudas desordenadas y repetitivas",
+            "Distribucion": "< 3200 m.s.n.m",
+            "Tamano": "31 - 40 cm",
+            "Imagen_Ave": "092/Ave092.webp",
+            "Sonidos": ["092/Aud092.mp3"],
+            "Alimentos": ["Insec", "FrutPeq"]
+        },  
+        
+        {
+            "Codigo":"093",
+            "Nombre_Comun": "Atrapamoscas apical",
+            "Nombre_Cientifico": "Myiarchus apicalis",
+            "Orden": "Passeriforme",
+            "Familia": "Tyrannidae",
+            "Nombre_Ingles": "Apical flycatcher",
+            "Vocalizacion": "Llamado tremolado e intenso, repetitivo “Jurrrú Jrrr… Jurrrú”",
+            "Distribucion": "< 500 - 2200 m.s.n.m",
+            "Tamano": "17 cm",
+            "Imagen_Ave": "093/Ave093.webp",
+            "Sonidos": ["093/Aud093.mp3"],
+            "Alimentos": ["Insec", "FrutPeq"]
+        }, 
+
+        {
+            "Codigo":"094",
+            "Nombre_Comun": "Gallito de roca",
+            "Nombre_Cientifico": "Rupicola peruvianus",
+            "Orden": "Passeriforme",
+            "Familia": "Cotingidae",
+            "Nombre_Ingles": "Andean Cock-of-the-rock",
+            "Vocalizacion": "Sonido grave áspero y corto, se repite la misma serie “Grraauu…”",
+            "Distribucion": "500 - 2500 m.s.n.m",
+            "Tamano": "32 cm",
+            "Imagen_Ave": "094/Ave094.webp",
+            "Sonidos": ["094/Aud094.mp3"],
+            "Alimentos": ["Anfi", "FrutPeq", "Frugiv"]
+        }, 
+
+        {
+            "Codigo":"095",
+            "Nombre_Comun": "Cabezón aliblanco",
+            "Nombre_Cientifico": "Pachyramphus polychopterus",
+            "Orden": "Passeriforme",
+            "Familia": "Tityridae",
+            "Nombre_Ingles": "White-winged Becard",
+            "Vocalizacion": "Serie repetitiva “Diu-diu-diu… dudududú”",
+            "Distribucion": "< 2200 m.s.n.m",
+            "Tamano": "15 cm",
+            "Imagen_Ave": "095/Ave095.webp",
+            "Sonidos": ["095/Aud095-1.mp3", "095/Aud095-2.mp3", "095/Aud095-3.mp3"] ,
+            "Alimentos": ["Anfi", "FrutPeq"]
+        }, 
+
+        {
+            "Codigo":"096",
+            "Nombre_Comun": "Verderón castaño",
+            "Nombre_Cientifico": "Pachysylvia semibrunnea",
+            "Orden": "Passeriforme",
+            "Familia": "Vireonidae",
+            "Nombre_Ingles": "Rufous-naped Greenlet",
+            "Vocalizacion": "Serie corta de trinos en altos y bajo tono “Vipi-riviri-rirí”",
+            "Distribucion": "700 - 2700 m.s.n.m",
+            "Tamano": "12.5 cm",
+            "Imagen_Ave": "096/Ave096.webp",
+            "Sonidos": ["096/Aud096-1.mp3", "096/Aud096-2.mp3", "096/Aud096-3.mp3"],
+            "Alimentos": ["Insec"]
+        }, 
+
+        {
+            "Codigo":"097",
+            "Nombre_Comun": "Verderón ojirojo",
+            "Nombre_Cientifico": "Vireo olivaceus",
+            "Orden": "Passeriforme",
+            "Familia": "Vireonidae",
+            "Nombre_Ingles": "Red-eyed Vireo",
+            "Vocalizacion": "Series cortas y agudas, melodiosas “Iviirí… Shivishi… Shivirí…”",
+            "Distribucion": "< 3400 m.s.n.m",
+            "Tamano": "14 cm",
+            "Imagen_Ave": "097/Ave097.webp",
+            "Sonidos": [ ], 
+            "Alimentos": ["Insec", "FrutPeq"]
+        },         
+        
+        {
+            "Codigo":"098",
+            "Nombre_Comun": "Vireo chivÍ",
+            "Nombre_Cientifico": "Vireo chivi",
+            "Orden": "Passeriforme",
+            "Familia": "Vireonidae",
+            "Nombre_Ingles": "Chivi Vireo",
+            "Vocalizacion": "Llamados cortos musicales “Chi-ví… Chiví… Tzu… chuví…”",
+            "Distribucion": "< 1500 m.s.n.m",
+            "Tamano": "14 cm",
+            "Imagen_Ave": "098/Ave098.webp",
+            "Sonidos": ["098/Aud098.mp3"],
+            "Alimentos": ["Insec", "FrutPeq"]
+        }, 
+
+        {
+            "Codigo":"099",
+            "Nombre_Comun": "Carriquí pechiblanco",
+            "Nombre_Cientifico": "Cyanocorax affinis",
+            "Orden": "Passeriforme",
+            "Familia": "Corvidae",
+            "Nombre_Ingles": "Black-chested Jay",
+            "Vocalizacion": "Silbidos agudos “Piu…Piu…Piu…”",
+            "Distribucion": "< 2400 m.s.n.m",
+            "Tamano": "36 cm",
+            "Imagen_Ave": "099/Ave099.webp",
+            "Sonidos": ["099/Aud099.mp3"],
+            "Alimentos": ["Anfi", "Frugiv", "Insec", "FrutPeq"]
+        },
+
+        {
+            "Codigo":"100",
+            "Nombre_Comun": "Carriquí verdiamarillo",
+            "Nombre_Cientifico": "Cyanocorax yncas",
+            "Orden": "Passeriforme",
+            "Familia": "Corvidae",
+            "Nombre_Ingles": "Green Jay",
+            "Vocalizacion": "Emiten Gran variedad de sonidos, algunos son rasgueados, otros, como silbidos agudos “Guik-Guik-Guik-Guik”. Muy ruidosos",
+            "Distribucion": "600 - 3000 m.s.n.m",
+            "Tamano": "26 cm",
+            "Imagen_Ave": "100/Ave100.webp",
+            "Sonidos": ["100/Aud100.mp3"],
+            "Alimentos": ["Anfi", "Huevos", "Insec", "FrutPeq"]
+        },
+
+        {
+            "Codigo":"101",
+            "Nombre_Comun": "Golondrina blanquiazul",
+            "Nombre_Cientifico": "Pygochelidon cyanoleuca",
+            "Orden": "Passeriforme",
+            "Familia": "Hirundinidae",
+            "Nombre_Ingles": "Blue-and-white Swallow",
+            "Vocalizacion": "Serie desordenada y aguda terminada en una nota muy acentuada “Tsiú”",
+            "Distribucion": "< 3000 m.s.n.m",
+            "Tamano": "12.5 cm",
+            "Imagen_Ave": "101/Ave101.webp",
+            "Sonidos": [] ,
+            "Alimentos": ["Insec"]
+        },
+
+        {
+            "Codigo":"102",
+            "Nombre_Comun": "Golondrina barranquera",
+            "Nombre_Cientifico": "Stelgidopteryx ruficollis",
+            "Orden": "Passeriforme",
+            "Familia": "Hirundinidae",
+            "Nombre_Ingles": "Southern Rough-winged Swallow",
+            "Vocalizacion": "Reclamos agudos y seguidos “Chiwit” rasgueado",
+            "Distribucion": "< 2600 m.s.n.m",
+            "Tamano": "13 cm",
+            "Imagen_Ave": "102/Ave102.webp",
+            "Sonidos": ["102/Aud102.mp3"], 
+            "Alimentos": ["Insec"]
+        },    
+        
+        {
+            "Codigo":"103",
+            "Nombre_Comun": "Cucarachero ruiseñor / Cucarachero de pecho escamoso",
+            "Nombre_Cientifico": "Microcerculus marginatus",
+            "Orden": "Passeriforme",
+            "Familia": "Troglodytidae",
+            "Nombre_Ingles": "Scaly-breasted Wren",
+            "Vocalizacion": "Serie inconfundible, notas agudas similares a silbidos, inicia en alto tono, seguido de la misma nota en menor volumen y más espaciada, así sucesivamente. “Pi…  pi…   pi…  pi…”",
+            "Distribucion": "< 1700 m.s.n.m",
+            "Tamano": "11 cm",
+            "Imagen_Ave": "103/Ave103.webp",
+            "Sonidos": ["103/Aud103-1.mp3", "103/Aud103-2.mp3", "103/Aud103-3.mp3"] ,
+            "Alimentos": ["Insec"]
+        },    
+        
+        {
+            "Codigo":"104",
+            "Nombre_Comun": "Cucarachero flautista",
+            "Nombre_Cientifico": "Cyphorhinus thoracicus",
+            "Orden": "Passeriforme",
+            "Familia": "Troglodytidae",
+            "Nombre_Ingles": "Chestnut-breasted Wren",
+            "Vocalizacion": "Melodiosos silbidos agudos en tonos ascendentes y descendentes, repetitivo de 2 a 3 notas “Fi… fu… fii…”",
+            "Distribucion": "1000 - 2700 m.s.n.m",
+            "Tamano": "15 cm",
+            "Imagen_Ave": "104/Ave104.webp",
+            "Sonidos": ["104/Aud104.mp3"],
+            "Alimentos": ["Insec"]
+        }, 
+
+        {
+            "Codigo":"105",
+            "Nombre_Comun": "Cucarachero común",
+            "Nombre_Cientifico": "Troglodytes aedon",
+            "Orden": "Passeriforme",
+            "Familia": "Troglodytidae",
+            "Nombre_Ingles": "House Wren",
+            "Vocalizacion": "Presenta una Gran variedad de cantos, reclamos y llamados; muy melodioso,trinos de diferentes notas y a distintos intervalos. Uno de sus cantos se asimila a un gorgoteo",
+            "Distribucion": "< 3300 m.s.n.m",
+            "Tamano": "12 cm",
+            "Imagen_Ave": "105/Ave105.webp",
+            "Sonidos": ["105/Aud105.mp3"],
+            "Alimentos": ["Insec"]
+        },
+        
+        {
+            "Codigo":"106",
+            "Nombre_Comun": "Cucarachero jaspeado / Cucarachero buchipecoso",
+            "Nombre_Cientifico": "Pheugopedius sclateri",
+            "Orden": "Passeriforme",
+            "Familia": "Troglodytidae",
+            "Nombre_Ingles": "Speckle-breasted Wren",
+            "Vocalizacion": "Silbidos agudos muy musicales, a intervalos variados, trinos repetitivos, emiten vocalizaciones en dueto",
+            "Distribucion": "1200 - 2000 m.s.n.m",
+            "Tamano": "14 cm",
+            "Imagen_Ave": "106/Ave106.webp",
+            "Sonidos": ["106/Aud106.mp3"],
+            "Alimentos": ["Insec"]
+        },
+        
+        {
+            "Codigo":"107",
+            "Nombre_Comun": "Cucarachero sepia",
+            "Nombre_Cientifico": "Cinnycerthia olivascens",
+            "Orden": "Passeriforme",
+            "Familia": "Troglodytidae",
+            "Nombre_Ingles": "Sharpe´s Wren",
+            "Vocalizacion": "Presenta diferentes cantos, gozan de una Gran musicalidad y variabilidad, trinos de notas repetidos en alta velocidad “Biu-biu-biu-biu…” o “Chiup-chiup-chiup-chiup....”",
+            "Distribucion": "1300 - 3200 m.s.n.m",
+            "Tamano": "16 cm",
+            "Imagen_Ave": "107/Ave107.webp",
+            "Sonidos": ["107/Aud107.mp3"], 
+            "Alimentos": ["Insec"]
+        },   
+
+
+        {
+            "Codigo":"108",
+            "Nombre_Comun": "Cucarachero pechiblanco",
+            "Nombre_Cientifico": "Henicorhina leucosticta",
+            "Orden": "Passeriforme",
+            "Familia": "Troglodytidae",
+            "Nombre_Ingles": "White-breasted Wood-Wren",
+            "Vocalizacion": "Posee un amplio repertorio de vocalizaciones, desde expresiones musicales a través de silbidos, potentes trinos, hasta reclamos ásperos y repetitivos",
+            "Distribucion": "< 1600 m.s.n.m",
+            "Tamano": "11 cm",
+            "Imagen_Ave": "108/Ave108.webp",
+            "Sonidos": ["108/Aud108-1.mp3", "108/Aud108-2.mp3", "108/Aud108-3.mp3"] ,
+            "Alimentos": ["Insec"]
+        }, 
+
+
+        {
+            "Codigo":"109",
+            "Nombre_Comun": "Cucarachero pechigris",
+            "Nombre_Cientifico": "Henicorhina leucophrys",
+            "Orden": "Passeriforme",
+            "Familia": "Troglodytidae",
+            "Nombre_Ingles": "Gray-breasted Wood-wren",
+            "Vocalizacion": "Cuenta con diferentes vocalizaciones, emite silbidos en diferentes notas, tiene una amplia gama de expresiones sonoras",
+            "Distribucion": "1200 - 3000 m.s.n.m",
+            "Tamano": "11 cm",
+            "Imagen_Ave": "109/Ave109.webp",
+            "Sonidos": ["109/Aud109.mp3"],
+            "Alimentos": ["Insec"]
+        }, 
+
+        {
+            "Codigo":"110",
+            "Nombre_Comun": "Zorzal montuno",
+            "Nombre_Cientifico": "Catharus aurantiirostris",
+            "Orden": "Passeriforme",
+            "Familia": "Turdidae",
+            "Nombre_Ingles": "Orange-billed Nightingale-Thrush",
+            "Vocalizacion": "Sonido agudo, chirrido en alto y bajo tono “Tziu-Tzi-Tzi…”",
+            "Distribucion": "600 -2300 m.s.n.m",
+            "Tamano": "16.5 cm",
+            "Imagen_Ave": "110/Ave110.webp",
+            "Sonidos": ["110/Aud110-1.mp3", "110/Aud110-2.mp3", "110/Aud110-3.mp3"],
+            "Alimentos": ["FrutPeq", "Semllas","Insec"]
+        }, 
+
+        {
+            "Codigo":"111",
+            "Nombre_Comun": "Zorzal buchipecoso / Zorzal de Swainson",
+            "Nombre_Cientifico": "Catharus ustulatus",
+            "Orden": "Passeriforme",
+            "Familia": "Turdidae",
+            "Nombre_Ingles": "Swainson´s Thrush",
+            "Vocalizacion": "Notas repetitivas y espaciadas “Suit - suit - suit…”",
+            "Distribucion": "< 3000 m.s.n.m",
+            "Tamano": "18 cm",
+            "Imagen_Ave": "111/Ave111.webp",
+            "Sonidos": ["111/Aud111.mp3"], 
+            "Alimentos": ["Frut", "Semllas","Insec"]
+        }, 
+
+        {
+            "Codigo":"112",
+            "Nombre_Comun": "Solitario andino",
+            "Nombre_Cientifico": "Myadestes ralloides",
+            "Orden": "Passeriforme",
+            "Familia": "Turdidae",
+            "Nombre_Ingles": "Andean solitaire",
+            "Vocalizacion": "Produce un chirrido en ritmo pendular, agudo y claro, similar al balanceo de un columpio metálico, razón por la cual en algunas regiones se le conoce de dicha manera “Chrip… - chirichiri… - Chrip... - chiriri…”.",
+            "Distribucion": "600 - 3000 m.s.n.m",
+            "Tamano": "17.5 cm",
+            "Imagen_Ave": "112/Ave112.webp",
+            "Sonidos": ["112/Aud112.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq","Insec"]
+        }, 
+
+        {
+            "Codigo":"113",
+            "Nombre_Comun": "Mirla patinaranja",
+            "Nombre_Cientifico": "Turdus fuscater",
+            "Orden": "Passeriforme",
+            "Familia": "Turdidae",
+            "Nombre_Ingles": "Great Thrush",
+            "Vocalizacion": "Emite chillidos, graznidos “Chiú… Chiú…”. También, cantos más elaborados y melodiosos en las mañanas principalmente",
+            "Distribucion": "1700 - 4000 m.s.n.m",
+            "Tamano": "32 cm",
+            "Imagen_Ave": "113/Ave113.webp",
+            "Sonidos": ["113/Aud113.mp3"],
+            "Alimentos": ["Anfi", "Crusta", "Frugiv", "FrutPeq", "Huevos", "Insec", "Rat", "Semllas"]
+        },        
+        
+        {
+            "Codigo":"114",
+            "Nombre_Comun": "Mirla ollera",
+            "Nombre_Cientifico": "Turdus ignobilis",
+            "Orden": "Passeriforme",
+            "Familia": "Turdidae",
+            "Nombre_Ingles": "Black-billed Thrush",
+            "Vocalizacion": "Muy activa, posee variedad de vocalizaciones, cantos sonoros, reclamos ásperos “Fiú fiú fiú fuí fuí...”",
+            "Distribucion": "< 2600 m.s.n.m",
+            "Tamano": "23 cm",
+            "Imagen_Ave": "114/Ave114.webp",
+            "Sonidos": ["114/Aud114-1.mp3", "114/Aud114-2.mp3"] ,
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Semllas"]
+        },
+
+        {
+            "Codigo":"115",
+            "Nombre_Comun": "Mirla parda",
+            "Nombre_Cientifico": "Turdus grayi",
+            "Orden": "Passeriforme",
+            "Familia": "Turdidae",
+            "Nombre_Ingles": "Clay-colored Thrush",
+            "Vocalizacion": "Su vocalización es muy variada, puede tomar sonidos del ambiente o de otras aves e interpretarlos",
+            "Distribucion": "< 1600 m.s.n.m",
+            "Tamano": "25 cm",
+            "Imagen_Ave": "115/Ave115.webp",
+            "Sonidos": ["115/Aud115.mp3"],
+            "Alimentos": ["Crusta", "Frugiv", "FrutPeq", "Insec", "Semllas"]
+        },
+
+        {
+            "Codigo":"116",
+            "Nombre_Comun": "Sinsonte común",
+            "Nombre_Cientifico": "Mimus gilvus",
+            "Orden": "Passeriforme",
+            "Familia": "Mimidae",
+            "Nombre_Ingles": "Tropical Mockingbird",
+            "Vocalizacion": "Diferentes vocalizaciones, potentes y musicales; también llamados ásperos repetitivos “Cga-cga-cga-cga cga…”",
+            "Distribucion": "< 2800 m.s.n.m",
+            "Tamano": "24 cm",
+            "Imagen_Ave": "116/Ave116.webp",
+            "Sonidos": ["116/Aud116-1.mp3", "116/Aud116-2.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+        },
+
+        {
+            "Codigo":"117",
+            "Nombre_Comun": "Jilguero aliblanco",
+            "Nombre_Cientifico": "Spinus psaltria",
+            "Orden": "Passeriforme",
+            "Familia": "Fringillidae",
+            "Nombre_Ingles": "Lesser Goldfinch",
+            "Vocalizacion": "Serie de vocalizaciones agudas y musicales, gorjeo intenso tanto en percha como en vuelo “Chip-chip-chip”, “Sweee…”, “Trip-trip-trip”",
+            "Distribucion": "< 500 - 3100 m.s.n.m",
+            "Tamano": "10 cm",
+            "Imagen_Ave": "117/Ave117.webp",
+            "Sonidos": [ ],
+            "Alimentos": ["Semllas", "Insec"]
+        },
+
+        {
+            "Codigo":"118",
+            "Nombre_Comun": "Eufonia gorgiamarilla",
+            "Nombre_Cientifico": "Euphonia laniirostris",
+            "Orden": "Passeriforme",
+            "Familia": "Fringillidae",
+            "Nombre_Ingles": "Thick-billed Euphonia",
+            "Vocalizacion": "Emite diferentes sonidos, algunos trinos, sonidos agudos, gorjeos y chillidos “Beeee” rasgueado, “bibibibí” o “Bui- Bui”",
+            "Distribucion": "< 2000 m.s.n.m",
+            "Tamano": "10 cm",
+            "Imagen_Ave": "118/Ave118.webp",
+            "Sonidos": ["118/Aud118-1.mp3", "118/Aud118-2.mp3", "118/Aud118-3.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq"]
+        },
+
+        {
+            "Codigo":"119",
+            "Nombre_Comun": "Eufonia cabeciazul",
+            "Nombre_Cientifico": "Euphonia cyanocepahala",
+            "Orden": "Passeriforme",
+            "Familia": "Fringillidae",
+            "Nombre_Ingles": "Golden-rumped Euphonia",
+            "Vocalizacion": "Serie aguda, larga y en diferentes tonos. “Psibisibsi..”",
+            "Distribucion": "600 - 3000 m.s.n.m",
+            "Tamano": "11 cm",
+            "Imagen_Ave": "119/Ave119.webp",
+            "Sonidos": ["119/Aud119.mp3"], 
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Semllas"]
+        },
+
+
+        {
+            "Codigo":"120",
+            "Nombre_Comun": "Eufonia común / Eufonia ventrinaranja",
+            "Nombre_Cientifico": "Euphonia xanthogaster",
+            "Orden": "Passeriforme",
+            "Familia": "Fringillidae",
+            "Nombre_Ingles": "Orange-bellied Euphonia",
+            "Vocalizacion": "Musical, compuesto por varios trinos, sonidos agudos, chillidos y llamados “Tsiu… tsi-¡tsi!”",
+            "Distribucion": "< 2600 m.s.n.m",
+            "Tamano": "10 cm",
+            "Imagen_Ave": "120/Ave120.webp",
+            "Sonidos": [ ],
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Semllas"]
+        },
+
+        {
+            "Codigo":"121",
+            "Nombre_Comun": "Pinzón collarejo",
+            "Nombre_Cientifico": "Arremon brunneinucha",
+            "Orden": "Passeriforme",
+            "Familia": "Passerellidae",
+            "Nombre_Ingles": "Chestnut-capped Brushfinch",
+            "Vocalizacion": "Siseo muy agudo en diferentes tonos “Tsiu-Tsi-tsitsitsí”",
+            "Distribucion": "800 – 2600 m.s.n.m",
+            "Tamano": "18 cm",
+            "Imagen_Ave": "121/Ave121.webp",
+            "Sonidos": ["121/Aud121.mp3"], 
+            "Alimentos": ["FrutPeq", "Insec", "Semllas"]
+        }, 
+        
+        {
+            "Codigo":"122",
+            "Nombre_Comun": "Copetón común / Pinche",
+            "Nombre_Cientifico": "Zonotrichia capensis",
+            "Orden": "Passeriforme",
+            "Familia": "Passerellidae",
+            "Nombre_Ingles": "Rufous-collared Sparrow",
+            "Vocalizacion": "Bastante activo con su canto, musical, nota tremolada “Si-Si-Siuuu…”",
+            "Distribucion": "< 3600 m.s.n.m",
+            "Tamano": "12.5 cm",
+            "Imagen_Ave": "122/Ave122.webp",
+            "Sonidos": ["122/Aud122.mp3"], 
+            "Alimentos": ["Semlleros", "Insec", "Semllas"]
+        }, 
+        
+        {
+            "Codigo":"123",
+            "Nombre_Comun": "Turpial montañero",
+            "Nombre_Cientifico": "Icterus chrysater",
+            "Orden": "Passeriforme",
+            "Familia": "Icteridae",
+            "Nombre_Ingles": "Yellow-backed Oriole",
+            "Vocalizacion": "Musical, silbidos agudos en diferentes tonos, armonioso, notas cortas y seguidas",
+            "Distribucion": "< 2800 m.s.n.m",
+            "Tamano": "21 cm",
+            "Imagen_Ave": "123/Ave123.webp",
+            "Sonidos": ["123/Aud123.mp3"], 
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Nectari"]
+        },
+
+
+        {
+            "Codigo":"124",
+            "Nombre_Comun": "Turpial amarillo",
+            "Nombre_Cientifico": "Icterus nigrogularis",
+            "Orden": "Passeriforme",
+            "Familia": "Icteridae",
+            "Nombre_Ingles": "Yellow Oriole",
+            "Vocalizacion": "Silbidos armónicos cortos e intermitentes, agudo y musical “Fiu... í... fi... fiu…”",
+            "Distribucion": "< 1200 m.s.n.m",
+            "Tamano": "20 cm",
+            "Imagen_Ave": "124/Ave124.webp",
+            "Sonidos": ["124/Aud124.mp3"], 
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+        },
+
+        {
+            "Codigo":"125",
+            "Nombre_Comun": "Chamón parásito / Tordo común",
+            "Nombre_Cientifico": "Molothrus bonariensis",
+            "Orden": "Passeriforme",
+            "Familia": "Icteridae",
+            "Nombre_Ingles": "Shiny Cowbird",
+            "Vocalizacion": "Emite diferentes vocalizaciones, notas ásperas, trinos chirriantes y gorjeos, eventualmente gruñidos secos",
+            "Distribucion": "< 2600 m.s.n.m",
+            "Tamano": "19 cm",
+            "Imagen_Ave": "125/Ave125.webp",
+            "Sonidos": [ ],
+            "Alimentos": ["Crusta", "Frugiv", "Semllas", "Insec", "Smlleros"]
+        },
+
+        {
+            "Codigo":"126",
+            "Nombre_Comun": "Soldadito",
+            "Nombre_Cientifico": "Leistes militaris",
+            "Orden": "Passeriforme",
+            "Familia": "Icteridae",
+            "Nombre_Ingles": "Red-breasted Meadowlark",
+            "Vocalizacion": "Sonidos agudos y metálicos, series cortas, aunque frecuentes",
+            "Distribucion": "< 2100 m.s.n.m",
+            "Tamano": "18.5 cm",
+            "Imagen_Ave": "126/Ave126.webp",
+            "Sonidos": ["126/Aud126.mp3"], 
+            "Alimentos": ["FrutPeq", "Insec", "Smlleros"]
+        },
+
+        {
+            "Codigo":"127",
+            "Nombre_Comun": "Arañero ribereño",
+            "Nombre_Cientifico": "Myiothlypis fulvicauda",
+            "Orden": "Passeriforme",
+            "Familia": "Parulidae",
+            "Nombre_Ingles": "Buff-rumped Warbler",
+            "Vocalizacion": "Canto explosivo, muy potente e inconfundible, musical “Siu-siu.. SIU-SIÚ-siu -siu”. Aumenta el tono de la nota a medida que avanza la serie",
+            "Distribucion": "< 1600 m.s.n.m",
+            "Tamano": "13.5 cm",
+            "Imagen_Ave": "127/Ave127.webp",
+            "Sonidos": ["127/Aud127-1.mp3", "127/Aud127-2.mp3", "127/Aud127-3.mp3"],
+            "Alimentos": ["Insec"]
+        },
+
+        {
+            "Codigo":"128",
+            "Nombre_Comun": "Reinita coronirroja",
+            "Nombre_Cientifico": "Myiothlypis coronata",
+            "Orden": "Passeriforme",
+            "Familia": "Parulidae",
+            "Nombre_Ingles": "Russet-crowned Warbler",
+            "Vocalizacion": "Trinos, silbidos y llamados variados, algunos trémolos musicales",
+            "Distribucion": "1400 - 3200 m.s.n.m",
+            "Tamano": "14 cm",
+            "Imagen_Ave": "128/Ave128.webp",
+            "Sonidos": ["128/Aud128.mp3"], 
+            "Alimentos": ["Insec"]
+        },
+
+        {
+            "Codigo":"129",
+            "Nombre_Comun": "Piranga roja",
+            "Nombre_Cientifico": "Piranga rubra",
+            "Orden": "Passeriforme",
+            "Familia": "Cardinalidae",
+            "Nombre_Ingles": "Summer Tanager",
+            "Vocalizacion": "Canto agudo, presenta diferentes llamados y series “Chup-Chup-uep”",
+            "Distribucion": "< 3200 m.s.n.m",
+            "Tamano": "17.5 cm",
+            "Imagen_Ave": "129/Ave129.webp",
+            "Sonidos": ["129/Aud129.mp3"], 
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+        },  
+        
+        {
+            "Codigo":"130",
+            "Nombre_Comun": "Piranga bermeja",
+            "Nombre_Cientifico": "Piranga flava",
+            "Orden": "Passeriforme",
+            "Familia": "Cardinalidae",
+            "Nombre_Ingles": "Hepatic Tanager",
+            "Vocalizacion": "Emite diferentes cantos, el más común es un llamado tenue “Chup…. Chup… Chup”",
+            "Distribucion": "1400 – 2300 m.s.n.m",
+            "Tamano": "18 cm",
+            "Imagen_Ave": "130/Ave130.webp",
+            "Sonidos": ["130/Aud130.mp3"], 
+            "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Nectari"]
+        },
+
+        {
+            "Codigo":"131",
+            "Nombre_Comun": "Habia copetona",
+            "Nombre_Cientifico": "Habia cristata",
+            "Orden": "Passeriforme",
+            "Familia": "Cardinalidae",
+            "Nombre_Ingles": "Hepatic Tanager",
+            "Vocalizacion": "Sonido metálico, notas cortas en series continuas “Chi-wi Chi-wi Chi-wi”",
+            "Distribucion": "800 – 2200 m.s.n.m",
+            "Tamano": "19 cm",
+            "Imagen_Ave": "131/Ave131.webp",
+            "Sonidos": ["131/Aud131.mp3"],
+            "Alimentos": ["FrutPeq", "Insec", "Semllas"]
+        },        
+
+        {
+            "Codigo":"132",
+            "Nombre_Comun": "Saltátor Pío judío",
+            "Nombre_Cientifico": "Saltator striatipectus",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Streaked Saltator",
+            "Vocalizacion": "Onomatopeya de su nombre común “Pió júdi o...” silbido melódico. Muy activo",
+            "Distribucion": "< 2500 m.s.n.m",
+            "Tamano": "19.5 cm",
+            "Imagen_Ave": "132/Ave132.webp",
+            "Sonidos": ["132/Aud132-1.mp3", "132/Aud132-2.mp3", "132/Aud132-3.mp3"],
+            "Alimentos": ["Frugiv", "FrutPeq", "Gran", "Insec", "Nectari", "Semllas", "Semlleros"]
+        },
+        
+        {
+            "Codigo":"133",
+            "Nombre_Comun": "Saltátor alinegro",
+            "Nombre_Cientifico": "Saltator atripennis",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Black-winged Saltator",
+            "Vocalizacion": "Serie similar a un silbido que va perdiendo intensidad, similar al sonido que se referencia cuando uno objeto se precipita “Fiiiiuuuuu…”",
+            "Distribucion": "600 - 2300 m.s.n.m",
+            "Tamano": "20.5 cm",
+            "Imagen_Ave": "133/Ave133.webp",
+            "Sonidos": ["133/Aud133.mp3"], 
+            "Alimentos": ["Frugiv", "FrutPeq"]
+        },   
+        
+        {
+            "Codigo":"134",
+            "Nombre_Comun": "Canario coronado",
+            "Nombre_Cientifico": "Sicalis flaveola",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Saffron Finch",
+            "Vocalizacion": "Notas agudas, cortas y musicales “Tsi... Tsiu... Tsi…”",
+            "Distribucion": "< 2600 m.s.n.m",
+            "Tamano": "14.5 cm",
+            "Imagen_Ave": "134/Ave134.webp",
+            "Sonidos": ["134/Aud134-1.mp3", "134/Aud134-2.mp3"],
+            "Alimentos": ["Insec", "Semllas", "Semlleros"]
+        }, 
+        
+        {
+            "Codigo":"135",
+            "Nombre_Comun": "Espiguero capuchino",
+            "Nombre_Cientifico": "Sporophila nigricollis",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Yellow-bellied Seedeater",
+            "Vocalizacion": "Notas agudas, cortas y musicales “Tsi... Tsiu... Tsi…”Potente canto, musical, agudo, serie de diversas notas regularmente cortas",
+            "Distribucion": "< 2200 m.s.n.m",
+            "Tamano": "10 cm",
+            "Imagen_Ave": "135/Ave135.webp",
+            "Sonidos": ["135/Aud135-1.mp3", "135/Aud135-2.mp3"],
+            "Alimentos": ["Semlleros"]
+        },
+        
+        {
+            "Codigo":"136",
+            "Nombre_Comun": "Semillero cariamarillo",
+            "Nombre_Cientifico": "Tiaris olivaceus",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Yellow-faced Grassquit",
+            "Vocalizacion": "Trino débil, zumbante y agudo “Chichichichci”",
+            "Distribucion": "700 - 2400 m.s.n.m",
+            "Tamano": "10.5 cm",
+            "Imagen_Ave": "136/Ave136.webp",
+            "Sonidos": ["136/Aud136-1.mp3", "136/Aud136-2.mp3", "136/Aud136-3.mp3"],
+            "Alimentos": ["FrutPeq", "Semlleros"]
+        }, 
+        
+        {
+            "Codigo":"137",
+            "Nombre_Comun": "Volatinero negro",
+            "Nombre_Cientifico": "Volatinia jacarina",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Blue-black Grassquit",
+            "Vocalizacion": "Serie corta, muy aguda y vibrante “Trriiii… titi – trrriiii…”",
+            "Distribucion": "< 2300 m.s.n.m",
+            "Tamano": "10 cm",
+            "Imagen_Ave": "137/Ave137.webp",
+            "Sonidos": ["137/Aud137.mp3"], 
+            "Alimentos": ["FrutPeq", "Insec", "Semlleros"]
+        },
+        
+        {
+            "Codigo":"138",
+            "Nombre_Comun": "Mielero común",
+            "Nombre_Cientifico": "Coereba flaveola",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Bananaquit",
+            "Vocalizacion": "Serie chirriante y desordenada, muy aguda y activa “Sivivi tsi tsi”",
+            "Distribucion": "< 2000 m.s.n.m",
+            "Tamano": "11 cm",
+            "Imagen_Ave": "138/Ave138.webp",
+            "Sonidos": ["138/Aud138.mp3"],
+            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+        },
+        
+        {
+            "Codigo":"139",
+            "Nombre_Comun": "Asoma terciopelo / Toche pico de plata",
+            "Nombre_Cientifico": "Ramphocelus dimidiatus",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Crimson-backed Tanager",
+            "Vocalizacion": "Notas cortas, repetitivas y con series espaciadas “Chip… Chui…”",
+            "Distribucion": "< 2200 m.s.n.m",
+            "Tamano": "16 cm",
+            "Imagen_Ave": "139/Ave139.webp",
+            "Sonidos": ["139/Aud139.mp3"],
+            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+        },
+        
+        {
+            "Codigo":"140",
+            "Nombre_Comun": "Asoma candela / Toche enjalmado",
+            "Nombre_Cientifico": "Ramphocelus flammigerus",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Flame-rumped Tanager",
+            "Vocalizacion": "Llamados cortos y constantes “Chip…”",
+            "Distribucion": "< 2200 m.s.n.m",
+            "Tamano": "18 cm",
+            "Imagen_Ave": "140/Ave140.webp",
+            "Sonidos": ["140/Aud140.mp3"], 
+            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+        },
+        
+        
+        {
+            "Codigo":"141",
+            "Nombre_Comun": "Tángara multicolor",
+            "Nombre_Cientifico": "Chlorochrysa nitidissima",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Multicolored tanager",
+            "Vocalizacion": "Serie aguda y continua “Psi-psi-psi-sibi-sbi…”",
+            "Distribucion": "800 – 2200 m.s.n.m",
+            "Tamano": "12 cm",
+            "Imagen_Ave": "141/Ave141.webp",
+            "Sonidos": [ ],
+            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+        }, 
+        
+        {
+            "Codigo":"142",
+            "Nombre_Comun": "Mielero verde",
+            "Nombre_Cientifico": "Chlorophanes spiza",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Green Honeycreeper",
+            "Vocalizacion": "Series repetitivas y cortas, en momentos agudas o ásperas “Chip-Chip-Chip”",
+            "Distribucion": "< 2300 m.s.n.m",
+            "Tamano": "13 cm",
+            "Imagen_Ave": "141/Ave141.webp",
+            "Sonidos": [ ],
+            "Alimentos": ["FrutPeq", "Insec", "Frugiv", "Nectari"]
+        }, 
+        
+        {
+            "Codigo":"143",
+            "Nombre_Comun": "Dacnis turquesa",
+            "Nombre_Cientifico": "Dacnis hartlaubi",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Turquoise Dacnis",
+            "Vocalizacion": "Trino agudo de baja intensidad “Trip…”",
+            "Distribucion": "1000 – 2200 m.s.n.m",
+            "Tamano": "11 cm",
+            "Imagen_Ave": "143/Ave143.webp",
+            "Sonidos": ["143/Aud143.mp3"], 
+            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+        },     
+        
+        {
+            "Codigo":"144",
+            "Nombre_Comun": "Tángara rastrojera",
+            "Nombre_Cientifico": "Stilpinia vitriolina",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Scrub Tanager",
+            "Vocalizacion": "Serie intensa y aguda, emite sonidos agudos muy seguidos y enérgicos",
+            "Distribucion": "300 - 2500 m.s.n.m",
+            "Tamano": "14 cm",
+            "Imagen_Ave": "144/Ave144.webp",
+            "Sonidos": ["144/Aud144.mp3"],
+            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+        },     
+        
+        {
+            "Codigo":"145",
+            "Nombre_Comun": "Tángara capirotada",
+            "Nombre_Cientifico": "Stilpinia heinei",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Black-capped Tanager",
+            "Vocalizacion": "Trino corto y agudo compuesto de varias series intensas",
+            "Distribucion": "1400 - 2300 m.s.n.m",
+            "Tamano": "13 cm",
+            "Imagen_Ave": "145/Ave145.webp",
+            "Sonidos": [ ], 
+            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+        },
+        
+
+        {
+            "Codigo":"146",
+            "Nombre_Comun": "Tángara real",
+            "Nombre_Cientifico": "Stilpinia cyanicollis",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Blue-necked Tanager",
+            "Vocalizacion": "Serie aguda “Chip chrip” y desordenada",
+            "Distribucion": "700 - 2200 m.s.n.m",
+            "Tamano": "12 cm",
+            "Imagen_Ave": "146/Ave146.webp",
+            "Sonidos": ["146/Aud146.mp3"], 
+            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+        },
+
+        {
+            "Codigo":"147",
+            "Nombre_Comun": "Tángara lacrada",
+            "Nombre_Cientifico": "Tangara gyrola",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Bay-headed Tanager",
+            "Vocalizacion": "Serie aguda “Chip chrip” y desordenadaEmite llamados cortos y agudos “Sip… Sip…”",
+            "Distribucion": "< 2200 m.s.n.m",
+            "Tamano": "12 cm",
+            "Imagen_Ave": "147/Ave147.webp",
+            "Sonidos": ["147/Aud147-1.mp3", "147/Aud147-2.mp3"],
+            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+        },
+
+        {
+            "Codigo":"148",
+            "Nombre_Comun": "Tángara dorada",
+            "Nombre_Cientifico": "Tangara arthus",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Golden Tanager",
+            "Vocalizacion": "Llamado sencillo y agudo “Suip… Suip…”",
+            "Distribucion": "1200 – 2500 m.s.n.m",
+            "Tamano": "13 cm",
+            "Imagen_Ave": "148/Ave148.webp",
+            "Sonidos": ["148/Aud148.mp3"],
+            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+        },
+
+        {
+            "Codigo":"149",
+            "Nombre_Comun": "Azulejo",
+            "Nombre_Cientifico": "Thraupis episcopus",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Blue-gray Tanager",
+            "Vocalizacion": "Serie aguda y desordenada, varia su duración e intensidad",
+            "Distribucion": "< 2600 m.s.n.m",
+            "Tamano": "16 cm",
+            "Imagen_Ave": "149/Ave149.webp",
+            "Sonidos": ["149/Aud149.mp3"],
+            "Alimentos": ["FrutPeq", "Insec", "Frugiv", "Nectari"]
+        }, 
+        
+        {
+            "Codigo":"150",
+            "Nombre_Comun": "Azulejo palmero",
+            "Nombre_Cientifico": "Thraupis palmarum",
+            "Orden": "Passeriforme",
+            "Familia": "Thraupidae",
+            "Nombre_Ingles": "Palm Tanager",
+            "Vocalizacion": "Muy activa, canto desordenado y chirriante",
+            "Distribucion": "< 2600 m.s.n.m",
+            "Tamano": "17 cm",
+            "Imagen_Ave": "150/Ave150.webp",
+            "Sonidos": [ ],
+            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+        }      
+    ]
+}
