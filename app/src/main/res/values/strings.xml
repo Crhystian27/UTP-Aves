@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">UTP-Aves</string>
+    <string name="json_birds">Aves</string>
+
 </resources>
