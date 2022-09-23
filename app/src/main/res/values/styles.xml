@@ -2,10 +2,15 @@
 <resources>
 
     <style name="Theme.App.Starting" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_bird_selected</item>
         <item name="postSplashScreenTheme">@style/Theme.UTPAves</item>
         <item name="windowSplashScreenBackground">@color/white</item>
         <item name="windowSplashScreenAnimationDuration">2000</item>
     </style>
+
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">16sp</item>
+    </style>
+
 
 </resources>

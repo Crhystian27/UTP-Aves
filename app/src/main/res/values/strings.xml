@@ -2,4 +2,11 @@
     <string name="app_name">UTP-Aves</string>
     <string name="json_birds">Aves</string>
 
+    <!-- Bottom Navigation View -->
+    <string name="bottom_nav_birds">Birds</string>
+    <string name="bottom_nav_photo">Photo</string>
+    <string name="bottom_nav_about_us">About us</string>
+
+    <string name="toolbar_quit">Quit</string>
+
 </resources>
