@@ -16,9 +16,17 @@ class RootActivity : BaseActivity<ActivityRootBinding>() {
     override fun onCreate(savedInstanceState: Bundle?) {
         installSplashScreen()
         super.onCreate(savedInstanceState)
+
+
+        //val splashScreen = installSplashScreen()
+
+        // Keep the splash screen visible for this Activity
+        //splashScreen.setKeepOnScreenCondition { true }
+        startActivity(Intent(this@RootActivity, BirdActivity::class.java))
+        finish()
     }
 
-    override fun setUI() {
+    /*override fun setUI() {
         startActivity(Intent(this@RootActivity, BirdActivity::class.java))
-    }
+    }*/
 }

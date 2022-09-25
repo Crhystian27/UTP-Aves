@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/nav_graph_bird">
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_bird"
+    app:startDestination="@id/navigation_birds">
 
+    <fragment
+        android:id="@+id/navigation_birds"
+        android:name="co.utp.aves.presentation.bird.BirdFragment"
+        android:label="BirdFragment"
+        tools:layout="@layout/fragment_list_bird" />
 </navigation>

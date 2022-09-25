@@ -5,12 +5,9 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.viewModels
-import co.utp.aves.R
 import co.utp.aves.base.BaseFragment
 import co.utp.aves.databinding.FragmentListBirdBinding
 import co.utp.aves.presentation.bird.model.Ave
-import co.utp.aves.utils.fromJson
-import co.utp.aves.utils.getJson
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
