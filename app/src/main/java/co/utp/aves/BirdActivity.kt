@@ -1,10 +1,7 @@
 package co.utp.aves
 
 
-import com.google.android.material.bottomnavigation.BottomNavigationView
 import androidx.navigation.findNavController
-import androidx.navigation.ui.AppBarConfiguration
-import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -21,27 +18,18 @@ class BirdActivity : BaseActivity<ActivityBirdBinding>() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        //bottomNavigation()
         binding.toolbarMainActivity.inflateMenu(R.menu.toolbar_quit_menu)
         actionQuitToolbar()
     }
 
-    private fun bottomNavigation() {
-        val navView: BottomNavigationView = binding.bottomNavMenu
+    override fun setUI() {
+        super.setUI()
         val navController = findNavController(R.id.bird_nav_host_fragment)
-
-        val appBarConfiguration = AppBarConfiguration(
-            setOf(
-                R.id.navigation_birds, R.id.navigation_camera, R.id.navigation_aboutUs
-            )
-        )
-        setupActionBarWithNavController(navController, appBarConfiguration)
-        navView.setupWithNavController(navController)
-
+        binding.bottomNavMenu.setupWithNavController(navController)
     }
 
     override fun setToolbarTitle(title: String) {
-        binding.toolbarMainActivity.title = "Aves de Pereira"
+        binding.toolbarMainActivity.title = title
     }
 
     override fun setToolbarStyle(titleColor: Int?, backgroundColor: Int?) {

@@ -1,6 +1,6 @@
-package co.utp.aves.presentation.bird
+package co.utp.aves.presentation
 
-import co.utp.aves.presentation.bird.model.Ave
+import co.utp.aves.presentation.model.Ave
 
 sealed class BirdEvent{
     class ListBird(val result: List<Ave>): BirdEvent()

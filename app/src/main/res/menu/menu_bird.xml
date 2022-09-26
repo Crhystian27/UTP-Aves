@@ -2,7 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/navigation_birds"
+        android:id="@+id/navigation_bird"
         android:icon="@drawable/selector_bird"
         android:title="@string/bottom_nav_birds" />
     <item
@@ -10,7 +10,7 @@
         android:icon="@drawable/selector_camera"
         android:title="@string/bottom_nav_photo" />
     <item
-        android:id="@+id/navigation_aboutUs"
+        android:id="@+id/navigation_about_us"
         android:icon="@drawable/selector_about_us"
         android:title="@string/bottom_nav_about_us" />
 

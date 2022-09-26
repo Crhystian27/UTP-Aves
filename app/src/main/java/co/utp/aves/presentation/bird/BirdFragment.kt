@@ -5,13 +5,16 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.viewModels
+import co.utp.aves.R
 import co.utp.aves.base.BaseFragment
-import co.utp.aves.databinding.FragmentListBirdBinding
-import co.utp.aves.presentation.bird.model.Ave
+import co.utp.aves.databinding.FragmentBirdBinding
+import co.utp.aves.presentation.BirdEvent
+import co.utp.aves.presentation.BirdViewModel
+import co.utp.aves.presentation.model.Ave
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
-class BirdFragment : BaseFragment<FragmentListBirdBinding,BirdViewModel>() {
+class BirdFragment : BaseFragment<FragmentBirdBinding, BirdViewModel>() {
 
     override val viewModel: BirdViewModel by viewModels()
 
@@ -19,7 +22,16 @@ class BirdFragment : BaseFragment<FragmentListBirdBinding,BirdViewModel>() {
     override fun inflateView(
         inflater: LayoutInflater,
         container: ViewGroup?
-    )= FragmentListBirdBinding.inflate(inflater, container,false)
+    )= FragmentBirdBinding.inflate(inflater, container,false)
+
+
+    override fun setUI() {
+        setToolbarActivity(getString(R.string.title),
+            R.color.white,
+            R.color.utp_blue
+        )
+
+    }
 
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {

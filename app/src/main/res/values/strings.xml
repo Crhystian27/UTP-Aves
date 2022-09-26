@@ -1,4 +1,7 @@
 <resources>
+
+
+    <string name="title">Aves de Pereira</string>
     <string name="app_name">UTP-Aves</string>
     <string name="json_birds">Aves</string>
 

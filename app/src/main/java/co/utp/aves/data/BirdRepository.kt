@@ -3,8 +3,8 @@ package co.utp.aves.data
 import android.content.Context
 import co.utp.aves.R
 import co.utp.aves.domain.interfaces.IBirdRepository
-import co.utp.aves.presentation.bird.model.Ave
-import co.utp.aves.presentation.bird.model.JsonAve
+import co.utp.aves.presentation.model.Ave
+import co.utp.aves.presentation.model.JsonAve
 import co.utp.aves.utils.fromJson
 import co.utp.aves.utils.getJson
 import dagger.hilt.android.qualifiers.ApplicationContext

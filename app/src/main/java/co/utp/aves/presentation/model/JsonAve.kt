@@ -1,4 +1,4 @@
-package co.utp.aves.presentation.bird.model
+package co.utp.aves.presentation.model
 
 data class JsonAve(
     val Aves: List<Ave>

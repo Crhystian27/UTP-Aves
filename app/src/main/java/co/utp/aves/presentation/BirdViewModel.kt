@@ -1,4 +1,4 @@
-package co.utp.aves.presentation.bird
+package co.utp.aves.presentation
 
 import co.utp.aves.base.BaseViewModel
 import co.utp.aves.domain.usescases.FindBirdUseCase

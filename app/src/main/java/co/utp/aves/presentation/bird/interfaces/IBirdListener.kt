@@ -1,6 +1,6 @@
 package co.utp.aves.presentation.bird.interfaces
 
-import co.utp.aves.presentation.bird.model.Ave
+import co.utp.aves.presentation.model.Ave
 
 interface IBirdListener {
 

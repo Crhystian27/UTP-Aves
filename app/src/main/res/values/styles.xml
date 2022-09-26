@@ -2,10 +2,10 @@
 <resources>
 
     <style name="Theme.App.Starting" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_bird_selected</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_bird</item>
         <item name="postSplashScreenTheme">@style/Theme.UTPAves</item>
-        <item name="windowSplashScreenBackground">@color/white</item>
-        <item name="windowSplashScreenAnimationDuration">2000</item>
+        <item name="windowSplashScreenBackground">@color/black</item>
+        <item name="windowSplashScreenAnimationDuration">5000</item>
     </style>
 
     <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
