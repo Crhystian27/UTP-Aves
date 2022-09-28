@@ -1,16 +1,24 @@
 package co.utp.aves.presentation.model
 
 data class Ave(
-    val Alimentos: List<String>,
-    val Codigo: String,
-    val Distribucion: String,
-    val Familia: String,
-    val Imagen_Ave: String,
-    val Nombre_Cientifico: String,
-    val Nombre_Comun: String,
-    val Nombre_Ingles: String,
-    val Orden: String,
-    val Sonidos: List<String>,
-    val Tamano: String,
-    val Vocalizacion: String
+    var Alimentos: List<String>,
+    var Codigo: String,
+    var Distribucion: String,
+    var Familia: String,
+    var Imagen_Ave: String,
+    var Nombre_Cientifico: String,
+    var Nombre_Comun: String,
+    var Nombre_Ingles: String,
+    var Orden: String,
+    var Sonidos: List<String>,
+    var Tamano: String,
+    var Vocalizacion: String
 )
+
+fun equals(oldItem: Ave, newItem: Ave): Boolean =
+    oldItem.Alimentos == newItem.Alimentos && oldItem.Codigo == newItem.Codigo &&
+            oldItem.Distribucion == newItem.Distribucion && oldItem.Familia == newItem.Familia &&
+            oldItem.Imagen_Ave == newItem.Imagen_Ave && oldItem.Nombre_Cientifico == newItem.Nombre_Cientifico &&
+            oldItem.Nombre_Comun == newItem.Nombre_Comun && oldItem.Nombre_Ingles == newItem.Nombre_Ingles &&
+            oldItem.Orden == newItem.Orden && oldItem.Sonidos == newItem.Sonidos &&
+            oldItem.Tamano == newItem.Tamano && oldItem.Vocalizacion == newItem.Vocalizacion

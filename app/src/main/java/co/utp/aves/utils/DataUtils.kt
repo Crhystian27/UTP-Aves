@@ -1,7 +1,12 @@
 package co.utp.aves.utils
 
 import android.content.Context
+import android.graphics.drawable.Drawable
+import android.widget.ImageView
 import androidx.annotation.StringRes
+import co.utp.aves.R
+import com.bumptech.glide.Glide
+import com.bumptech.glide.request.RequestOptions
 import com.google.gson.Gson
 import java.io.IOException
 import java.io.InputStream
@@ -16,6 +21,14 @@ fun <T> fromJson(json: String, classOfT: Class<T>): T {
         Gson().fromJson("{}", classOfT)
 
     }
+}
+
+
+fun loadDrawable(img: ImageView, resourceId: Drawable, context: Context) {
+    Glide.with(context)
+        .load(resourceId)
+        .placeholder(R.drawable.ic_bird_selected)
+        .into(img)
 }
 
 fun getJson(@StringRes fileNameString: Int, context: Context): String {

@@ -10,7 +10,7 @@
             "Vocalizacion": "“iiiiirrrr…” Silbido vibrante muy agudo y sostenido",
             "Distribucion": "< 2000 msnm ",
             "Tamano": "23 cm",
-            "Imagen_Ave": "001/Ave001.webp",
+            "Imagen_Ave": "ave001.webp",
             "Sonidos": ["001/Aud001.mp3"],
             "Alimentos": ["Anfi", "Crusta", "Frugiv", "FrutPeq", "Insec", "Semllas", "Semlleros"]
         }, 
@@ -25,7 +25,7 @@
             "Vocalizacion": "Onomatopeya a uno de sus nombres comunes, “Suirirí” piquirrojo",
             "Distribucion": "<2600 msnm",
             "Tamano": "50 cm",
-            "Imagen_Ave": "002/Ave002.webp",
+            "Imagen_Ave": "ave002.webp",
             "Sonidos": ["002/Aud002.mp3"],
             "Alimentos": ["Crusta", "FrutPeq", "Insec"]
         },
@@ -40,7 +40,7 @@
             "Vocalizacion": "Si bien, no son frecuentes los registros de su vocalización, emite llamados similares a silbidos cortos y repetitivos “Fiu”",
             "Distribucion": "1000 - 3500 msnm",
             "Tamano": "40-46 cm",
-            "Imagen_Ave": "003/Ave003.webp",
+            "Imagen_Ave": "ave003.webp",
             "Sonidos": [ ],
             "Alimentos": ["Crusta", "Insec"]
         },
@@ -55,7 +55,7 @@
             "Vocalizacion": "Graznidos repetidos en alto tono “Wik Wik Wiok Wiok Wiok…”",
             "Distribucion": "900 – 2000 msnm",
             "Tamano": "75-85 cm",
-            "Imagen_Ave": "004/Ave004.webp",
+            "Imagen_Ave": "ave004.webp",
             "Sonidos": ["004/Aud004.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
         },
@@ -70,7 +70,7 @@
             "Vocalizacion": "Onomatopeya de su nombre común “Gua…cha-ra-ca” o “Cha, cha-la-ca”. Muy intenso y repetitivo",
             "Distribucion": "En la cordillera oriental, occidental y central entre los 300 – 2000 msnm",
             "Tamano": "50-55 cm",
-            "Imagen_Ave": "005/Ave005.webp",
+            "Imagen_Ave": "ave005.webp",
             "Sonidos": ["005/Aud005-1.mp3", "005/Aud005-2.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
         },
@@ -85,7 +85,7 @@
             "Vocalizacion": "Onomatopeya a uno de sus nombres comunes “Corcovado” Castaño, a veces puede escucharse como “Chogu-Chogüi-Chogu-Chogüi” repetidamente, alternado y en alto volumen",
             "Distribucion": "En la cordillera oriental, occidental y central entre los 1300 - 2600 msnm",
             "Tamano": "27 cm",
-            "Imagen_Ave": "006/Ave006.webp",
+            "Imagen_Ave": "ave006.webp",
             "Sonidos": ["006/Aud006.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
         },
@@ -100,7 +100,7 @@
             "Vocalizacion": "“Ju-Ju-Juuu… Ju-Ju-Juuu…”. 3 notas las dos primeras cortas y la tercera sostenida",
             "Distribucion": "<2000 m.s.n.m",
             "Tamano": "35 cm",
-            "Imagen_Ave": "007/Ave007.webp",
+            "Imagen_Ave": "ave007.webp",
             "Sonidos": ["007/Aud007.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Gran", "Semllas", "Semlleros"]
         },
@@ -115,7 +115,7 @@
             "Vocalizacion": "“Ju-uuh… Ju-uuh” en tono bajo desde una percha y repetido.",
             "Distribucion": "< 3500 m.s.n.m",
             "Tamano": "26 cm",
-            "Imagen_Ave": "008/Ave008.webp",
+            "Imagen_Ave": "ave008.webp",
             "Sonidos": ["008/Aud008.mp3"],
             "Alimentos": ["Gran", "Semllas", "Semlleros"]
         },
@@ -130,7 +130,7 @@
             "Vocalizacion": "“Hú… Hú… Hú… Hú…” Repetitivo y muy acentuado en la Ú",
             "Distribucion": "< 2500 m.s.n.m",
             "Tamano": "18 cm",
-            "Imagen_Ave": "009/Ave009.webp",
+            "Imagen_Ave": "ave009.webp",
             "Sonidos": ["009/Aud009-1.mp3","009/Aud009-2.mp3"],
             "Alimentos": ["Semllas", "Semlleros"]
         },
@@ -145,7 +145,7 @@
             "Vocalizacion": "Muy ruidoso, vocalizan al vuelo o desde una percha, normalmente lo hacen diferentes individuos de la misma familia “Weeeiii-Weeeii-Weeeii…”",
             "Distribucion": "< 3000 m.s.n.m",
             "Tamano": "35 cm",
-            "Imagen_Ave": "010/Ave010.webp",
+            "Imagen_Ave": "ave010.webp",
             "Sonidos": ["010/Aud010.mp3"],
             "Alimentos": ["Anfi", "Frugiv", "FrutPeq", "Huevos", "Insec", "Rat", "Semllas", "Semlleros"]
         },
@@ -160,7 +160,7 @@
             "Vocalizacion": "Revela su presencia principalmente por su canto, desde una percha expuesta, dos notas muy acentuadas, como onomatopeya de su nombre común “Sin…fin -Sin…Fin…” o “Tres…piés – Tres…piés…”",
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "28 cm",
-            "Imagen_Ave": "011/Ave011.webp",
+            "Imagen_Ave": "ave011.webp",
             "Sonidos": ["011/Aud011-1.mp3", "011/Aud011-2.mp3"],
             "Alimentos": ["Insec"]
         },
@@ -175,7 +175,7 @@
             "Vocalizacion": "Ejecuta diferentes llamados y cantos muy característicos, uno de los más comunes es “Chi…cuah…” o “Chi…cuee…”",
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "50 cm",
-            "Imagen_Ave": "012/Ave012.webp",
+            "Imagen_Ave": "ave012.webp",
             "Sonidos": ["012/Aud012.mp3"],
             "Alimentos": ["Insec"]
         },  
@@ -190,7 +190,7 @@
             "Vocalizacion": "Alrededor de su vocalización se han generado Gran cantidad de leyendas, puesto que, es similar a un lamento. Se caracteriza por tener 4 o 5 tiempos: “Ju… Juu… Juu… Juu… Ju”",
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "38 cm",
-            "Imagen_Ave": "013/Ave013.webp",
+            "Imagen_Ave": "ave013.webp",
             "Sonidos": ["013/Aud013.mp3"],
             "Alimentos": ["Insec"]
         },  
@@ -205,7 +205,7 @@
             "Vocalizacion": "Interpretación onomatopéyica de la palabra “wío... wío…”, la nota se repite en tremolo de forma aguda",
             "Distribucion": "< 2300 m.s.n.m",
             "Tamano": "27 cm",
-            "Imagen_Ave": "014/Ave014.webp",
+            "Imagen_Ave": "ave014.webp",
             "Sonidos": ["014/Aud014-1.mp3", "014/Aud014-2.mp3"],
             "Alimentos": ["Insec"]
         },  
@@ -220,7 +220,7 @@
             "Vocalizacion": "Emite llamados cortos y repetitivos, en vuelo o desde una percha “Tsi – Tsi - Tsi”",
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "10 cm",
-            "Imagen_Ave": "015/Ave015.webp",
+            "Imagen_Ave": "ave015.webp",
             "Sonidos": [ ],
             "Alimentos": ["Insec", "Nectari"]
         },
@@ -235,7 +235,7 @@
             "Vocalizacion": "Asociada principalmente a dinámicas de cortejo, en las cuales se reúnen diferentes machos en un área determinada, para competir los unos contra los otros por la atención de una o varias hembras (Lek). En estos procesos, se emite enérgica y repetidamente la misma nota “cuit - cuit - cuit – cuit”",
             "Distribucion": "600- 2200 m.s.n.m.",
             "Tamano": "12.5 cm",
-            "Imagen_Ave": "016/Ave016.webp",
+            "Imagen_Ave": "ave016.webp",
             "Sonidos": ["016/Aud016-1.mp3", "016/Aud016-2.mp3"],
             "Alimentos": ["Insec", "Nectari"]
         }, 
@@ -250,7 +250,7 @@
             "Vocalizacion": "Trino corto, enérgico y repetitivo “Píriri – Píriri - Píriri” acentuado en la primera (Í)",
             "Distribucion": "1000 – 2700 m.s.n.m",
             "Tamano": "Macho: 12 cm y Hembra: 7.6 cm",
-            "Imagen_Ave": "017/Ave017.webp",
+            "Imagen_Ave": "ave017.webp",
             "Sonidos": [ ],
             "Alimentos": ["Insec", "Nectari"]
         },    
@@ -265,7 +265,7 @@
             "Vocalizacion": "Realiza llamados muy agudos, puede constar de una sola nota o de trinos rápidos. “Sibi sibi…”",
             "Distribucion": "< 2100 m.s.n.m",
             "Tamano": "8.7 cm",
-            "Imagen_Ave": "018/Ave018.webp",
+            "Imagen_Ave": "ave018.webp",
             "Sonidos": ["018/Aud018.mp3"],
             "Alimentos": ["Insec", "Nectari"]
         },    
@@ -280,7 +280,7 @@
             "Vocalizacion": "Interpreta un canto fuerte, solitaria, en duetos o grupos familiares y en postura erguida “Cu - Cu - Cu - Cu - Cu - Cui - Ca - Cui - Ca”, repetidamente",
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "35-40 cm",
-            "Imagen_Ave": "019/Ave019.webp",
+            "Imagen_Ave": "ave019.webp",
             "Sonidos": ["019/Aud019.mp3"],
             "Alimentos": ["Crusta", "Insec", "Pisci"]
         },  
@@ -295,7 +295,7 @@
             "Vocalizacion": "Se registra más por su canto que visualmente; emite un llamado prolongado, similar a un tamborileo, se acentúa al inicio y va disminuyendo intensidad",
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "15 cm",
-            "Imagen_Ave": "020/Ave020.webp",
+            "Imagen_Ave": "ave020.webp",
             "Sonidos": ["020/Aud020.mp3"],
             "Alimentos": ["Crusta", "Insec", "Semllas", "Semlleros"]
         },         
@@ -310,7 +310,7 @@
             "Vocalizacion": "Se caracteriza principalmente por cloqueos o cacareos fuertes y seguidos",
             "Distribucion": "< 3500 m.s.n.m",
             "Tamano": "33 cm",
-            "Imagen_Ave": "021/Ave021.webp",
+            "Imagen_Ave": "ave021.webp",
             "Sonidos": ["021/Aud021.mp3"],
             "Alimentos": ["Anfi", "Crusta", "FrutPeq", "Insec", "Pisci", "Semllas", "Semlleros"]
         },  
@@ -325,7 +325,7 @@
             "Vocalizacion": "Emite su canto en vuelo o en el suelo, repetidamente “Ki – Kik – Kik – Kik”",
             "Distribucion": "< 3300 m.s.n.m",
             "Tamano": "37 cm",
-            "Imagen_Ave": "022/Ave022.webp",
+            "Imagen_Ave": "ave022.webp",
             "Sonidos": ["022/Aud022.mp3"],
             "Alimentos": ["Crusta", "Insec", "Pisci"]
         },
@@ -340,7 +340,7 @@
             "Vocalizacion": "Emite reclamos cortos, pueden ser únicos o repetitivos “Quiak – Quiak – Quiak”",
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "45 cm",
-            "Imagen_Ave": "023/Ave023.webp",
+            "Imagen_Ave": "ave023.webp",
             "Sonidos": ["023/Aud023.mp3"],
             "Alimentos": ["Anfi", "Crusta", "Insec", "Pisci", "Rat"]
         }, 
@@ -355,7 +355,7 @@
             "Vocalizacion": "Poco activa a través de su canto, llamados en vuelo ásperos, un tanto metálicos",
             "Distribucion": "< 3000 m.s.n.m",
             "Tamano": "60 cm",
-            "Imagen_Ave": "024/Ave024.webp",
+            "Imagen_Ave": "ave024.webp",
             "Sonidos": [ ],
             "Alimentos": ["Anfi", "Crusta", "Insec", "Pisci", "Rat"]
         },
@@ -370,7 +370,7 @@
             "Vocalizacion": "Representación onomatopéyica de su nombre común, “Coclí – Coclí - Coclí”",
             "Distribucion": "< 1800 m.s.n.m",
             "Tamano": "75 cm",
-            "Imagen_Ave": "025/Ave025.webp",
+            "Imagen_Ave": "ave025.webp",
             "Sonidos": ["025/Aud025-1.mp3","025/Aud025-2.mp3"],
             "Alimentos": ["Anfi", "Crusta", "Insec", "Pisci", "Rat"]
         }, 
@@ -386,7 +386,7 @@
             "Vocalizacion": "",
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "75 cm",
-            "Imagen_Ave": "026/Ave026.webp",
+            "Imagen_Ave": "ave026.webp",
             "Sonidos": ["026/Aud026.mp3"],
             "Alimentos": []
         },
@@ -401,7 +401,7 @@
             "Vocalizacion": "Su canto se caracteriza por repetir rápidamente una misma nota “ki – ki – ki – ki – ki – ki – ki – ki – ki”",
             "Distribucion": "< 3000 m.s.n.m",
             "Tamano": "40-50 cm",
-            "Imagen_Ave": "027/Ave027.webp",
+            "Imagen_Ave": "ave027.webp",
             "Sonidos": ["027/Aud027.mp3"],
             "Alimentos": ["Anfi", "Crusta", "Insec"]
         },    
@@ -416,7 +416,7 @@
             "Vocalizacion": "Su canto se caracteriza por repetir rápidamente una misma nota “ki – ki – ki – ki – ki – ki – ki – ki – ki”",
             "Distribucion": "< 3000 m.s.n.m",
             "Tamano": "40-50 cm",
-            "Imagen_Ave": "028/Ave028.webp",
+            "Imagen_Ave": "ave028.webp",
             "Sonidos": ["027/Aud027.mp3"],
             "Alimentos": ["Anfi", "Crusta", "Insec"]
         },   
@@ -431,7 +431,7 @@
             "Vocalizacion": "Emite llamados agudos y potentes, “Fu – Fiuu…”, “fu – fu – fiuu…”, “Fu… Fu Fu Fiuu…”",
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "60-70 cm",
-            "Imagen_Ave": "029/Ave029.webp",
+            "Imagen_Ave": "ave029.webp",
             "Sonidos": ["029/Aud029.mp3"],
             "Alimentos": ["Anfi", "Rat", "Paj"]
         },
@@ -446,7 +446,7 @@
             "Vocalizacion": "Llamados explosivos y seguidos “Ki – Ki – Ki – Kio”",
             "Distribucion": "< 2400 m.s.n.m",
             "Tamano": "60-70 cm",
-            "Imagen_Ave": "030/Ave030.webp",
+            "Imagen_Ave": "ave030.webp",
             "Sonidos": ["030/Aud030.mp3"],
             "Alimentos": ["Anfi", "Rat", "Paj"]
         },   
@@ -461,7 +461,7 @@
             "Vocalizacion": "Chillidos fuertes “Wui-o… Wui-o… Wui-o…”",
             "Distribucion": "1500 - 3500 m.s.n.m.",
             "Tamano": "60-80 cm",
-            "Imagen_Ave": "031/Ave031.webp",
+            "Imagen_Ave": "ave031.webp",
             "Sonidos": ["031/Aud031.mp3"],
             "Alimentos": ["Anfi", "Rat", "Paj"]
         },
@@ -476,7 +476,7 @@
             "Vocalizacion": "Serie aguda y repetitiva “Cui-Cui-Cui-Cui-Cui…”",
             "Distribucion": "1200 – 3500 m.s.n.m",
             "Tamano": "28-35 cm",
-            "Imagen_Ave": "032/Ave032.webp",
+            "Imagen_Ave": "ave032.webp",
             "Sonidos": ["032/Aud032.mp3"],
             "Alimentos": ["Anfi", "Rat", "Paj"]
         }, 
@@ -492,7 +492,7 @@
             "Vocalizacion": "Sonido explosivo y agudo “Cuuuííooo… Cuuuííooo…” o “Cuí - Cuí - Cuí – Cuí” Muy seguido y acentuado en la “í”",
             "Distribucion": "< 2700 m.s.n.m",
             "Tamano": "33-40 cm",
-            "Imagen_Ave": "033/Ave033.webp",
+            "Imagen_Ave": "ave033.webp",
             "Sonidos": ["033/Aud033-1.mp3", "033/Aud033-2.mp3", "033/Aud033-3.mp3"],
             "Alimentos": ["Anfi", "Insec", "Rat", "Paj", "Pisci"]
         }, 
@@ -508,7 +508,7 @@
             "Vocalizacion": "Emite llamados cortos en forma de graznido o chillido",
             "Distribucion": "1600 - 3500 m.s.n.m",
             "Tamano": "60-75 cm",
-            "Imagen_Ave": "034/Ave034.webp",
+            "Imagen_Ave": "ave034.webp",
             "Sonidos": [ ],
             "Alimentos": ["Anfi", "Insec", "Rat", "Paj"]
         },
@@ -523,7 +523,7 @@
             "Vocalizacion": "Referencia onomatopéyica a su nombre común, “Currurru […] Cú”. El inicio del canto es repetido rápida e intensamente, para terminar en un “Hú” o “Cú” acentuado",
             "Distribucion": "2700 m.s.n.m",
             "Tamano": "23 cm",
-            "Imagen_Ave": "035/Ave035.webp",
+            "Imagen_Ave": "ave035.webp",
             "Sonidos": ["035/Aud035.mp3"],
             "Alimentos": ["Crusta", "Insec", "Rat"]
         },    
@@ -538,7 +538,7 @@
             "Vocalizacion": "“Hub – hub – hub – hub…” Acentuado al principio, la nota se alarga y pierde un poco de intensidad al final",
             "Distribucion": "< 1500 m.s.n.m",
             "Tamano": "43-52 cm",
-            "Imagen_Ave": "036/Ave036.webp",
+            "Imagen_Ave": "ave036.webp",
             "Sonidos": [ ],
             "Alimentos": ["Anfi", "Insec", "Rat"]
         },  
@@ -553,7 +553,7 @@
             "Vocalizacion": "Serie de alrededor de 5 notas, ulula en alto tono “Uhú – Uhú – Uhú – Uhú - Uhú…”.  La última nota un poco más fuerte",
             "Distribucion": "< 1500 m.s.n.m < 2300 m.s.n.m",
             "Tamano": "30-35 cm",
-            "Imagen_Ave": "037/Ave037.webp",
+            "Imagen_Ave": "ave037.webp",
             "Sonidos": ["037/Aud037-1.mp3", "037/Aud037-2.mp3"],
             "Alimentos": ["Anfi", "Insec", "Rat"]
         }, 
@@ -568,7 +568,7 @@
             "Vocalizacion": "Su canto se compone de dos frases en forma de silbidos intensos “Ju-Ju-ú… Ju-Ju-ú…”",
             "Distribucion": "1200 - 2800 m.s.n.m",
             "Tamano": "36 cm",
-            "Imagen_Ave": "038/Ave038.webp",
+            "Imagen_Ave": "ave038.webp",
             "Sonidos": ["038/Aud038.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq"]
         },  
@@ -583,7 +583,7 @@
             "Vocalizacion": "Silbido grave que contiene entre 3 y 6 notas “Ju-Ju…Ju…Jú”.",
             "Distribucion": "< 2500 m.s.n.m",
             "Tamano": "26 cm",
-            "Imagen_Ave": "039/Ave039.webp",
+            "Imagen_Ave": "ave039.webp",
             "Sonidos": ["039/Aud039-1.mp3", "039/Aud039-2.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
         },
@@ -599,7 +599,7 @@
             "Vocalizacion": "Emite diferentes llamados principalmente al amanecer y al anochecer “Jurup… Jurup… Jurup”, En época de cortejo o en disputas territoriales emiten chasquidos fuertes",
             "Distribucion": "1300 - 3000 m.s.n.m",
             "Tamano": "48 cm",
-            "Imagen_Ave": "040/Ave040.webp",
+            "Imagen_Ave": "ave040.webp",
             "Sonidos": ["040/Aud040-1.mp3", "040/Aud040-2.mp3", "040/Aud040-3.mp3"],
             "Alimentos": ["Anfi", "Crusta", "Insec", "Rat"]
         },
@@ -614,7 +614,7 @@
             "Vocalizacion": "Similar a un timbre de teléfono, de tonalidad grave “Rrrruu… Rrrruu…”.",
             "Distribucion": "900 – 2500 m.s.n.m",
             "Tamano": "15.5 cm",
-            "Imagen_Ave": "041/Ave041.webp",
+            "Imagen_Ave": "ave041.webp",
             "Sonidos": ["041/Aud041.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
         },        
@@ -630,7 +630,7 @@
             "Vocalizacion": "Realiza llamados fuertes, similares a ladridos o crujidos repetitivos “Cruak-Cruak-Cruak-Cruak…”.",
             "Distribucion": "1500 - 3300 m.s.n.m",
             "Tamano": "31-37 cm",
-            "Imagen_Ave": "042/Ave042.webp",
+            "Imagen_Ave": "ave042.webp",
             "Sonidos": ["042/Aud042.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Huevos", "Anfi"]
         },
@@ -645,7 +645,7 @@
             "Vocalizacion": "Similar a A. Prasinus, los intervalos entre llamados son más lentos y algo más graves.",
             "Distribucion": "600 - 2200 m.s.n.m",
             "Tamano": "40-45 cm",
-            "Imagen_Ave": "043/Ave043.webp",
+            "Imagen_Ave": "ave043.webp",
             "Sonidos": ["043/Aud043.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Huevos", "Anfi"]
         }, 
@@ -660,7 +660,7 @@
             "Vocalizacion": "Se comunica a través de diferentes sonidos, el más común es similar a una bocina con trémolo “Cu-eh… Cu-eh…”, emite chasquidos con su lengua como matraqueos seguidos y fuertes, al mismo tiempo, realiza movimientos de cabeza y cuerpo desde una percha",
             "Distribucion": "1200 - 3000 m.s.n.m",
             "Tamano": "48 cm",
-            "Imagen_Ave": "044/Ave044.webp",
+            "Imagen_Ave": "ave044.webp",
             "Sonidos": ["044/Aud044.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
         },   
@@ -675,7 +675,7 @@
             "Vocalizacion": "Trino corto, dos segundos aproximadamente “Ririririririri…”.",
             "Distribucion": "500 - 2200 m.s.n.m",
             "Tamano": "9.5 cm",
-            "Imagen_Ave": "045/Ave045.webp",
+            "Imagen_Ave": "ave045.webp",
             "Sonidos": ["045/Aud045.mp3"],
             "Alimentos": ["Insec"]
         },  
@@ -690,7 +690,7 @@
             "Vocalizacion": "Similar a una risa “Cra – Cra - Crá… Cra – Cra - Crá…”.",
             "Distribucion": "1400 - 2700 m.s.n.m",
             "Tamano": "23 cm",
-            "Imagen_Ave": "046/Ave046.webp",
+            "Imagen_Ave": "ave046.webp",
             "Sonidos": ["046/Aud046.mp3"],
             "Alimentos": ["FrutPeq", "Insec", "Anfi", "Nectari", "Semllas"]
         },  
@@ -705,7 +705,7 @@
             "Vocalizacion": "Llamado fuerte, sostenido en la “r” “Chirrrr… Chirrrr… Chirrrr…”.",
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "18 cm",
-            "Imagen_Ave": "047/Ave047.webp",
+            "Imagen_Ave": "ave047.webp",
             "Sonidos": ["047/Aud047.mp3"],
             "Alimentos": ["FrutPeq", "Insec", "Anfi", "Nectari", "Semllas"]
         },
@@ -720,7 +720,7 @@
             "Vocalizacion": "Series de pocos segundos, “Crrrr… Crrrr…”.",
             "Distribucion": "800 - 2800 m.s.n.m",
             "Tamano": "17 cm",
-            "Imagen_Ave": "048/Ave048.webp",
+            "Imagen_Ave": "ave048.webp",
             "Sonidos": ["048/Aud048.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
         }, 
@@ -735,7 +735,7 @@
             "Vocalizacion": "Similar al trémolo de los carpinteros, la distancia entre notas es más larga que Colaptes punctigula. “Prrrrrr… Prrrrrr…”.",
             "Distribucion": "900 - 3000 m.s.n.m",
             "Tamano": "23 cm",
-            "Imagen_Ave": "049/Ave049.webp",
+            "Imagen_Ave": "ave049.webp",
             "Sonidos": ["049/Aud049.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
         },    
@@ -751,7 +751,7 @@
             "Vocalizacion": "Llamado fuerte muy acentuado en la “í” “Rí-rí-rí-rí-rí-rí”.",
             "Distribucion": "< 1800 m.s.n.m",
             "Tamano": "20 cm",
-            "Imagen_Ave": "050/Ave050.webp",
+            "Imagen_Ave": "ave050.webp",
             "Sonidos": ["050/Aud050.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
         }, 
@@ -767,7 +767,7 @@
             "Vocalizacion": "Es posible diferenciarlo gracias a sus explosivos llamados “Uíuíuíuíuíuí… Uíuíuíuíuíuí…” también, “Kiurrrrr…”. Así como también, por su fuerte martilleo",
             "Distribucion": "< 2300 m.s.n.m",
             "Tamano": "33 cm",
-            "Imagen_Ave": "051/Ave051.webp",
+            "Imagen_Ave": "ave051.webp",
             "Sonidos": ["051/Aud051.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Semllas"]
         },
@@ -782,7 +782,7 @@
             "Vocalizacion": "Bastante ruidosa, graznidos fuertes y repetitivos, pueden ser cortos o alargados “Cuig-Cuig-Cuig… Cuig-Cuig-Cuig…”.",
             "Distribucion": "< 2700 m.s.n.m",
             "Tamano": "40-45 cm",
-            "Imagen_Ave": "052/Ave052.webp",
+            "Imagen_Ave": "ave052.webp",
             "Sonidos": ["052/Aud052.mp3"],
             "Alimentos": ["Anfi", "Crusta", "Gran", "FrutPeq", "Insec", "Pisci", "Rat", "Semllas"]
         },  
@@ -797,7 +797,7 @@
             "Vocalizacion": "Serie larga de llamadas agudas “Ki–Ki–Ki–Ki–Ki–Ki–Ki–Ki”",
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "40-45 cm",
-            "Imagen_Ave": "053/Ave053.webp",
+            "Imagen_Ave": "ave053.webp",
             "Sonidos": [ ],
             "Alimentos": ["Anfi", "Insec", "Rat"]
         }, 
@@ -812,7 +812,7 @@
             "Vocalizacion": "Serie larga, cada nota se repite despacio “Cue – Cue – Cue – Cue – Cue – Cue”",
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "38 cm",
-            "Imagen_Ave": "054/Ave054.webp",
+            "Imagen_Ave": "ave054.webp",
             "Sonidos": ["054/Aud054.mp3"],
             "Alimentos": ["Anfi", "Insec", "Rat"]
         },
@@ -827,7 +827,7 @@
             "Vocalizacion": "Parloteos agudos y seguidos de forma desordenada “¡Krikri! – Krikri!”",
             "Distribucion": "< 1500 m.s.n.m",
             "Tamano": "18.5 cm",
-            "Imagen_Ave": "055/Ave055.webp",
+            "Imagen_Ave": "ave055.webp",
             "Sonidos": ["055/Aud055.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Gran", "Nectari", "Semllas"]
         },        
@@ -843,7 +843,7 @@
             "Vocalizacion": "Ruidosa en vuelo o en percha, parloteos estridentes y repetitivos",
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "26 cm",
-            "Imagen_Ave": "056/Ave056.webp",
+            "Imagen_Ave": "ave056.webp",
             "Sonidos": ["056/Aud056-1.mp3", "056/Aud056-2.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Gran", "Nectari", "Semllas"]
         }, 
@@ -858,7 +858,7 @@
             "Vocalizacion": "Llamados fuertes, cortos y agudos “Tibí - Tibí - Tibí…”.",
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "12.5 cm",
-            "Imagen_Ave": "057/Ave057.webp",
+            "Imagen_Ave": "ave057.webp",
             "Sonidos": ["057/Aud057-1.mp3", "057/Aud057-2.mp3", "057/Aud057-3.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Gran", "Nectari", "Semllas"]
         },     
@@ -874,7 +874,7 @@
             "Vocalizacion": "Parloteos fuertes y chirridos, emiten llamados en vuelo, también mientras se agrupan para alimentarse en arboles fructificados",
             "Distribucion": "500 – 2600 m.s.n.m",
             "Tamano": "35 cm",
-            "Imagen_Ave": "058/Ave058.webp",
+            "Imagen_Ave": "ave058.webp",
             "Sonidos": ["058/Aud058-1.mp3", "058/Aud058-2.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Gran", "Nectari", "Semllas"]
         },  
@@ -889,7 +889,7 @@
             "Vocalizacion": "Su nombre común, hace referencia a su canto, si bien emite diferentes vocalizaciones, el más común, es un gorgoteo similar a la caída de una canica en el suelo, finalizando en un crujido nasal. “Hu-hu-hu-hu-hu… cruack”",
             "Distribucion": "< 1500 m.s.n.m",
             "Tamano": "19.5 cm",
-            "Imagen_Ave": "059/Ave059.webp",
+            "Imagen_Ave": "ave059.webp",
             "Sonidos": ["059/Aud059.mp3"],
             "Alimentos": ["Anfi", "Crusta", "Insec"]
         },   
@@ -904,7 +904,7 @@
             "Vocalizacion": "Su nombre común, hace referencia a su canto, si bien emite diferentes vocalizaciones, el más común, es un gorgoteo similar a la caída de una canica en el suelo, finalizando en un crujido nasal. “Hu-hu-hu-hu-hu… cruack”",
             "Distribucion": "< 1500 m.s.n.m",
             "Tamano": "19.5 cm",
-            "Imagen_Ave": "060/Ave060.webp",
+            "Imagen_Ave": "ave060.webp",
             "Sonidos": ["059/Aud059.mp3"],
             "Alimentos": ["Anfi", "Crusta", "Insec"]
         }, 
@@ -919,7 +919,7 @@
             "Vocalizacion": "Al igual que otros batarás, hace referencia onomatopéyica a su nombre común, similar a la caída de una canica",
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "16 cm",
-            "Imagen_Ave": "061/Ave061.webp",
+            "Imagen_Ave": "ave061.webp",
             "Sonidos": ["061/Aud061-1.mp3", "061/Aud061-2.mp3", "061/Aud061-3.mp3"],
             "Alimentos": ["Insec", "Semllas"]
         },
@@ -934,7 +934,7 @@
             "Vocalizacion": "Al igual que otros batarás, hace referencia onomatopéyica a su nombre común, similar a la caída de una canica",
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "16 cm",
-            "Imagen_Ave": "062/Ave062.webp",
+            "Imagen_Ave": "ave062.webp",
             "Sonidos": ["061/Aud061-1.mp3", "061/Aud061-2.mp3", "061/Aud061-3.mp3"],
             "Alimentos": ["Insec", "Semllas"]
         },
@@ -949,7 +949,7 @@
             "Vocalizacion": "Gorgoteo similar a otras especies de batará, pero el final de la serie termina en una exclamación “hu-hu-hu-hu-hu… Juii”",
             "Distribucion": "< 1400 m.s.n.m",
             "Tamano": "15 cm",
-            "Imagen_Ave": "063/Ave063.webp",
+            "Imagen_Ave": "ave063.webp",
             "Sonidos": ["063/Aud063-1.mp3", "063/Aud063-2.mp3"],
             "Alimentos": ["Anfi", "Insec"]
         },
@@ -964,7 +964,7 @@
             "Vocalizacion": "Serie de notas similares, el tiempo de nota a nota varía simulando la caída de una canica “fiú-fiú-fiú-fiú-fiú…”. Más corta la distancia entre notas al final de la serie",
             "Distribucion": "400 – 2300 m.s.n.m",
             "Tamano": "12 cm",
-            "Imagen_Ave": "064/Ave064.webp",
+            "Imagen_Ave": "ave064.webp",
             "Sonidos": ["064/Aud064.mp3"],
             "Alimentos": ["FrutPeq", "Insec"]
         },   
@@ -980,7 +980,7 @@
             "Vocalizacion": "Serie aguda similar a Thamnophilus, “Wi… í – í – í – í – í – a – o”",
             "Distribucion": "1200 – 2000 m.s.n.m",
             "Tamano": "14 cm",
-            "Imagen_Ave": "065/Ave065.webp",
+            "Imagen_Ave": "ave065.webp",
             "Sonidos": ["065/Aud065.mp3"],
             "Alimentos": ["Insec"]
         },    
@@ -995,7 +995,7 @@
             "Vocalizacion": "Serie repetitiva muy distintiva “Chicuá – Chicuá – Chicuá…”",
             "Distribucion": "< 1500 m.s.n.m",
             "Tamano": "15 cm",
-            "Imagen_Ave": "066/Ave066.webp",
+            "Imagen_Ave": "ave066.webp",
             "Sonidos": ["066/Aud066.mp3"],
             "Alimentos": ["Insec"]
         },
@@ -1010,7 +1010,7 @@
             "Vocalizacion": "Silbidos potentes agudos y seguidos “Fíu…Fíu…Fíu…Fíu…”",
             "Distribucion": "600 – 1800 m.s.n.m",
             "Tamano": "18 cm",
-            "Imagen_Ave": "067/Ave067.webp",
+            "Imagen_Ave": "ave067.webp",
             "Sonidos": ["067/Aud067.mp3"],
             "Alimentos": ["Anfi", "Insec"]
         },
@@ -1025,7 +1025,7 @@
             "Vocalizacion": "VibRato sostenido por unos segundos “Juuururururu…”",
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "17 cm",
-            "Imagen_Ave": "068/Ave068.webp",
+            "Imagen_Ave": "ave068.webp",
             "Sonidos": ["068/Aud068.mp3"],
             "Alimentos": ["Anfi", "Insec"]
         },  
@@ -1040,7 +1040,7 @@
             "Vocalizacion": "3 notas melódicas, onomatopeya de su nombre común “Fi…Fu…Fiu…”",
             "Distribucion": "1200 – 3200 m.s.n.m",
             "Tamano": "19 cm",
-            "Imagen_Ave": "069/Ave069.webp",
+            "Imagen_Ave": "ave069.webp",
             "Sonidos": ["069/Aud069.mp3"],
             "Alimentos": ["Anfi", "Insec"]
         },
@@ -1055,7 +1055,7 @@
             "Vocalizacion": "Silbidos agudos y fuertes; las notas son más seguidas al principio de la serie y se acentúan al final. “Fí-Fí-Fí-Fí-Fí…Fí…Fí…”",
             "Distribucion": "< 1700 m.s.n.m",
             "Tamano": "24 cm",
-            "Imagen_Ave": "070/Ave070.webp",
+            "Imagen_Ave": "ave070.webp",
             "Sonidos": ["070/Aud070.mp3"],
             "Alimentos": ["Anfi", "Insec"]
         },  
@@ -1070,7 +1070,7 @@
             "Vocalizacion": "Fuerte “Piriririri…” ejecuciones cortas, de 1 a 2 segundos. Repetitivo",
             "Distribucion": "< 1400 m.s.n.m",
             "Tamano": "19.5 cm",
-            "Imagen_Ave": "071/Ave071.webp",
+            "Imagen_Ave": "ave071.webp",
             "Sonidos": ["071/Aud071.mp3"],
             "Alimentos": ["Anfi", "Insec", "FrutPeq"]
         },
@@ -1085,7 +1085,7 @@
             "Vocalizacion": "Trino repetitivo e intenso, “Tititi - tiririri…”",
             "Distribucion": "1000 - 2200 m.s.n.m",
             "Tamano": "14.5 cm",
-            "Imagen_Ave": "072/Ave072.webp",
+            "Imagen_Ave": "ave072.webp",
             "Sonidos": ["072/Aud072.mp3"],
             "Alimentos": ["Insec", "FrutPeq"]
         },   
@@ -1100,7 +1100,7 @@
             "Vocalizacion": "Trino grabe o gorgoteo “Chug-chug-chug-chug-chug…”, más acentuado y acelerado al final",
             "Distribucion": "< 1800 m.s.n.m",
             "Tamano": "15 cm",
-            "Imagen_Ave": "073/Ave073.webp",
+            "Imagen_Ave": "ave073.webp",
             "Sonidos": ["073/Aud073.mp3"],
             "Alimentos": ["Insec"]
         },   
@@ -1115,7 +1115,7 @@
             "Vocalizacion": "Bastante ruidoso e insistente, “Ueic-ap…Ueic-ap…Ueic-ap…”",
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "14 cm",
-            "Imagen_Ave": "074/Ave074.webp",
+            "Imagen_Ave": "ave074.webp",
             "Sonidos": ["074/Aud074.mp3"],
             "Alimentos": ["Insec"]
         }, 
@@ -1130,7 +1130,7 @@
             "Vocalizacion": "Si bien es difícil de observar, es común escuchar su canto característico, el cual, es una referencia onomatopéyica de su nombre común “Pis - cuís… Pis – cuís…”, repetitivo e intenso",
             "Distribucion": "1300 – 3200 m.s.n.m",
             "Tamano": "16 cm",
-            "Imagen_Ave": "075/Ave075.webp",
+            "Imagen_Ave": "ave075.webp",
             "Sonidos": ["075/Aud075-1.mp3", "075/Aud075-2.mp3"],
             "Alimentos": ["Insec"]
         }, 
@@ -1145,7 +1145,7 @@
             "Vocalizacion": "Frecuente vocalizando desde una percha “Pi-pi-pi-pu-wi” repetitivo",
             "Distribucion": "< 1800 m.s.n.m",
             "Tamano": "10 cm",
-            "Imagen_Ave": "076/Ave076.webp",
+            "Imagen_Ave": "ave076.webp",
             "Sonidos": ["076/Aud076-1.mp3", "076/Aud076-2.mp3"],
             "Alimentos": ["Insec"]
         },
@@ -1160,7 +1160,7 @@
             "Vocalizacion": "Llamado fuerte y característico “Fi – Fiut…”",
             "Distribucion": "< 1700 m.s.n.m",
             "Tamano": "11 cm",
-            "Imagen_Ave": "077/Ave077.webp",
+            "Imagen_Ave": "ave077.webp",
             "Sonidos": ["077/Aud077.mp3"],
             "Alimentos": ["Insec", "FrutPeq"]
         },     
@@ -1175,7 +1175,7 @@
             "Vocalizacion": "llamado desordenado, en alto tono y áspero, “Ee-yee-up – Ee-yee-up” repetido",
             "Distribucion": "< 2300 m.s.n.m",
             "Tamano": "16.5 cm",
-            "Imagen_Ave": "078/Ave078.webp",
+            "Imagen_Ave": "ave078.webp",
             "Sonidos": [ ],
             "Alimentos": ["Insec", "FrutPeq"]
         },   
@@ -1190,7 +1190,7 @@
             "Vocalizacion": "Llamados repetitivos al defender su territorio, sonido chillón, similar al apretar un pato de hule “¡Cuip – Cuip – Cuip – Cuip!”",
             "Distribucion": "< 1700 m.s.n.m",
             "Tamano": "13 cm",
-            "Imagen_Ave": "079/Ave079.webp",
+            "Imagen_Ave": "ave079.webp",
             "Sonidos": ["079/Aud079.mp3"],
             "Alimentos": ["Insec", "FrutPeq"]
         },  
@@ -1205,7 +1205,7 @@
             "Vocalizacion": "Silbido simple y repetitivo “Piu…”, o intenso al principio de la serie y se va degradando “Pi…pi-pi-pi-pi…”",
             "Distribucion": "500 – 2500 m.s.n.m",
             "Tamano": "11 cm",
-            "Imagen_Ave": "080/Ave080.webp",
+            "Imagen_Ave": "ave080.webp",
             "Sonidos": ["080/Aud080.mp3"],
             "Alimentos": ["Insec", "FrutPeq"]
         },
@@ -1220,7 +1220,7 @@
             "Vocalizacion": "Pitidos repetitivos y agudos “Tip-Tip-Tip…” o “¡Priiip!”.",
             "Distribucion": "400 - 2400 m.s.n.m",
             "Tamano": "9.7 cm",
-            "Imagen_Ave": "081/Ave081.webp",
+            "Imagen_Ave": "ave081.webp",
             "Sonidos": ["081/Aud081-1.mp3", "081/Aud081-2.mp3", "081/Aud081-3.mp3"],
             "Alimentos": ["Insec"]
         },        
@@ -1235,7 +1235,7 @@
             "Vocalizacion": "Llamado simple de sonido rasgado, repetitivo “Prríu… Prríu… “.",
             "Distribucion": "< 1300 m.s.n.m",
             "Tamano": "9.5 cm",
-            "Imagen_Ave": "082/Ave082.webp",
+            "Imagen_Ave": "ave082.webp",
             "Sonidos": ["082/Aud082.mp3"],
             "Alimentos": ["Insec", "FrutPeq"]
         },        
@@ -1250,7 +1250,7 @@
             "Vocalizacion": "Serie de 3 a 4 notas, repetitiva “TíTíTí… TíTíTí…”.",
             "Distribucion": "< 2200 m.s.n.m",
             "Tamano": "9.5 cm",
-            "Imagen_Ave": "083/Ave083.webp",
+            "Imagen_Ave": "ave083.webp",
             "Sonidos": ["083/Aud083.mp3"],
             "Alimentos": ["Insec", "FrutPeq"]
         }, 
@@ -1265,7 +1265,7 @@
             "Vocalizacion": "Llamados repetitivos “Fibí… Prrí – Fibí… Prrí”.",
             "Distribucion": "200 - 2800 m.s.n.m",
             "Tamano": "16 cm",
-            "Imagen_Ave": "084/Ave084.webp",
+            "Imagen_Ave": "ave084.webp",
             "Sonidos": [ ],
             "Alimentos": ["Insec", "FrutPeq"]
         },
@@ -1280,7 +1280,7 @@
             "Vocalizacion": "“Chriioo…” Sonido nasal y rasgueado",
             "Distribucion": "< 1200 m.s.n.m",
             "Tamano": "13 cm",
-            "Imagen_Ave": "085/Ave085.webp",
+            "Imagen_Ave": "ave085.webp",
             "Sonidos": ["085/Aud085.mp3"],
             "Alimentos": ["Insec"]
         },
@@ -1295,7 +1295,7 @@
             "Vocalizacion": "Serie corta y repetitiva “Titiribí… Titiribí…”",
             "Distribucion": "< 2700 m.s.n.m",
             "Tamano": "13 cm",
-            "Imagen_Ave": "086/Ave086.webp",
+            "Imagen_Ave": "ave086.webp",
             "Sonidos": ["086/Aud086.mp3"],
             "Alimentos": ["Insec"]
         }, 
@@ -1310,7 +1310,7 @@
             "Vocalizacion": "Series agudas similares a pitidos tenues “Sibí-Sibí-Sibí…”",
             "Distribucion": "< 3200 m.s.n.m",
             "Tamano": "19.5 cm",
-            "Imagen_Ave": "087/Ave087.webp",
+            "Imagen_Ave": "ave087.webp",
             "Sonidos": ["087/Aud087.mp3"],
             "Alimentos": ["Insec", "Frugiv"]
         },
@@ -1325,7 +1325,7 @@
             "Vocalizacion": "ruidoso, serie repetitiva “¡Chip-Chip-Chip!”",
             "Distribucion": "< 1600 m.s.n.m",
             "Tamano": "20.5 cm",
-            "Imagen_Ave": "088/Ave088.webp",
+            "Imagen_Ave": "ave088.webp",
             "Sonidos": ["088/Aud088-1.mp3", "088/Aud088-2.mp3"],
             "Alimentos": ["Insec", "FrutPeq", "Anfi"]
         }, 
@@ -1340,7 +1340,7 @@
             "Vocalizacion": "Referencia onomatopéyica del nombre común “Bi…chofuéé”. Muy ruidoso",
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "22 cm",
-            "Imagen_Ave": "089/Ave089.webp",
+            "Imagen_Ave": "ave089.webp",
             "Sonidos": ["089/Aud089-1.mp3", "089/Aud089-2.mp3"],
             "Alimentos": ["Insec", "Frugiv", "Anfi", "Crusta", "FrutPeq", "Pisci", "Rat", "Semllas"]
         },
@@ -1356,7 +1356,7 @@
             "Vocalizacion": "Silbidos repetitivos “Weiii… Weiii”",
             "Distribucion": "< 2200 m.s.n.m",
             "Tamano": "17 cm",
-            "Imagen_Ave": "090/Ave090.webp",
+            "Imagen_Ave": "ave090.webp",
             "Sonidos": ["090/Aud090-1.mp3", "090/Aud090-2.mp3"],
             "Alimentos": ["Insec", "FrutPeq"]
         },
@@ -1371,7 +1371,7 @@
             "Vocalizacion": "Referencia onomatopéyica de su nombre común, “Sirirí-Sirirí”",
             "Distribucion": "< 2800 m.s.n.m",
             "Tamano": "22 cm",
-            "Imagen_Ave": "091/Ave091.webp",
+            "Imagen_Ave": "ave091.webp",
             "Sonidos": ["091/Aud091.mp3"],
             "Alimentos": ["Insec", "FrutPeq", "Anfi"]
         },
@@ -1386,7 +1386,7 @@
             "Vocalizacion": "Series agudas desordenadas y repetitivas",
             "Distribucion": "< 3200 m.s.n.m",
             "Tamano": "31 - 40 cm",
-            "Imagen_Ave": "092/Ave092.webp",
+            "Imagen_Ave": "ave092.webp",
             "Sonidos": ["092/Aud092.mp3"],
             "Alimentos": ["Insec", "FrutPeq"]
         },  
@@ -1401,7 +1401,7 @@
             "Vocalizacion": "Llamado tremolado e intenso, repetitivo “Jurrrú Jrrr… Jurrrú”",
             "Distribucion": "< 500 - 2200 m.s.n.m",
             "Tamano": "17 cm",
-            "Imagen_Ave": "093/Ave093.webp",
+            "Imagen_Ave": "ave093.webp",
             "Sonidos": ["093/Aud093.mp3"],
             "Alimentos": ["Insec", "FrutPeq"]
         }, 
@@ -1416,7 +1416,7 @@
             "Vocalizacion": "Sonido grave áspero y corto, se repite la misma serie “Grraauu…”",
             "Distribucion": "500 - 2500 m.s.n.m",
             "Tamano": "32 cm",
-            "Imagen_Ave": "094/Ave094.webp",
+            "Imagen_Ave": "ave094.webp",
             "Sonidos": ["094/Aud094.mp3"],
             "Alimentos": ["Anfi", "FrutPeq", "Frugiv"]
         }, 
@@ -1431,7 +1431,7 @@
             "Vocalizacion": "Serie repetitiva “Diu-diu-diu… dudududú”",
             "Distribucion": "< 2200 m.s.n.m",
             "Tamano": "15 cm",
-            "Imagen_Ave": "095/Ave095.webp",
+            "Imagen_Ave": "ave095.webp",
             "Sonidos": ["095/Aud095-1.mp3", "095/Aud095-2.mp3", "095/Aud095-3.mp3"] ,
             "Alimentos": ["Anfi", "FrutPeq"]
         }, 
@@ -1446,7 +1446,7 @@
             "Vocalizacion": "Serie corta de trinos en altos y bajo tono “Vipi-riviri-rirí”",
             "Distribucion": "700 - 2700 m.s.n.m",
             "Tamano": "12.5 cm",
-            "Imagen_Ave": "096/Ave096.webp",
+            "Imagen_Ave": "ave096.webp",
             "Sonidos": ["096/Aud096-1.mp3", "096/Aud096-2.mp3", "096/Aud096-3.mp3"],
             "Alimentos": ["Insec"]
         }, 
@@ -1461,7 +1461,7 @@
             "Vocalizacion": "Series cortas y agudas, melodiosas “Iviirí… Shivishi… Shivirí…”",
             "Distribucion": "< 3400 m.s.n.m",
             "Tamano": "14 cm",
-            "Imagen_Ave": "097/Ave097.webp",
+            "Imagen_Ave": "ave097.webp",
             "Sonidos": [ ], 
             "Alimentos": ["Insec", "FrutPeq"]
         },         
@@ -1476,7 +1476,7 @@
             "Vocalizacion": "Llamados cortos musicales “Chi-ví… Chiví… Tzu… chuví…”",
             "Distribucion": "< 1500 m.s.n.m",
             "Tamano": "14 cm",
-            "Imagen_Ave": "098/Ave098.webp",
+            "Imagen_Ave": "ave098.webp",
             "Sonidos": ["098/Aud098.mp3"],
             "Alimentos": ["Insec", "FrutPeq"]
         }, 
@@ -1491,7 +1491,7 @@
             "Vocalizacion": "Silbidos agudos “Piu…Piu…Piu…”",
             "Distribucion": "< 2400 m.s.n.m",
             "Tamano": "36 cm",
-            "Imagen_Ave": "099/Ave099.webp",
+            "Imagen_Ave": "ave099.webp",
             "Sonidos": ["099/Aud099.mp3"],
             "Alimentos": ["Anfi", "Frugiv", "Insec", "FrutPeq"]
         },
@@ -1506,7 +1506,7 @@
             "Vocalizacion": "Emiten Gran variedad de sonidos, algunos son rasgueados, otros, como silbidos agudos “Guik-Guik-Guik-Guik”. Muy ruidosos",
             "Distribucion": "600 - 3000 m.s.n.m",
             "Tamano": "26 cm",
-            "Imagen_Ave": "100/Ave100.webp",
+            "Imagen_Ave": "ave100.webp",
             "Sonidos": ["100/Aud100.mp3"],
             "Alimentos": ["Anfi", "Huevos", "Insec", "FrutPeq"]
         },
@@ -1521,7 +1521,7 @@
             "Vocalizacion": "Serie desordenada y aguda terminada en una nota muy acentuada “Tsiú”",
             "Distribucion": "< 3000 m.s.n.m",
             "Tamano": "12.5 cm",
-            "Imagen_Ave": "101/Ave101.webp",
+            "Imagen_Ave": "ave101.webp",
             "Sonidos": [] ,
             "Alimentos": ["Insec"]
         },
@@ -1536,7 +1536,7 @@
             "Vocalizacion": "Reclamos agudos y seguidos “Chiwit” rasgueado",
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "13 cm",
-            "Imagen_Ave": "102/Ave102.webp",
+            "Imagen_Ave": "ave102.webp",
             "Sonidos": ["102/Aud102.mp3"], 
             "Alimentos": ["Insec"]
         },    
@@ -1551,7 +1551,7 @@
             "Vocalizacion": "Serie inconfundible, notas agudas similares a silbidos, inicia en alto tono, seguido de la misma nota en menor volumen y más espaciada, así sucesivamente. “Pi…  pi…   pi…  pi…”",
             "Distribucion": "< 1700 m.s.n.m",
             "Tamano": "11 cm",
-            "Imagen_Ave": "103/Ave103.webp",
+            "Imagen_Ave": "ave103.webp",
             "Sonidos": ["103/Aud103-1.mp3", "103/Aud103-2.mp3", "103/Aud103-3.mp3"] ,
             "Alimentos": ["Insec"]
         },    
@@ -1566,7 +1566,7 @@
             "Vocalizacion": "Melodiosos silbidos agudos en tonos ascendentes y descendentes, repetitivo de 2 a 3 notas “Fi… fu… fii…”",
             "Distribucion": "1000 - 2700 m.s.n.m",
             "Tamano": "15 cm",
-            "Imagen_Ave": "104/Ave104.webp",
+            "Imagen_Ave": "ave104.webp",
             "Sonidos": ["104/Aud104.mp3"],
             "Alimentos": ["Insec"]
         }, 
@@ -1581,7 +1581,7 @@
             "Vocalizacion": "Presenta una Gran variedad de cantos, reclamos y llamados; muy melodioso,trinos de diferentes notas y a distintos intervalos. Uno de sus cantos se asimila a un gorgoteo",
             "Distribucion": "< 3300 m.s.n.m",
             "Tamano": "12 cm",
-            "Imagen_Ave": "105/Ave105.webp",
+            "Imagen_Ave": "ave105.webp",
             "Sonidos": ["105/Aud105.mp3"],
             "Alimentos": ["Insec"]
         },
@@ -1596,7 +1596,7 @@
             "Vocalizacion": "Silbidos agudos muy musicales, a intervalos variados, trinos repetitivos, emiten vocalizaciones en dueto",
             "Distribucion": "1200 - 2000 m.s.n.m",
             "Tamano": "14 cm",
-            "Imagen_Ave": "106/Ave106.webp",
+            "Imagen_Ave": "ave106.webp",
             "Sonidos": ["106/Aud106.mp3"],
             "Alimentos": ["Insec"]
         },
@@ -1611,7 +1611,7 @@
             "Vocalizacion": "Presenta diferentes cantos, gozan de una Gran musicalidad y variabilidad, trinos de notas repetidos en alta velocidad “Biu-biu-biu-biu…” o “Chiup-chiup-chiup-chiup....”",
             "Distribucion": "1300 - 3200 m.s.n.m",
             "Tamano": "16 cm",
-            "Imagen_Ave": "107/Ave107.webp",
+            "Imagen_Ave": "ave107.webp",
             "Sonidos": ["107/Aud107.mp3"], 
             "Alimentos": ["Insec"]
         },   
@@ -1627,7 +1627,7 @@
             "Vocalizacion": "Posee un amplio repertorio de vocalizaciones, desde expresiones musicales a través de silbidos, potentes trinos, hasta reclamos ásperos y repetitivos",
             "Distribucion": "< 1600 m.s.n.m",
             "Tamano": "11 cm",
-            "Imagen_Ave": "108/Ave108.webp",
+            "Imagen_Ave": "ave108.webp",
             "Sonidos": ["108/Aud108-1.mp3", "108/Aud108-2.mp3", "108/Aud108-3.mp3"] ,
             "Alimentos": ["Insec"]
         }, 
@@ -1643,7 +1643,7 @@
             "Vocalizacion": "Cuenta con diferentes vocalizaciones, emite silbidos en diferentes notas, tiene una amplia gama de expresiones sonoras",
             "Distribucion": "1200 - 3000 m.s.n.m",
             "Tamano": "11 cm",
-            "Imagen_Ave": "109/Ave109.webp",
+            "Imagen_Ave": "ave109.webp",
             "Sonidos": ["109/Aud109.mp3"],
             "Alimentos": ["Insec"]
         }, 
@@ -1658,7 +1658,7 @@
             "Vocalizacion": "Sonido agudo, chirrido en alto y bajo tono “Tziu-Tzi-Tzi…”",
             "Distribucion": "600 -2300 m.s.n.m",
             "Tamano": "16.5 cm",
-            "Imagen_Ave": "110/Ave110.webp",
+            "Imagen_Ave": "ave110.webp",
             "Sonidos": ["110/Aud110-1.mp3", "110/Aud110-2.mp3", "110/Aud110-3.mp3"],
             "Alimentos": ["FrutPeq", "Semllas","Insec"]
         }, 
@@ -1673,7 +1673,7 @@
             "Vocalizacion": "Notas repetitivas y espaciadas “Suit - suit - suit…”",
             "Distribucion": "< 3000 m.s.n.m",
             "Tamano": "18 cm",
-            "Imagen_Ave": "111/Ave111.webp",
+            "Imagen_Ave": "ave111.webp",
             "Sonidos": ["111/Aud111.mp3"], 
             "Alimentos": ["Frut", "Semllas","Insec"]
         }, 
@@ -1688,7 +1688,7 @@
             "Vocalizacion": "Produce un chirrido en ritmo pendular, agudo y claro, similar al balanceo de un columpio metálico, razón por la cual en algunas regiones se le conoce de dicha manera “Chrip… - chirichiri… - Chrip... - chiriri…”.",
             "Distribucion": "600 - 3000 m.s.n.m",
             "Tamano": "17.5 cm",
-            "Imagen_Ave": "112/Ave112.webp",
+            "Imagen_Ave": "ave112.webp",
             "Sonidos": ["112/Aud112.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq","Insec"]
         }, 
@@ -1703,7 +1703,7 @@
             "Vocalizacion": "Emite chillidos, graznidos “Chiú… Chiú…”. También, cantos más elaborados y melodiosos en las mañanas principalmente",
             "Distribucion": "1700 - 4000 m.s.n.m",
             "Tamano": "32 cm",
-            "Imagen_Ave": "113/Ave113.webp",
+            "Imagen_Ave": "ave113.webp",
             "Sonidos": ["113/Aud113.mp3"],
             "Alimentos": ["Anfi", "Crusta", "Frugiv", "FrutPeq", "Huevos", "Insec", "Rat", "Semllas"]
         },        
@@ -1718,7 +1718,7 @@
             "Vocalizacion": "Muy activa, posee variedad de vocalizaciones, cantos sonoros, reclamos ásperos “Fiú fiú fiú fuí fuí...”",
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "23 cm",
-            "Imagen_Ave": "114/Ave114.webp",
+            "Imagen_Ave": "ave114.webp",
             "Sonidos": ["114/Aud114-1.mp3", "114/Aud114-2.mp3"] ,
             "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Semllas"]
         },
@@ -1733,7 +1733,7 @@
             "Vocalizacion": "Su vocalización es muy variada, puede tomar sonidos del ambiente o de otras aves e interpretarlos",
             "Distribucion": "< 1600 m.s.n.m",
             "Tamano": "25 cm",
-            "Imagen_Ave": "115/Ave115.webp",
+            "Imagen_Ave": "ave115.webp",
             "Sonidos": ["115/Aud115.mp3"],
             "Alimentos": ["Crusta", "Frugiv", "FrutPeq", "Insec", "Semllas"]
         },
@@ -1748,7 +1748,7 @@
             "Vocalizacion": "Diferentes vocalizaciones, potentes y musicales; también llamados ásperos repetitivos “Cga-cga-cga-cga cga…”",
             "Distribucion": "< 2800 m.s.n.m",
             "Tamano": "24 cm",
-            "Imagen_Ave": "116/Ave116.webp",
+            "Imagen_Ave": "ave116.webp",
             "Sonidos": ["116/Aud116-1.mp3", "116/Aud116-2.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
         },
@@ -1763,7 +1763,7 @@
             "Vocalizacion": "Serie de vocalizaciones agudas y musicales, gorjeo intenso tanto en percha como en vuelo “Chip-chip-chip”, “Sweee…”, “Trip-trip-trip”",
             "Distribucion": "< 500 - 3100 m.s.n.m",
             "Tamano": "10 cm",
-            "Imagen_Ave": "117/Ave117.webp",
+            "Imagen_Ave": "ave117.webp",
             "Sonidos": [ ],
             "Alimentos": ["Semllas", "Insec"]
         },
@@ -1778,7 +1778,7 @@
             "Vocalizacion": "Emite diferentes sonidos, algunos trinos, sonidos agudos, gorjeos y chillidos “Beeee” rasgueado, “bibibibí” o “Bui- Bui”",
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "10 cm",
-            "Imagen_Ave": "118/Ave118.webp",
+            "Imagen_Ave": "ave118.webp",
             "Sonidos": ["118/Aud118-1.mp3", "118/Aud118-2.mp3", "118/Aud118-3.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq"]
         },
@@ -1793,7 +1793,7 @@
             "Vocalizacion": "Serie aguda, larga y en diferentes tonos. “Psibisibsi..”",
             "Distribucion": "600 - 3000 m.s.n.m",
             "Tamano": "11 cm",
-            "Imagen_Ave": "119/Ave119.webp",
+            "Imagen_Ave": "ave119.webp",
             "Sonidos": ["119/Aud119.mp3"], 
             "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Semllas"]
         },
@@ -1809,7 +1809,7 @@
             "Vocalizacion": "Musical, compuesto por varios trinos, sonidos agudos, chillidos y llamados “Tsiu… tsi-¡tsi!”",
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "10 cm",
-            "Imagen_Ave": "120/Ave120.webp",
+            "Imagen_Ave": "ave120.webp",
             "Sonidos": [ ],
             "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Semllas"]
         },
@@ -1824,7 +1824,7 @@
             "Vocalizacion": "Siseo muy agudo en diferentes tonos “Tsiu-Tsi-tsitsitsí”",
             "Distribucion": "800 – 2600 m.s.n.m",
             "Tamano": "18 cm",
-            "Imagen_Ave": "121/Ave121.webp",
+            "Imagen_Ave": "ave121.webp",
             "Sonidos": ["121/Aud121.mp3"], 
             "Alimentos": ["FrutPeq", "Insec", "Semllas"]
         }, 
@@ -1839,7 +1839,7 @@
             "Vocalizacion": "Bastante activo con su canto, musical, nota tremolada “Si-Si-Siuuu…”",
             "Distribucion": "< 3600 m.s.n.m",
             "Tamano": "12.5 cm",
-            "Imagen_Ave": "122/Ave122.webp",
+            "Imagen_Ave": "ave122.webp",
             "Sonidos": ["122/Aud122.mp3"], 
             "Alimentos": ["Semlleros", "Insec", "Semllas"]
         }, 
@@ -1854,7 +1854,7 @@
             "Vocalizacion": "Musical, silbidos agudos en diferentes tonos, armonioso, notas cortas y seguidas",
             "Distribucion": "< 2800 m.s.n.m",
             "Tamano": "21 cm",
-            "Imagen_Ave": "123/Ave123.webp",
+            "Imagen_Ave": "ave123.webp",
             "Sonidos": ["123/Aud123.mp3"], 
             "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Nectari"]
         },
@@ -1870,7 +1870,7 @@
             "Vocalizacion": "Silbidos armónicos cortos e intermitentes, agudo y musical “Fiu... í... fi... fiu…”",
             "Distribucion": "< 1200 m.s.n.m",
             "Tamano": "20 cm",
-            "Imagen_Ave": "124/Ave124.webp",
+            "Imagen_Ave": "ave124.webp",
             "Sonidos": ["124/Aud124.mp3"], 
             "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
         },
@@ -1885,7 +1885,7 @@
             "Vocalizacion": "Emite diferentes vocalizaciones, notas ásperas, trinos chirriantes y gorjeos, eventualmente gruñidos secos",
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "19 cm",
-            "Imagen_Ave": "125/Ave125.webp",
+            "Imagen_Ave": "ave125.webp",
             "Sonidos": [ ],
             "Alimentos": ["Crusta", "Frugiv", "Semllas", "Insec", "Smlleros"]
         },
@@ -1900,7 +1900,7 @@
             "Vocalizacion": "Sonidos agudos y metálicos, series cortas, aunque frecuentes",
             "Distribucion": "< 2100 m.s.n.m",
             "Tamano": "18.5 cm",
-            "Imagen_Ave": "126/Ave126.webp",
+            "Imagen_Ave": "ave126.webp",
             "Sonidos": ["126/Aud126.mp3"], 
             "Alimentos": ["FrutPeq", "Insec", "Smlleros"]
         },
@@ -1915,7 +1915,7 @@
             "Vocalizacion": "Canto explosivo, muy potente e inconfundible, musical “Siu-siu.. SIU-SIÚ-siu -siu”. Aumenta el tono de la nota a medida que avanza la serie",
             "Distribucion": "< 1600 m.s.n.m",
             "Tamano": "13.5 cm",
-            "Imagen_Ave": "127/Ave127.webp",
+            "Imagen_Ave": "ave127.webp",
             "Sonidos": ["127/Aud127-1.mp3", "127/Aud127-2.mp3", "127/Aud127-3.mp3"],
             "Alimentos": ["Insec"]
         },
@@ -1930,7 +1930,7 @@
             "Vocalizacion": "Trinos, silbidos y llamados variados, algunos trémolos musicales",
             "Distribucion": "1400 - 3200 m.s.n.m",
             "Tamano": "14 cm",
-            "Imagen_Ave": "128/Ave128.webp",
+            "Imagen_Ave": "ave128.webp",
             "Sonidos": ["128/Aud128.mp3"], 
             "Alimentos": ["Insec"]
         },
@@ -1945,7 +1945,7 @@
             "Vocalizacion": "Canto agudo, presenta diferentes llamados y series “Chup-Chup-uep”",
             "Distribucion": "< 3200 m.s.n.m",
             "Tamano": "17.5 cm",
-            "Imagen_Ave": "129/Ave129.webp",
+            "Imagen_Ave": "ave129.webp",
             "Sonidos": ["129/Aud129.mp3"], 
             "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
         },  
@@ -1960,7 +1960,7 @@
             "Vocalizacion": "Emite diferentes cantos, el más común es un llamado tenue “Chup…. Chup… Chup”",
             "Distribucion": "1400 – 2300 m.s.n.m",
             "Tamano": "18 cm",
-            "Imagen_Ave": "130/Ave130.webp",
+            "Imagen_Ave": "ave130.webp",
             "Sonidos": ["130/Aud130.mp3"], 
             "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Nectari"]
         },
@@ -1975,7 +1975,7 @@
             "Vocalizacion": "Sonido metálico, notas cortas en series continuas “Chi-wi Chi-wi Chi-wi”",
             "Distribucion": "800 – 2200 m.s.n.m",
             "Tamano": "19 cm",
-            "Imagen_Ave": "131/Ave131.webp",
+            "Imagen_Ave": "ave131.webp",
             "Sonidos": ["131/Aud131.mp3"],
             "Alimentos": ["FrutPeq", "Insec", "Semllas"]
         },        
@@ -1990,7 +1990,7 @@
             "Vocalizacion": "Onomatopeya de su nombre común “Pió júdi o...” silbido melódico. Muy activo",
             "Distribucion": "< 2500 m.s.n.m",
             "Tamano": "19.5 cm",
-            "Imagen_Ave": "132/Ave132.webp",
+            "Imagen_Ave": "ave132.webp",
             "Sonidos": ["132/Aud132-1.mp3", "132/Aud132-2.mp3", "132/Aud132-3.mp3"],
             "Alimentos": ["Frugiv", "FrutPeq", "Gran", "Insec", "Nectari", "Semllas", "Semlleros"]
         },
@@ -2005,7 +2005,7 @@
             "Vocalizacion": "Serie similar a un silbido que va perdiendo intensidad, similar al sonido que se referencia cuando uno objeto se precipita “Fiiiiuuuuu…”",
             "Distribucion": "600 - 2300 m.s.n.m",
             "Tamano": "20.5 cm",
-            "Imagen_Ave": "133/Ave133.webp",
+            "Imagen_Ave": "ave133.webp",
             "Sonidos": ["133/Aud133.mp3"], 
             "Alimentos": ["Frugiv", "FrutPeq"]
         },   
@@ -2020,7 +2020,7 @@
             "Vocalizacion": "Notas agudas, cortas y musicales “Tsi... Tsiu... Tsi…”",
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "14.5 cm",
-            "Imagen_Ave": "134/Ave134.webp",
+            "Imagen_Ave": "ave134.webp",
             "Sonidos": ["134/Aud134-1.mp3", "134/Aud134-2.mp3"],
             "Alimentos": ["Insec", "Semllas", "Semlleros"]
         }, 
@@ -2035,7 +2035,7 @@
             "Vocalizacion": "Notas agudas, cortas y musicales “Tsi... Tsiu... Tsi…”Potente canto, musical, agudo, serie de diversas notas regularmente cortas",
             "Distribucion": "< 2200 m.s.n.m",
             "Tamano": "10 cm",
-            "Imagen_Ave": "135/Ave135.webp",
+            "Imagen_Ave": "ave135.webp",
             "Sonidos": ["135/Aud135-1.mp3", "135/Aud135-2.mp3"],
             "Alimentos": ["Semlleros"]
         },
@@ -2050,7 +2050,7 @@
             "Vocalizacion": "Trino débil, zumbante y agudo “Chichichichci”",
             "Distribucion": "700 - 2400 m.s.n.m",
             "Tamano": "10.5 cm",
-            "Imagen_Ave": "136/Ave136.webp",
+            "Imagen_Ave": "ave136.webp",
             "Sonidos": ["136/Aud136-1.mp3", "136/Aud136-2.mp3", "136/Aud136-3.mp3"],
             "Alimentos": ["FrutPeq", "Semlleros"]
         }, 
@@ -2065,7 +2065,7 @@
             "Vocalizacion": "Serie corta, muy aguda y vibrante “Trriiii… titi – trrriiii…”",
             "Distribucion": "< 2300 m.s.n.m",
             "Tamano": "10 cm",
-            "Imagen_Ave": "137/Ave137.webp",
+            "Imagen_Ave": "ave137.webp",
             "Sonidos": ["137/Aud137.mp3"], 
             "Alimentos": ["FrutPeq", "Insec", "Semlleros"]
         },
@@ -2080,7 +2080,7 @@
             "Vocalizacion": "Serie chirriante y desordenada, muy aguda y activa “Sivivi tsi tsi”",
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "11 cm",
-            "Imagen_Ave": "138/Ave138.webp",
+            "Imagen_Ave": "ave138.webp",
             "Sonidos": ["138/Aud138.mp3"],
             "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
         },
@@ -2095,7 +2095,7 @@
             "Vocalizacion": "Notas cortas, repetitivas y con series espaciadas “Chip… Chui…”",
             "Distribucion": "< 2200 m.s.n.m",
             "Tamano": "16 cm",
-            "Imagen_Ave": "139/Ave139.webp",
+            "Imagen_Ave": "ave139.webp",
             "Sonidos": ["139/Aud139.mp3"],
             "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
         },
@@ -2110,7 +2110,7 @@
             "Vocalizacion": "Llamados cortos y constantes “Chip…”",
             "Distribucion": "< 2200 m.s.n.m",
             "Tamano": "18 cm",
-            "Imagen_Ave": "140/Ave140.webp",
+            "Imagen_Ave": "ave140.webp",
             "Sonidos": ["140/Aud140.mp3"], 
             "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
         },
@@ -2126,7 +2126,7 @@
             "Vocalizacion": "Serie aguda y continua “Psi-psi-psi-sibi-sbi…”",
             "Distribucion": "800 – 2200 m.s.n.m",
             "Tamano": "12 cm",
-            "Imagen_Ave": "141/Ave141.webp",
+            "Imagen_Ave": "ave141.webp",
             "Sonidos": [ ],
             "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
         }, 
@@ -2141,7 +2141,7 @@
             "Vocalizacion": "Series repetitivas y cortas, en momentos agudas o ásperas “Chip-Chip-Chip”",
             "Distribucion": "< 2300 m.s.n.m",
             "Tamano": "13 cm",
-            "Imagen_Ave": "141/Ave141.webp",
+            "Imagen_Ave": "ave141.webp",
             "Sonidos": [ ],
             "Alimentos": ["FrutPeq", "Insec", "Frugiv", "Nectari"]
         }, 
@@ -2156,7 +2156,7 @@
             "Vocalizacion": "Trino agudo de baja intensidad “Trip…”",
             "Distribucion": "1000 – 2200 m.s.n.m",
             "Tamano": "11 cm",
-            "Imagen_Ave": "143/Ave143.webp",
+            "Imagen_Ave": "ave143.webp",
             "Sonidos": ["143/Aud143.mp3"], 
             "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
         },     
@@ -2171,7 +2171,7 @@
             "Vocalizacion": "Serie intensa y aguda, emite sonidos agudos muy seguidos y enérgicos",
             "Distribucion": "300 - 2500 m.s.n.m",
             "Tamano": "14 cm",
-            "Imagen_Ave": "144/Ave144.webp",
+            "Imagen_Ave": "ave144.webp",
             "Sonidos": ["144/Aud144.mp3"],
             "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
         },     
@@ -2186,7 +2186,7 @@
             "Vocalizacion": "Trino corto y agudo compuesto de varias series intensas",
             "Distribucion": "1400 - 2300 m.s.n.m",
             "Tamano": "13 cm",
-            "Imagen_Ave": "145/Ave145.webp",
+            "Imagen_Ave": "ave145.webp",
             "Sonidos": [ ], 
             "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
         },
@@ -2202,7 +2202,7 @@
             "Vocalizacion": "Serie aguda “Chip chrip” y desordenada",
             "Distribucion": "700 - 2200 m.s.n.m",
             "Tamano": "12 cm",
-            "Imagen_Ave": "146/Ave146.webp",
+            "Imagen_Ave": "ave146.webp",
             "Sonidos": ["146/Aud146.mp3"], 
             "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
         },
@@ -2217,7 +2217,7 @@
             "Vocalizacion": "Serie aguda “Chip chrip” y desordenadaEmite llamados cortos y agudos “Sip… Sip…”",
             "Distribucion": "< 2200 m.s.n.m",
             "Tamano": "12 cm",
-            "Imagen_Ave": "147/Ave147.webp",
+            "Imagen_Ave": "ave147.webp",
             "Sonidos": ["147/Aud147-1.mp3", "147/Aud147-2.mp3"],
             "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
         },
@@ -2232,7 +2232,7 @@
             "Vocalizacion": "Llamado sencillo y agudo “Suip… Suip…”",
             "Distribucion": "1200 – 2500 m.s.n.m",
             "Tamano": "13 cm",
-            "Imagen_Ave": "148/Ave148.webp",
+            "Imagen_Ave": "ave148.webp",
             "Sonidos": ["148/Aud148.mp3"],
             "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
         },
@@ -2247,7 +2247,7 @@
             "Vocalizacion": "Serie aguda y desordenada, varia su duración e intensidad",
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "16 cm",
-            "Imagen_Ave": "149/Ave149.webp",
+            "Imagen_Ave": "ave149.webp",
             "Sonidos": ["149/Aud149.mp3"],
             "Alimentos": ["FrutPeq", "Insec", "Frugiv", "Nectari"]
         }, 
@@ -2262,7 +2262,7 @@
             "Vocalizacion": "Muy activa, canto desordenado y chirriante",
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "17 cm",
-            "Imagen_Ave": "150/Ave150.webp",
+            "Imagen_Ave": "ave150.webp",
             "Sonidos": [ ],
             "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
         }      
