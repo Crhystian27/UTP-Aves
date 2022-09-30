@@ -1,5 +1,9 @@
 package co.utp.aves.presentation.model
 
+import android.os.Parcelable
+import kotlinx.parcelize.Parcelize
+
+@Parcelize
 data class Ave(
     var Alimentos: List<String>,
     var Codigo: String,
@@ -13,7 +17,7 @@ data class Ave(
     var Sonidos: List<String>,
     var Tamano: String,
     var Vocalizacion: String
-)
+): Parcelable
 
 fun equals(oldItem: Ave, newItem: Ave): Boolean =
     oldItem.Alimentos == newItem.Alimentos && oldItem.Codigo == newItem.Codigo &&

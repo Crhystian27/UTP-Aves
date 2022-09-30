@@ -6,7 +6,7 @@ import android.widget.ImageView
 import androidx.annotation.StringRes
 import co.utp.aves.R
 import com.bumptech.glide.Glide
-import com.bumptech.glide.request.RequestOptions
+
 import com.google.gson.Gson
 import java.io.IOException
 import java.io.InputStream
@@ -22,7 +22,6 @@ fun <T> fromJson(json: String, classOfT: Class<T>): T {
 
     }
 }
-
 
 fun loadDrawable(img: ImageView, resourceId: Drawable, context: Context) {
     Glide.with(context)

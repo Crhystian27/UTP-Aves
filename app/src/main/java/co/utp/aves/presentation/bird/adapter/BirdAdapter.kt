@@ -2,21 +2,19 @@ package co.utp.aves.presentation.bird.adapter
 
 import android.graphics.drawable.Drawable
 import android.view.LayoutInflater
+import android.view.View
 import android.view.ViewGroup
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.DiffUtil
-import co.utp.aves.R
+
 import co.utp.aves.base.BaseAdapter
 import co.utp.aves.base.BaseViewHolder
 import co.utp.aves.databinding.ItemBirdBinding
 import co.utp.aves.presentation.model.*
 import co.utp.aves.utils.loadDrawable
-import kotlinx.coroutines.CoroutineScope
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.launch
 
 
-class BirdAdapter :
+class BirdAdapter(private val listener: BirdClick) :
 BaseAdapter<Ave,BirdAdapter.BirdViewHolder>(
     diffCallBack
 ){
@@ -35,7 +33,6 @@ BaseAdapter<Ave,BirdAdapter.BirdViewHolder>(
         ))
 
 
-
     inner class BirdViewHolder(
         private val binding: ItemBirdBinding
     ): BaseViewHolder<Ave>(binding){
@@ -47,6 +44,10 @@ BaseAdapter<Ave,BirdAdapter.BirdViewHolder>(
                 loadDrawable(imgBird, drawable!!,root.context)
                 titleBird.text = data.Nombre_Comun
 
+                imgBird.setOnClickListener {
+                    listener.onClick(data)
+                }
+
             }
         }
 
@@ -57,19 +58,16 @@ BaseAdapter<Ave,BirdAdapter.BirdViewHolder>(
             override fun areItemsTheSame(
                 oldItem: Ave,
                 newItem: Ave
-            ): Boolean = equals(oldItem,newItem)
+            )= oldItem.Codigo == newItem.Codigo
 
             override fun areContentsTheSame(
                 oldItem: Ave,
                 newItem: Ave
-            ): Boolean =
-                oldItem.Alimentos == newItem.Alimentos && oldItem.Codigo == newItem.Codigo &&
-                    oldItem.Distribucion == newItem.Distribucion && oldItem.Familia == newItem.Familia &&
-                    oldItem.Imagen_Ave == newItem.Imagen_Ave && oldItem.Nombre_Cientifico == newItem.Nombre_Cientifico &&
-                    oldItem.Nombre_Comun == newItem.Nombre_Comun && oldItem.Nombre_Ingles == newItem.Nombre_Ingles &&
-                    oldItem.Orden == newItem.Orden && oldItem.Sonidos == newItem.Sonidos &&
-                    oldItem.Tamano == newItem.Tamano && oldItem.Vocalizacion == newItem.Vocalizacion
-
+            ) = oldItem == newItem
         }
     }
+}
+
+interface BirdClick{
+    fun onClick(ave: Ave)
 }

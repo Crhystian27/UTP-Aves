@@ -3,15 +3,15 @@ plugins {
     id 'org.jetbrains.kotlin.android'
     id 'kotlin-kapt'
     id 'androidx.navigation.safeargs.kotlin'
-    id 'kotlin-parcelize'
     id 'dagger.hilt.android.plugin'
+    id 'org.jetbrains.kotlin.plugin.parcelize'
 }
 android {
     compileSdk 32
 
     defaultConfig {
         applicationId "co.utp.aves"
-        minSdk 22
+        minSdk 23
         targetSdk 32
         versionCode 1
         versionName "1.0"
@@ -64,7 +64,6 @@ dependencies {
     // Navigation
     implementation "androidx.navigation:navigation-fragment-ktx:$navigation_version"
     implementation "androidx.navigation:navigation-ui-ktx:$navigation_version"
-    implementation "androidx.annotation:annotation:$annotation_version"
 
     //Hilt
     implementation "com.google.dagger:hilt-android:$dagger_hilt_version"

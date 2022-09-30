@@ -12,5 +12,17 @@
         <!-- Status bar color. -->
         <item name="android:windowTranslucentStatus">true</item>
         <item name="android:windowTranslucentNavigation">true</item>
+
     </style>
+
+
+    <style name="ThemeOverlay.Bird.Black" parent="@style/ThemeOverlay.MaterialComponents.Light">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorSecondary">@color/white</item>
+        <item name="colorSecondaryVariant">@color/white</item>
+        <item name="colorOnPrimary">#fff</item>
+    </style>
+
+
 </resources>
