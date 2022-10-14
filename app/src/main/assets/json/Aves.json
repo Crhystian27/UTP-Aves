@@ -11,8 +11,8 @@
             "Distribucion": "< 2000 msnm ",
             "Tamano": "23 cm",
             "Imagen_Ave": "ave001.webp",
-            "Sonidos": ["001/Aud001.mp3"],
-            "Alimentos": ["Anfi", "Crusta", "Frugiv", "FrutPeq", "Insec", "Semllas", "Semlleros"]
+            "Sonidos": ["aud001.mp3"],
+            "Alimentos": ["anfi", "crusta", "frugiv", "frutpeq", "insec", "semllas", "semlleros"]
         }, 
 
         {
@@ -26,8 +26,8 @@
             "Distribucion": "<2600 msnm",
             "Tamano": "50 cm",
             "Imagen_Ave": "ave002.webp",
-            "Sonidos": ["002/Aud002.mp3"],
-            "Alimentos": ["Crusta", "FrutPeq", "Insec"]
+            "Sonidos": ["aud002.mp3"],
+            "Alimentos": ["crusta", "frutpeq", "insec"]
         },
 
         {
@@ -42,7 +42,7 @@
             "Tamano": "40-46 cm",
             "Imagen_Ave": "ave003.webp",
             "Sonidos": [ ],
-            "Alimentos": ["Crusta", "Insec"]
+            "Alimentos": ["crusta", "insec"]
         },
 
         {
@@ -56,8 +56,8 @@
             "Distribucion": "900 – 2000 msnm",
             "Tamano": "75-85 cm",
             "Imagen_Ave": "ave004.webp",
-            "Sonidos": ["004/Aud004.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+            "Sonidos": ["aud004.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "insec"]
         },
 
         {
@@ -71,8 +71,8 @@
             "Distribucion": "En la cordillera oriental, occidental y central entre los 300 – 2000 msnm",
             "Tamano": "50-55 cm",
             "Imagen_Ave": "ave005.webp",
-            "Sonidos": ["005/Aud005-1.mp3", "005/Aud005-2.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+            "Sonidos": ["aud005_1.mp3", "aud005_2.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "insec"]
         },
 
         {
@@ -86,8 +86,8 @@
             "Distribucion": "En la cordillera oriental, occidental y central entre los 1300 - 2600 msnm",
             "Tamano": "27 cm",
             "Imagen_Ave": "ave006.webp",
-            "Sonidos": ["006/Aud006.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+            "Sonidos": ["aud006.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "insec"]
         },
         
         {
@@ -101,8 +101,8 @@
             "Distribucion": "<2000 m.s.n.m",
             "Tamano": "35 cm",
             "Imagen_Ave": "ave007.webp",
-            "Sonidos": ["007/Aud007.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Gran", "Semllas", "Semlleros"]
+            "Sonidos": ["aud007.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "gran", "semllas", "semlleros"]
         },
 
         {
@@ -116,8 +116,8 @@
             "Distribucion": "< 3500 m.s.n.m",
             "Tamano": "26 cm",
             "Imagen_Ave": "ave008.webp",
-            "Sonidos": ["008/Aud008.mp3"],
-            "Alimentos": ["Gran", "Semllas", "Semlleros"]
+            "Sonidos": ["aud008.mp3"],
+            "Alimentos": ["gran", "semllas", "semlleros"]
         },
 
         {
@@ -131,8 +131,8 @@
             "Distribucion": "< 2500 m.s.n.m",
             "Tamano": "18 cm",
             "Imagen_Ave": "ave009.webp",
-            "Sonidos": ["009/Aud009-1.mp3","009/Aud009-2.mp3"],
-            "Alimentos": ["Semllas", "Semlleros"]
+            "Sonidos": ["aud009_1.mp3","aud009_2.mp3"],
+            "Alimentos": ["semllas", "semlleros"]
         },
 
         {
@@ -146,8 +146,8 @@
             "Distribucion": "< 3000 m.s.n.m",
             "Tamano": "35 cm",
             "Imagen_Ave": "ave010.webp",
-            "Sonidos": ["010/Aud010.mp3"],
-            "Alimentos": ["Anfi", "Frugiv", "FrutPeq", "Huevos", "Insec", "Rat", "Semllas", "Semlleros"]
+            "Sonidos": ["aud010.mp3"],
+            "Alimentos": ["anfi", "frugiv", "frutpeq", "huevos", "insec", "rat", "semllas", "semlleros"]
         },
 
         {
@@ -161,8 +161,8 @@
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "28 cm",
             "Imagen_Ave": "ave011.webp",
-            "Sonidos": ["011/Aud011-1.mp3", "011/Aud011-2.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud011_1.mp3", "aud011_2.mp3"],
+            "Alimentos": ["insec"]
         },
 
         {
@@ -176,8 +176,8 @@
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "50 cm",
             "Imagen_Ave": "ave012.webp",
-            "Sonidos": ["012/Aud012.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud012.mp3"],
+            "Alimentos": ["insec"]
         },  
 
         {
@@ -187,12 +187,12 @@
             "Orden": "Nyctibiiforme",
             "Familia": "Nyctibiidae",
             "Nombre_Ingles": "Common Potoo",
-            "Vocalizacion": "Alrededor de su vocalización se han generado Gran cantidad de leyendas, puesto que, es similar a un lamento. Se caracteriza por tener 4 o 5 tiempos: “Ju… Juu… Juu… Juu… Ju”",
+            "Vocalizacion": "Alrededor de su vocalización se han generado gran cantidad de leyendas, puesto que, es similar a un lamento. Se caracteriza por tener 4 o 5 tiempos: “Ju… Juu… Juu… Juu… Ju”",
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "38 cm",
             "Imagen_Ave": "ave013.webp",
-            "Sonidos": ["013/Aud013.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud013.mp3"],
+            "Alimentos": ["insec"]
         },  
         
         {
@@ -206,8 +206,8 @@
             "Distribucion": "< 2300 m.s.n.m",
             "Tamano": "27 cm",
             "Imagen_Ave": "ave014.webp",
-            "Sonidos": ["014/Aud014-1.mp3", "014/Aud014-2.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud014_1.mp3", "aud014_2.mp3"],
+            "Alimentos": ["insec"]
         },  
         
         {
@@ -222,7 +222,7 @@
             "Tamano": "10 cm",
             "Imagen_Ave": "ave015.webp",
             "Sonidos": [ ],
-            "Alimentos": ["Insec", "Nectari"]
+            "Alimentos": ["insec", "nectari"]
         },
         
         {
@@ -236,8 +236,8 @@
             "Distribucion": "600- 2200 m.s.n.m.",
             "Tamano": "12.5 cm",
             "Imagen_Ave": "ave016.webp",
-            "Sonidos": ["016/Aud016-1.mp3", "016/Aud016-2.mp3"],
-            "Alimentos": ["Insec", "Nectari"]
+            "Sonidos": ["aud016_1.mp3", "aud016_2.mp3"],
+            "Alimentos": ["insec", "nectari"]
         }, 
         
         {
@@ -252,7 +252,7 @@
             "Tamano": "Macho: 12 cm y Hembra: 7.6 cm",
             "Imagen_Ave": "ave017.webp",
             "Sonidos": [ ],
-            "Alimentos": ["Insec", "Nectari"]
+            "Alimentos": ["insec", "nectari"]
         },    
         
         {
@@ -266,8 +266,8 @@
             "Distribucion": "< 2100 m.s.n.m",
             "Tamano": "8.7 cm",
             "Imagen_Ave": "ave018.webp",
-            "Sonidos": ["018/Aud018.mp3"],
-            "Alimentos": ["Insec", "Nectari"]
+            "Sonidos": ["aud018.mp3"],
+            "Alimentos": ["insec", "nectari"]
         },    
         
         {
@@ -281,8 +281,8 @@
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "35-40 cm",
             "Imagen_Ave": "ave019.webp",
-            "Sonidos": ["019/Aud019.mp3"],
-            "Alimentos": ["Crusta", "Insec", "Pisci"]
+            "Sonidos": ["aud019.mp3"],
+            "Alimentos": ["crusta", "insec", "pisci"]
         },  
 
         {
@@ -296,8 +296,8 @@
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "15 cm",
             "Imagen_Ave": "ave020.webp",
-            "Sonidos": ["020/Aud020.mp3"],
-            "Alimentos": ["Crusta", "Insec", "Semllas", "Semlleros"]
+            "Sonidos": ["aud020.mp3"],
+            "Alimentos": ["crusta", "insec", "semllas", "semlleros"]
         },         
 
         {
@@ -311,8 +311,8 @@
             "Distribucion": "< 3500 m.s.n.m",
             "Tamano": "33 cm",
             "Imagen_Ave": "ave021.webp",
-            "Sonidos": ["021/Aud021.mp3"],
-            "Alimentos": ["Anfi", "Crusta", "FrutPeq", "Insec", "Pisci", "Semllas", "Semlleros"]
+            "Sonidos": ["aud021.mp3"],
+            "Alimentos": ["anfi", "crusta", "frutpeq", "insec", "pisci", "semllas", "semlleros"]
         },  
 
         {
@@ -326,8 +326,8 @@
             "Distribucion": "< 3300 m.s.n.m",
             "Tamano": "37 cm",
             "Imagen_Ave": "ave022.webp",
-            "Sonidos": ["022/Aud022.mp3"],
-            "Alimentos": ["Crusta", "Insec", "Pisci"]
+            "Sonidos": ["aud022.mp3"],
+            "Alimentos": ["crusta", "insec", "pisci"]
         },
         
         {
@@ -341,8 +341,8 @@
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "45 cm",
             "Imagen_Ave": "ave023.webp",
-            "Sonidos": ["023/Aud023.mp3"],
-            "Alimentos": ["Anfi", "Crusta", "Insec", "Pisci", "Rat"]
+            "Sonidos": ["aud023.mp3"],
+            "Alimentos": ["anfi", "crusta", "insec", "pisci", "rat"]
         }, 
 
         {
@@ -357,7 +357,7 @@
             "Tamano": "60 cm",
             "Imagen_Ave": "ave024.webp",
             "Sonidos": [ ],
-            "Alimentos": ["Anfi", "Crusta", "Insec", "Pisci", "Rat"]
+            "Alimentos": ["anfi", "crusta", "insec", "pisci", "rat"]
         },
         
         {
@@ -371,8 +371,8 @@
             "Distribucion": "< 1800 m.s.n.m",
             "Tamano": "75 cm",
             "Imagen_Ave": "ave025.webp",
-            "Sonidos": ["025/Aud025-1.mp3","025/Aud025-2.mp3"],
-            "Alimentos": ["Anfi", "Crusta", "Insec", "Pisci", "Rat"]
+            "Sonidos": ["aud025_1.mp3","aud025_2.mp3"],
+            "Alimentos": ["anfi", "crusta", "insec", "pisci", "rat"]
         }, 
         
         
@@ -387,7 +387,7 @@
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "75 cm",
             "Imagen_Ave": "ave026.webp",
-            "Sonidos": ["026/Aud026.mp3"],
+            "Sonidos": ["aud026.mp3"],
             "Alimentos": []
         },
         
@@ -402,8 +402,8 @@
             "Distribucion": "< 3000 m.s.n.m",
             "Tamano": "40-50 cm",
             "Imagen_Ave": "ave027.webp",
-            "Sonidos": ["027/Aud027.mp3"],
-            "Alimentos": ["Anfi", "Crusta", "Insec"]
+            "Sonidos": ["aud027.mp3"],
+            "Alimentos": ["anfi", "crusta", "insec"]
         },    
         
         {
@@ -417,8 +417,8 @@
             "Distribucion": "< 3000 m.s.n.m",
             "Tamano": "40-50 cm",
             "Imagen_Ave": "ave028.webp",
-            "Sonidos": ["027/Aud027.mp3"],
-            "Alimentos": ["Anfi", "Crusta", "Insec"]
+            "Sonidos": ["aud027.mp3"],
+            "Alimentos": ["anfi", "crusta", "insec"]
         },   
         
         {
@@ -432,8 +432,8 @@
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "60-70 cm",
             "Imagen_Ave": "ave029.webp",
-            "Sonidos": ["029/Aud029.mp3"],
-            "Alimentos": ["Anfi", "Rat", "Paj"]
+            "Sonidos": ["aud029.mp3"],
+            "Alimentos": ["anfi", "rat", "paj"]
         },
         
         {
@@ -447,8 +447,8 @@
             "Distribucion": "< 2400 m.s.n.m",
             "Tamano": "60-70 cm",
             "Imagen_Ave": "ave030.webp",
-            "Sonidos": ["030/Aud030.mp3"],
-            "Alimentos": ["Anfi", "Rat", "Paj"]
+            "Sonidos": ["aud030.mp3"],
+            "Alimentos": ["anfi", "rat", "paj"]
         },   
         
         {
@@ -462,8 +462,8 @@
             "Distribucion": "1500 - 3500 m.s.n.m.",
             "Tamano": "60-80 cm",
             "Imagen_Ave": "ave031.webp",
-            "Sonidos": ["031/Aud031.mp3"],
-            "Alimentos": ["Anfi", "Rat", "Paj"]
+            "Sonidos": ["aud031.mp3"],
+            "Alimentos": ["anfi", "rat", "paj"]
         },
         
         {
@@ -477,8 +477,8 @@
             "Distribucion": "1200 – 3500 m.s.n.m",
             "Tamano": "28-35 cm",
             "Imagen_Ave": "ave032.webp",
-            "Sonidos": ["032/Aud032.mp3"],
-            "Alimentos": ["Anfi", "Rat", "Paj"]
+            "Sonidos": ["aud032.mp3"],
+            "Alimentos": ["anfi", "rat", "paj"]
         }, 
         
         
@@ -493,8 +493,8 @@
             "Distribucion": "< 2700 m.s.n.m",
             "Tamano": "33-40 cm",
             "Imagen_Ave": "ave033.webp",
-            "Sonidos": ["033/Aud033-1.mp3", "033/Aud033-2.mp3", "033/Aud033-3.mp3"],
-            "Alimentos": ["Anfi", "Insec", "Rat", "Paj", "Pisci"]
+            "Sonidos": ["aud033_1.mp3", "aud033_2.mp3", "aud033_3.mp3"],
+            "Alimentos": ["anfi", "insec", "rat", "paj", "pisci"]
         }, 
         
         
@@ -510,7 +510,7 @@
             "Tamano": "60-75 cm",
             "Imagen_Ave": "ave034.webp",
             "Sonidos": [ ],
-            "Alimentos": ["Anfi", "Insec", "Rat", "Paj"]
+            "Alimentos": ["anfi", "insec", "rat", "paj"]
         },
 
         {
@@ -524,8 +524,8 @@
             "Distribucion": "2700 m.s.n.m",
             "Tamano": "23 cm",
             "Imagen_Ave": "ave035.webp",
-            "Sonidos": ["035/Aud035.mp3"],
-            "Alimentos": ["Crusta", "Insec", "Rat"]
+            "Sonidos": ["aud035.mp3"],
+            "Alimentos": ["crusta", "insec", "rat"]
         },    
         
         {
@@ -540,7 +540,7 @@
             "Tamano": "43-52 cm",
             "Imagen_Ave": "ave036.webp",
             "Sonidos": [ ],
-            "Alimentos": ["Anfi", "Insec", "Rat"]
+            "Alimentos": ["anfi", "insec", "rat"]
         },  
         
         {
@@ -554,8 +554,8 @@
             "Distribucion": "< 1500 m.s.n.m < 2300 m.s.n.m",
             "Tamano": "30-35 cm",
             "Imagen_Ave": "ave037.webp",
-            "Sonidos": ["037/Aud037-1.mp3", "037/Aud037-2.mp3"],
-            "Alimentos": ["Anfi", "Insec", "Rat"]
+            "Sonidos": ["aud037_1.mp3", "aud037_2.mp3"],
+            "Alimentos": ["anfi", "insec", "rat"]
         }, 
         
         {
@@ -569,8 +569,8 @@
             "Distribucion": "1200 - 2800 m.s.n.m",
             "Tamano": "36 cm",
             "Imagen_Ave": "ave038.webp",
-            "Sonidos": ["038/Aud038.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq"]
+            "Sonidos": ["aud038.mp3"],
+            "Alimentos": ["frugiv", "frutpeq"]
         },  
         
         {
@@ -584,8 +584,8 @@
             "Distribucion": "< 2500 m.s.n.m",
             "Tamano": "26 cm",
             "Imagen_Ave": "ave039.webp",
-            "Sonidos": ["039/Aud039-1.mp3", "039/Aud039-2.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+            "Sonidos": ["aud039_1.mp3", "aud039_2.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "insec"]
         },
 
         
@@ -600,8 +600,8 @@
             "Distribucion": "1300 - 3000 m.s.n.m",
             "Tamano": "48 cm",
             "Imagen_Ave": "ave040.webp",
-            "Sonidos": ["040/Aud040-1.mp3", "040/Aud040-2.mp3", "040/Aud040-3.mp3"],
-            "Alimentos": ["Anfi", "Crusta", "Insec", "Rat"]
+            "Sonidos": ["aud040_1.mp3", "aud040_2.mp3", "aud040_3.mp3"],
+            "Alimentos": ["anfi", "crusta", "insec", "rat"]
         },
 
         {
@@ -615,8 +615,8 @@
             "Distribucion": "900 – 2500 m.s.n.m",
             "Tamano": "15.5 cm",
             "Imagen_Ave": "ave041.webp",
-            "Sonidos": ["041/Aud041.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+            "Sonidos": ["aud041.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "insec"]
         },        
                 
         
@@ -631,8 +631,8 @@
             "Distribucion": "1500 - 3300 m.s.n.m",
             "Tamano": "31-37 cm",
             "Imagen_Ave": "ave042.webp",
-            "Sonidos": ["042/Aud042.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Huevos", "Anfi"]
+            "Sonidos": ["aud042.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "insec", "huevos", "anfi"]
         },
         
         {
@@ -646,8 +646,8 @@
             "Distribucion": "600 - 2200 m.s.n.m",
             "Tamano": "40-45 cm",
             "Imagen_Ave": "ave043.webp",
-            "Sonidos": ["043/Aud043.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Huevos", "Anfi"]
+            "Sonidos": ["aud043.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "insec", "huevos", "anfi"]
         }, 
         
         {
@@ -661,14 +661,14 @@
             "Distribucion": "1200 - 3000 m.s.n.m",
             "Tamano": "48 cm",
             "Imagen_Ave": "ave044.webp",
-            "Sonidos": ["044/Aud044.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+            "Sonidos": ["aud044.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "insec"]
         },   
         
         {
             "Codigo":"045",
             "Nombre_Comun": "Carpinterito punteado",
-            "Nombre_Cientifico": "Picumnus Granadensis",
+            "Nombre_Cientifico": "Picumnus granadensis",
             "Orden": "Piciforme",
             "Familia": "Picidae",
             "Nombre_Ingles": "Grayish Piculet",
@@ -676,8 +676,8 @@
             "Distribucion": "500 - 2200 m.s.n.m",
             "Tamano": "9.5 cm",
             "Imagen_Ave": "ave045.webp",
-            "Sonidos": ["045/Aud045.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud045.mp3"],
+            "Alimentos": ["insec"]
         },  
         
         {
@@ -691,8 +691,8 @@
             "Distribucion": "1400 - 2700 m.s.n.m",
             "Tamano": "23 cm",
             "Imagen_Ave": "ave046.webp",
-            "Sonidos": ["046/Aud046.mp3"],
-            "Alimentos": ["FrutPeq", "Insec", "Anfi", "Nectari", "Semllas"]
+            "Sonidos": ["aud046.mp3"],
+            "Alimentos": ["frutpeq", "insec", "anfi", "nectari", "semllas"]
         },  
         
         {
@@ -706,8 +706,8 @@
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "18 cm",
             "Imagen_Ave": "ave047.webp",
-            "Sonidos": ["047/Aud047.mp3"],
-            "Alimentos": ["FrutPeq", "Insec", "Anfi", "Nectari", "Semllas"]
+            "Sonidos": ["aud047.mp3"],
+            "Alimentos": ["frutpeq", "insec", "anfi", "nectari", "semllas"]
         },
 
         {
@@ -721,8 +721,8 @@
             "Distribucion": "800 - 2800 m.s.n.m",
             "Tamano": "17 cm",
             "Imagen_Ave": "ave048.webp",
-            "Sonidos": ["048/Aud048.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+            "Sonidos": ["aud048.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "insec"]
         }, 
         
         {
@@ -736,8 +736,8 @@
             "Distribucion": "900 - 3000 m.s.n.m",
             "Tamano": "23 cm",
             "Imagen_Ave": "ave049.webp",
-            "Sonidos": ["049/Aud049.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+            "Sonidos": ["aud049.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "insec"]
         },    
 
 
@@ -752,8 +752,8 @@
             "Distribucion": "< 1800 m.s.n.m",
             "Tamano": "20 cm",
             "Imagen_Ave": "ave050.webp",
-            "Sonidos": ["050/Aud050.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+            "Sonidos": ["aud050.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "insec"]
         }, 
 
 
@@ -768,8 +768,8 @@
             "Distribucion": "< 2300 m.s.n.m",
             "Tamano": "33 cm",
             "Imagen_Ave": "ave051.webp",
-            "Sonidos": ["051/Aud051.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Semllas"]
+            "Sonidos": ["aud051.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "insec", "semllas"]
         },
 
         {
@@ -783,8 +783,8 @@
             "Distribucion": "< 2700 m.s.n.m",
             "Tamano": "40-45 cm",
             "Imagen_Ave": "ave052.webp",
-            "Sonidos": ["052/Aud052.mp3"],
-            "Alimentos": ["Anfi", "Crusta", "Gran", "FrutPeq", "Insec", "Pisci", "Rat", "Semllas"]
+            "Sonidos": ["aud052.mp3"],
+            "Alimentos": ["anfi", "crusta", "gran", "frutpeq", "insec", "pisci", "rat", "semllas"]
         },  
         
         {
@@ -799,7 +799,7 @@
             "Tamano": "40-45 cm",
             "Imagen_Ave": "ave053.webp",
             "Sonidos": [ ],
-            "Alimentos": ["Anfi", "Insec", "Rat"]
+            "Alimentos": ["anfi", "insec", "rat"]
         }, 
 
         {
@@ -813,8 +813,8 @@
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "38 cm",
             "Imagen_Ave": "ave054.webp",
-            "Sonidos": ["054/Aud054.mp3"],
-            "Alimentos": ["Anfi", "Insec", "Rat"]
+            "Sonidos": ["aud054.mp3"],
+            "Alimentos": ["anfi", "insec", "rat"]
         },
         
         {
@@ -828,8 +828,8 @@
             "Distribucion": "< 1500 m.s.n.m",
             "Tamano": "18.5 cm",
             "Imagen_Ave": "ave055.webp",
-            "Sonidos": ["055/Aud055.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Gran", "Nectari", "Semllas"]
+            "Sonidos": ["aud055.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "gran", "nectari", "semllas"]
         },        
         
 
@@ -844,8 +844,8 @@
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "26 cm",
             "Imagen_Ave": "ave056.webp",
-            "Sonidos": ["056/Aud056-1.mp3", "056/Aud056-2.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Gran", "Nectari", "Semllas"]
+            "Sonidos": ["aud056_1.mp3", "aud056_2.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "gran", "nectari", "semllas"]
         }, 
         
         {
@@ -859,8 +859,8 @@
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "12.5 cm",
             "Imagen_Ave": "ave057.webp",
-            "Sonidos": ["057/Aud057-1.mp3", "057/Aud057-2.mp3", "057/Aud057-3.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Gran", "Nectari", "Semllas"]
+            "Sonidos": ["aud057_1.mp3", "aud057_2.mp3", "aud057_3.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "gran", "nectari", "semllas"]
         },     
         
         
@@ -875,8 +875,8 @@
             "Distribucion": "500 – 2600 m.s.n.m",
             "Tamano": "35 cm",
             "Imagen_Ave": "ave058.webp",
-            "Sonidos": ["058/Aud058-1.mp3", "058/Aud058-2.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Gran", "Nectari", "Semllas"]
+            "Sonidos": ["aud058_1.mp3", "aud058_2.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "gran", "nectari", "semllas"]
         },  
         
         {
@@ -890,8 +890,8 @@
             "Distribucion": "< 1500 m.s.n.m",
             "Tamano": "19.5 cm",
             "Imagen_Ave": "ave059.webp",
-            "Sonidos": ["059/Aud059.mp3"],
-            "Alimentos": ["Anfi", "Crusta", "Insec"]
+            "Sonidos": ["aud059.mp3"],
+            "Alimentos": ["anfi", "crusta", "insec"]
         },   
         
         {
@@ -905,8 +905,8 @@
             "Distribucion": "< 1500 m.s.n.m",
             "Tamano": "19.5 cm",
             "Imagen_Ave": "ave060.webp",
-            "Sonidos": ["059/Aud059.mp3"],
-            "Alimentos": ["Anfi", "Crusta", "Insec"]
+            "Sonidos": ["aud059.mp3"],
+            "Alimentos": ["anfi", "crusta", "insec"]
         }, 
 
         {
@@ -920,8 +920,8 @@
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "16 cm",
             "Imagen_Ave": "ave061.webp",
-            "Sonidos": ["061/Aud061-1.mp3", "061/Aud061-2.mp3", "061/Aud061-3.mp3"],
-            "Alimentos": ["Insec", "Semllas"]
+            "Sonidos": ["aud061_1.mp3", "aud061_2.mp3", "aud061_3.mp3"],
+            "Alimentos": ["insec", "semllas"]
         },
         
         {
@@ -935,8 +935,8 @@
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "16 cm",
             "Imagen_Ave": "ave062.webp",
-            "Sonidos": ["061/Aud061-1.mp3", "061/Aud061-2.mp3", "061/Aud061-3.mp3"],
-            "Alimentos": ["Insec", "Semllas"]
+            "Sonidos": ["aud061_1.mp3", "aud061_2.mp3", "aud061_3.mp3"],
+            "Alimentos": ["insec", "semllas"]
         },
         
         {
@@ -950,8 +950,8 @@
             "Distribucion": "< 1400 m.s.n.m",
             "Tamano": "15 cm",
             "Imagen_Ave": "ave063.webp",
-            "Sonidos": ["063/Aud063-1.mp3", "063/Aud063-2.mp3"],
-            "Alimentos": ["Anfi", "Insec"]
+            "Sonidos": ["aud063_1.mp3", "aud063_2.mp3"],
+            "Alimentos": ["anfi", "insec"]
         },
 
         {
@@ -965,8 +965,8 @@
             "Distribucion": "400 – 2300 m.s.n.m",
             "Tamano": "12 cm",
             "Imagen_Ave": "ave064.webp",
-            "Sonidos": ["064/Aud064.mp3"],
-            "Alimentos": ["FrutPeq", "Insec"]
+            "Sonidos": ["aud064.mp3"],
+            "Alimentos": ["frutpeq", "insec"]
         },   
         
         
@@ -981,8 +981,8 @@
             "Distribucion": "1200 – 2000 m.s.n.m",
             "Tamano": "14 cm",
             "Imagen_Ave": "ave065.webp",
-            "Sonidos": ["065/Aud065.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud065.mp3"],
+            "Alimentos": ["insec"]
         },    
         
         {
@@ -996,8 +996,8 @@
             "Distribucion": "< 1500 m.s.n.m",
             "Tamano": "15 cm",
             "Imagen_Ave": "ave066.webp",
-            "Sonidos": ["066/Aud066.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud066.mp3"],
+            "Alimentos": ["insec"]
         },
         
         {
@@ -1011,8 +1011,8 @@
             "Distribucion": "600 – 1800 m.s.n.m",
             "Tamano": "18 cm",
             "Imagen_Ave": "ave067.webp",
-            "Sonidos": ["067/Aud067.mp3"],
-            "Alimentos": ["Anfi", "Insec"]
+            "Sonidos": ["aud067.mp3"],
+            "Alimentos": ["anfi", "insec"]
         },
         
         {
@@ -1022,12 +1022,12 @@
             "Orden": "Passeriforme",
             "Familia": "Grallariidae",
             "Nombre_Ingles": "Scaled Antpitta",
-            "Vocalizacion": "VibRato sostenido por unos segundos “Juuururururu…”",
+            "Vocalizacion": "Vibrato sostenido por unos segundos “Juuururururu…”",
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "17 cm",
             "Imagen_Ave": "ave068.webp",
-            "Sonidos": ["068/Aud068.mp3"],
-            "Alimentos": ["Anfi", "Insec"]
+            "Sonidos": ["aud068.mp3"],
+            "Alimentos": ["anfi", "insec"]
         },  
         
         {
@@ -1041,8 +1041,8 @@
             "Distribucion": "1200 – 3200 m.s.n.m",
             "Tamano": "19 cm",
             "Imagen_Ave": "ave069.webp",
-            "Sonidos": ["069/Aud069.mp3"],
-            "Alimentos": ["Anfi", "Insec"]
+            "Sonidos": ["aud069.mp3"],
+            "Alimentos": ["anfi", "insec"]
         },
         
         {
@@ -1056,8 +1056,8 @@
             "Distribucion": "< 1700 m.s.n.m",
             "Tamano": "24 cm",
             "Imagen_Ave": "ave070.webp",
-            "Sonidos": ["070/Aud070.mp3"],
-            "Alimentos": ["Anfi", "Insec"]
+            "Sonidos": ["aud070.mp3"],
+            "Alimentos": ["anfi", "insec"]
         },  
         
         {
@@ -1071,8 +1071,8 @@
             "Distribucion": "< 1400 m.s.n.m",
             "Tamano": "19.5 cm",
             "Imagen_Ave": "ave071.webp",
-            "Sonidos": ["071/Aud071.mp3"],
-            "Alimentos": ["Anfi", "Insec", "FrutPeq"]
+            "Sonidos": ["aud071.mp3"],
+            "Alimentos": ["anfi", "insec", "frutpeq"]
         },
         
         {
@@ -1086,8 +1086,8 @@
             "Distribucion": "1000 - 2200 m.s.n.m",
             "Tamano": "14.5 cm",
             "Imagen_Ave": "ave072.webp",
-            "Sonidos": ["072/Aud072.mp3"],
-            "Alimentos": ["Insec", "FrutPeq"]
+            "Sonidos": ["aud072.mp3"],
+            "Alimentos": ["insec", "frutpeq"]
         },   
         
         {
@@ -1101,8 +1101,8 @@
             "Distribucion": "< 1800 m.s.n.m",
             "Tamano": "15 cm",
             "Imagen_Ave": "ave073.webp",
-            "Sonidos": ["073/Aud073.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud073.mp3"],
+            "Alimentos": ["insec"]
         },   
         
         {
@@ -1116,8 +1116,8 @@
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "14 cm",
             "Imagen_Ave": "ave074.webp",
-            "Sonidos": ["074/Aud074.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud074.mp3"],
+            "Alimentos": ["insec"]
         }, 
         
         {
@@ -1131,8 +1131,8 @@
             "Distribucion": "1300 – 3200 m.s.n.m",
             "Tamano": "16 cm",
             "Imagen_Ave": "ave075.webp",
-            "Sonidos": ["075/Aud075-1.mp3", "075/Aud075-2.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud075_1.mp3", "aud075_2.mp3"],
+            "Alimentos": ["insec"]
         }, 
         
         {
@@ -1146,8 +1146,8 @@
             "Distribucion": "< 1800 m.s.n.m",
             "Tamano": "10 cm",
             "Imagen_Ave": "ave076.webp",
-            "Sonidos": ["076/Aud076-1.mp3", "076/Aud076-2.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud076_1.mp3", "aud076_2.mp3"],
+            "Alimentos": ["insec"]
         },
         
         {
@@ -1161,8 +1161,8 @@
             "Distribucion": "< 1700 m.s.n.m",
             "Tamano": "11 cm",
             "Imagen_Ave": "ave077.webp",
-            "Sonidos": ["077/Aud077.mp3"],
-            "Alimentos": ["Insec", "FrutPeq"]
+            "Sonidos": ["aud077.mp3"],
+            "Alimentos": ["insec", "frutpeq"]
         },     
         
         {
@@ -1177,7 +1177,7 @@
             "Tamano": "16.5 cm",
             "Imagen_Ave": "ave078.webp",
             "Sonidos": [ ],
-            "Alimentos": ["Insec", "FrutPeq"]
+            "Alimentos": ["insec", "frutpeq"]
         },   
         
         {
@@ -1191,8 +1191,8 @@
             "Distribucion": "< 1700 m.s.n.m",
             "Tamano": "13 cm",
             "Imagen_Ave": "ave079.webp",
-            "Sonidos": ["079/Aud079.mp3"],
-            "Alimentos": ["Insec", "FrutPeq"]
+            "Sonidos": ["aud079.mp3"],
+            "Alimentos": ["insec", "frutpeq"]
         },  
         
         {
@@ -1206,8 +1206,8 @@
             "Distribucion": "500 – 2500 m.s.n.m",
             "Tamano": "11 cm",
             "Imagen_Ave": "ave080.webp",
-            "Sonidos": ["080/Aud080.mp3"],
-            "Alimentos": ["Insec", "FrutPeq"]
+            "Sonidos": ["aud080.mp3"],
+            "Alimentos": ["insec", "frutpeq"]
         },
 
         {
@@ -1221,8 +1221,8 @@
             "Distribucion": "400 - 2400 m.s.n.m",
             "Tamano": "9.7 cm",
             "Imagen_Ave": "ave081.webp",
-            "Sonidos": ["081/Aud081-1.mp3", "081/Aud081-2.mp3", "081/Aud081-3.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud081_1.mp3", "aud081_2.mp3", "aud081_3.mp3"],
+            "Alimentos": ["insec"]
         },        
 
         {
@@ -1236,8 +1236,8 @@
             "Distribucion": "< 1300 m.s.n.m",
             "Tamano": "9.5 cm",
             "Imagen_Ave": "ave082.webp",
-            "Sonidos": ["082/Aud082.mp3"],
-            "Alimentos": ["Insec", "FrutPeq"]
+            "Sonidos": ["aud082.mp3"],
+            "Alimentos": ["insec", "frutpeq"]
         },        
 
         {
@@ -1251,8 +1251,8 @@
             "Distribucion": "< 2200 m.s.n.m",
             "Tamano": "9.5 cm",
             "Imagen_Ave": "ave083.webp",
-            "Sonidos": ["083/Aud083.mp3"],
-            "Alimentos": ["Insec", "FrutPeq"]
+            "Sonidos": ["aud083.mp3"],
+            "Alimentos": ["insec", "frutpeq"]
         }, 
         
         {
@@ -1267,7 +1267,7 @@
             "Tamano": "16 cm",
             "Imagen_Ave": "ave084.webp",
             "Sonidos": [ ],
-            "Alimentos": ["Insec", "FrutPeq"]
+            "Alimentos": ["insec", "frutpeq"]
         },
 
         {
@@ -1281,8 +1281,8 @@
             "Distribucion": "< 1200 m.s.n.m",
             "Tamano": "13 cm",
             "Imagen_Ave": "ave085.webp",
-            "Sonidos": ["085/Aud085.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud085.mp3"],
+            "Alimentos": ["insec"]
         },
 
         {
@@ -1296,8 +1296,8 @@
             "Distribucion": "< 2700 m.s.n.m",
             "Tamano": "13 cm",
             "Imagen_Ave": "ave086.webp",
-            "Sonidos": ["086/Aud086.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud086.mp3"],
+            "Alimentos": ["insec"]
         }, 
         
         {
@@ -1311,8 +1311,8 @@
             "Distribucion": "< 3200 m.s.n.m",
             "Tamano": "19.5 cm",
             "Imagen_Ave": "ave087.webp",
-            "Sonidos": ["087/Aud087.mp3"],
-            "Alimentos": ["Insec", "Frugiv"]
+            "Sonidos": ["aud087.mp3"],
+            "Alimentos": ["insec", "frugiv"]
         },
         
         {
@@ -1326,14 +1326,14 @@
             "Distribucion": "< 1600 m.s.n.m",
             "Tamano": "20.5 cm",
             "Imagen_Ave": "ave088.webp",
-            "Sonidos": ["088/Aud088-1.mp3", "088/Aud088-2.mp3"],
-            "Alimentos": ["Insec", "FrutPeq", "Anfi"]
+            "Sonidos": ["aud088_1.mp3", "aud088_2.mp3"],
+            "Alimentos": ["insec", "frutpeq", "anfi"]
         }, 
         
         {
             "Codigo":"089",
             "Nombre_Comun": "Bichofué gritón",
-            "Nombre_Cientifico": "Pitangus sulphuRatus",
+            "Nombre_Cientifico": "Pitangus sulphuratus",
             "Orden": "Passeriforme",
             "Familia": "Tyrannidae",
             "Nombre_Ingles": "Great kiskadee",
@@ -1341,8 +1341,8 @@
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "22 cm",
             "Imagen_Ave": "ave089.webp",
-            "Sonidos": ["089/Aud089-1.mp3", "089/Aud089-2.mp3"],
-            "Alimentos": ["Insec", "Frugiv", "Anfi", "Crusta", "FrutPeq", "Pisci", "Rat", "Semllas"]
+            "Sonidos": ["aud089_1.mp3", "aud089_2.mp3"],
+            "Alimentos": ["insec", "frugiv", "anfi", "crusta", "frutpeq", "pisci", "rat", "semllas"]
         },
         
         
@@ -1357,8 +1357,8 @@
             "Distribucion": "< 2200 m.s.n.m",
             "Tamano": "17 cm",
             "Imagen_Ave": "ave090.webp",
-            "Sonidos": ["090/Aud090-1.mp3", "090/Aud090-2.mp3"],
-            "Alimentos": ["Insec", "FrutPeq"]
+            "Sonidos": ["aud090_1.mp3", "aud090_2.mp3"],
+            "Alimentos": ["insec", "frutpeq"]
         },
 
         {
@@ -1372,8 +1372,8 @@
             "Distribucion": "< 2800 m.s.n.m",
             "Tamano": "22 cm",
             "Imagen_Ave": "ave091.webp",
-            "Sonidos": ["091/Aud091.mp3"],
-            "Alimentos": ["Insec", "FrutPeq", "Anfi"]
+            "Sonidos": ["aud091.mp3"],
+            "Alimentos": ["insec", "frutpeq", "anfi"]
         },
 
         {
@@ -1387,8 +1387,8 @@
             "Distribucion": "< 3200 m.s.n.m",
             "Tamano": "31 - 40 cm",
             "Imagen_Ave": "ave092.webp",
-            "Sonidos": ["092/Aud092.mp3"],
-            "Alimentos": ["Insec", "FrutPeq"]
+            "Sonidos": ["aud092.mp3"],
+            "Alimentos": ["insec", "frutpeq"]
         },  
         
         {
@@ -1402,8 +1402,8 @@
             "Distribucion": "< 500 - 2200 m.s.n.m",
             "Tamano": "17 cm",
             "Imagen_Ave": "ave093.webp",
-            "Sonidos": ["093/Aud093.mp3"],
-            "Alimentos": ["Insec", "FrutPeq"]
+            "Sonidos": ["aud093.mp3"],
+            "Alimentos": ["insec", "frutpeq"]
         }, 
 
         {
@@ -1417,8 +1417,8 @@
             "Distribucion": "500 - 2500 m.s.n.m",
             "Tamano": "32 cm",
             "Imagen_Ave": "ave094.webp",
-            "Sonidos": ["094/Aud094.mp3"],
-            "Alimentos": ["Anfi", "FrutPeq", "Frugiv"]
+            "Sonidos": ["aud094.mp3"],
+            "Alimentos": ["anfi", "frutpeq", "frugiv"]
         }, 
 
         {
@@ -1432,8 +1432,8 @@
             "Distribucion": "< 2200 m.s.n.m",
             "Tamano": "15 cm",
             "Imagen_Ave": "ave095.webp",
-            "Sonidos": ["095/Aud095-1.mp3", "095/Aud095-2.mp3", "095/Aud095-3.mp3"] ,
-            "Alimentos": ["Anfi", "FrutPeq"]
+            "Sonidos": ["aud095_1.mp3", "aud095_2.mp3", "aud095_3.mp3"] ,
+            "Alimentos": ["anfi", "frutpeq"]
         }, 
 
         {
@@ -1447,8 +1447,8 @@
             "Distribucion": "700 - 2700 m.s.n.m",
             "Tamano": "12.5 cm",
             "Imagen_Ave": "ave096.webp",
-            "Sonidos": ["096/Aud096-1.mp3", "096/Aud096-2.mp3", "096/Aud096-3.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud096_1.mp3", "aud096_2.mp3", "aud096_3.mp3"],
+            "Alimentos": ["insec"]
         }, 
 
         {
@@ -1463,7 +1463,7 @@
             "Tamano": "14 cm",
             "Imagen_Ave": "ave097.webp",
             "Sonidos": [ ], 
-            "Alimentos": ["Insec", "FrutPeq"]
+            "Alimentos": ["insec", "frutpeq"]
         },         
         
         {
@@ -1477,8 +1477,8 @@
             "Distribucion": "< 1500 m.s.n.m",
             "Tamano": "14 cm",
             "Imagen_Ave": "ave098.webp",
-            "Sonidos": ["098/Aud098.mp3"],
-            "Alimentos": ["Insec", "FrutPeq"]
+            "Sonidos": ["aud098.mp3"],
+            "Alimentos": ["insec", "frutpeq"]
         }, 
 
         {
@@ -1492,8 +1492,8 @@
             "Distribucion": "< 2400 m.s.n.m",
             "Tamano": "36 cm",
             "Imagen_Ave": "ave099.webp",
-            "Sonidos": ["099/Aud099.mp3"],
-            "Alimentos": ["Anfi", "Frugiv", "Insec", "FrutPeq"]
+            "Sonidos": ["aud099.mp3"],
+            "Alimentos": ["anfi", "frugiv", "insec", "frutpeq"]
         },
 
         {
@@ -1503,12 +1503,12 @@
             "Orden": "Passeriforme",
             "Familia": "Corvidae",
             "Nombre_Ingles": "Green Jay",
-            "Vocalizacion": "Emiten Gran variedad de sonidos, algunos son rasgueados, otros, como silbidos agudos “Guik-Guik-Guik-Guik”. Muy ruidosos",
+            "Vocalizacion": "Emiten gran variedad de sonidos, algunos son rasgueados, otros, como silbidos agudos “Guik-Guik-Guik-Guik”. Muy ruidosos",
             "Distribucion": "600 - 3000 m.s.n.m",
             "Tamano": "26 cm",
             "Imagen_Ave": "ave100.webp",
-            "Sonidos": ["100/Aud100.mp3"],
-            "Alimentos": ["Anfi", "Huevos", "Insec", "FrutPeq"]
+            "Sonidos": ["aud100.mp3"],
+            "Alimentos": ["anfi", "huevos", "insec", "frutpeq"]
         },
 
         {
@@ -1523,7 +1523,7 @@
             "Tamano": "12.5 cm",
             "Imagen_Ave": "ave101.webp",
             "Sonidos": [] ,
-            "Alimentos": ["Insec"]
+            "Alimentos": ["insec"]
         },
 
         {
@@ -1537,8 +1537,8 @@
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "13 cm",
             "Imagen_Ave": "ave102.webp",
-            "Sonidos": ["102/Aud102.mp3"], 
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud102.mp3"],
+            "Alimentos": ["insec"]
         },    
         
         {
@@ -1552,8 +1552,8 @@
             "Distribucion": "< 1700 m.s.n.m",
             "Tamano": "11 cm",
             "Imagen_Ave": "ave103.webp",
-            "Sonidos": ["103/Aud103-1.mp3", "103/Aud103-2.mp3", "103/Aud103-3.mp3"] ,
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud103_1.mp3", "aud103_2.mp3", "aud103_3.mp3"] ,
+            "Alimentos": ["insec"]
         },    
         
         {
@@ -1567,8 +1567,8 @@
             "Distribucion": "1000 - 2700 m.s.n.m",
             "Tamano": "15 cm",
             "Imagen_Ave": "ave104.webp",
-            "Sonidos": ["104/Aud104.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud104.mp3"],
+            "Alimentos": ["insec"]
         }, 
 
         {
@@ -1578,12 +1578,12 @@
             "Orden": "Passeriforme",
             "Familia": "Troglodytidae",
             "Nombre_Ingles": "House Wren",
-            "Vocalizacion": "Presenta una Gran variedad de cantos, reclamos y llamados; muy melodioso,trinos de diferentes notas y a distintos intervalos. Uno de sus cantos se asimila a un gorgoteo",
+            "Vocalizacion": "Presenta una gran variedad de cantos, reclamos y llamados; muy melodioso,trinos de diferentes notas y a distintos intervalos. Uno de sus cantos se asimila a un gorgoteo",
             "Distribucion": "< 3300 m.s.n.m",
             "Tamano": "12 cm",
             "Imagen_Ave": "ave105.webp",
-            "Sonidos": ["105/Aud105.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud105.mp3"],
+            "Alimentos": ["insec"]
         },
         
         {
@@ -1597,8 +1597,8 @@
             "Distribucion": "1200 - 2000 m.s.n.m",
             "Tamano": "14 cm",
             "Imagen_Ave": "ave106.webp",
-            "Sonidos": ["106/Aud106.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud106.mp3"],
+            "Alimentos": ["insec"]
         },
         
         {
@@ -1608,12 +1608,12 @@
             "Orden": "Passeriforme",
             "Familia": "Troglodytidae",
             "Nombre_Ingles": "Sharpe´s Wren",
-            "Vocalizacion": "Presenta diferentes cantos, gozan de una Gran musicalidad y variabilidad, trinos de notas repetidos en alta velocidad “Biu-biu-biu-biu…” o “Chiup-chiup-chiup-chiup....”",
+            "Vocalizacion": "Presenta diferentes cantos, gozan de una gran musicalidad y variabilidad, trinos de notas repetidos en alta velocidad “Biu-biu-biu-biu…” o “Chiup-chiup-chiup-chiup....”",
             "Distribucion": "1300 - 3200 m.s.n.m",
             "Tamano": "16 cm",
             "Imagen_Ave": "ave107.webp",
-            "Sonidos": ["107/Aud107.mp3"], 
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud107.mp3"],
+            "Alimentos": ["insec"]
         },   
 
 
@@ -1628,8 +1628,8 @@
             "Distribucion": "< 1600 m.s.n.m",
             "Tamano": "11 cm",
             "Imagen_Ave": "ave108.webp",
-            "Sonidos": ["108/Aud108-1.mp3", "108/Aud108-2.mp3", "108/Aud108-3.mp3"] ,
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud108_1.mp3", "aud108_2.mp3", "aud108_3.mp3"] ,
+            "Alimentos": ["insec"]
         }, 
 
 
@@ -1644,8 +1644,8 @@
             "Distribucion": "1200 - 3000 m.s.n.m",
             "Tamano": "11 cm",
             "Imagen_Ave": "ave109.webp",
-            "Sonidos": ["109/Aud109.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud109.mp3"],
+            "Alimentos": ["insec"]
         }, 
 
         {
@@ -1659,8 +1659,8 @@
             "Distribucion": "600 -2300 m.s.n.m",
             "Tamano": "16.5 cm",
             "Imagen_Ave": "ave110.webp",
-            "Sonidos": ["110/Aud110-1.mp3", "110/Aud110-2.mp3", "110/Aud110-3.mp3"],
-            "Alimentos": ["FrutPeq", "Semllas","Insec"]
+            "Sonidos": ["aud110_1.mp3", "aud110_2.mp3", "aud110_3.mp3"],
+            "Alimentos": ["frutpeq", "semllas","insec"]
         }, 
 
         {
@@ -1674,8 +1674,8 @@
             "Distribucion": "< 3000 m.s.n.m",
             "Tamano": "18 cm",
             "Imagen_Ave": "ave111.webp",
-            "Sonidos": ["111/Aud111.mp3"], 
-            "Alimentos": ["Frut", "Semllas","Insec"]
+            "Sonidos": ["aud111.mp3"],
+            "Alimentos": ["Frut", "semllas","insec"]
         }, 
 
         {
@@ -1689,8 +1689,8 @@
             "Distribucion": "600 - 3000 m.s.n.m",
             "Tamano": "17.5 cm",
             "Imagen_Ave": "ave112.webp",
-            "Sonidos": ["112/Aud112.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq","Insec"]
+            "Sonidos": ["aud112.mp3"],
+            "Alimentos": ["frugiv", "frutpeq","insec"]
         }, 
 
         {
@@ -1704,8 +1704,8 @@
             "Distribucion": "1700 - 4000 m.s.n.m",
             "Tamano": "32 cm",
             "Imagen_Ave": "ave113.webp",
-            "Sonidos": ["113/Aud113.mp3"],
-            "Alimentos": ["Anfi", "Crusta", "Frugiv", "FrutPeq", "Huevos", "Insec", "Rat", "Semllas"]
+            "Sonidos": ["aud113.mp3"],
+            "Alimentos": ["anfi", "crusta", "frugiv", "frutpeq", "huevos", "insec", "rat", "semllas"]
         },        
         
         {
@@ -1719,8 +1719,8 @@
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "23 cm",
             "Imagen_Ave": "ave114.webp",
-            "Sonidos": ["114/Aud114-1.mp3", "114/Aud114-2.mp3"] ,
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Semllas"]
+            "Sonidos": ["aud114_1.mp3", "aud114_2.mp3"] ,
+            "Alimentos": ["frugiv", "frutpeq", "insec", "semllas"]
         },
 
         {
@@ -1734,8 +1734,8 @@
             "Distribucion": "< 1600 m.s.n.m",
             "Tamano": "25 cm",
             "Imagen_Ave": "ave115.webp",
-            "Sonidos": ["115/Aud115.mp3"],
-            "Alimentos": ["Crusta", "Frugiv", "FrutPeq", "Insec", "Semllas"]
+            "Sonidos": ["aud115.mp3"],
+            "Alimentos": ["crusta", "frugiv", "frutpeq", "insec", "semllas"]
         },
 
         {
@@ -1749,8 +1749,8 @@
             "Distribucion": "< 2800 m.s.n.m",
             "Tamano": "24 cm",
             "Imagen_Ave": "ave116.webp",
-            "Sonidos": ["116/Aud116-1.mp3", "116/Aud116-2.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+            "Sonidos": ["aud116_1.mp3", "aud116_2.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "insec"]
         },
 
         {
@@ -1765,7 +1765,7 @@
             "Tamano": "10 cm",
             "Imagen_Ave": "ave117.webp",
             "Sonidos": [ ],
-            "Alimentos": ["Semllas", "Insec"]
+            "Alimentos": ["semllas", "insec"]
         },
 
         {
@@ -1779,8 +1779,8 @@
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "10 cm",
             "Imagen_Ave": "ave118.webp",
-            "Sonidos": ["118/Aud118-1.mp3", "118/Aud118-2.mp3", "118/Aud118-3.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq"]
+            "Sonidos": ["aud118_1.mp3", "aud118_2.mp3", "aud118_3.mp3"],
+            "Alimentos": ["frugiv", "frutpeq"]
         },
 
         {
@@ -1794,8 +1794,8 @@
             "Distribucion": "600 - 3000 m.s.n.m",
             "Tamano": "11 cm",
             "Imagen_Ave": "ave119.webp",
-            "Sonidos": ["119/Aud119.mp3"], 
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Semllas"]
+            "Sonidos": ["aud119.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "insec", "semllas"]
         },
 
 
@@ -1811,7 +1811,7 @@
             "Tamano": "10 cm",
             "Imagen_Ave": "ave120.webp",
             "Sonidos": [ ],
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Semllas"]
+            "Alimentos": ["frugiv", "frutpeq", "insec", "semllas"]
         },
 
         {
@@ -1825,8 +1825,8 @@
             "Distribucion": "800 – 2600 m.s.n.m",
             "Tamano": "18 cm",
             "Imagen_Ave": "ave121.webp",
-            "Sonidos": ["121/Aud121.mp3"], 
-            "Alimentos": ["FrutPeq", "Insec", "Semllas"]
+            "Sonidos": ["aud121.mp3"],
+            "Alimentos": ["frutpeq", "insec", "semllas"]
         }, 
         
         {
@@ -1840,8 +1840,8 @@
             "Distribucion": "< 3600 m.s.n.m",
             "Tamano": "12.5 cm",
             "Imagen_Ave": "ave122.webp",
-            "Sonidos": ["122/Aud122.mp3"], 
-            "Alimentos": ["Semlleros", "Insec", "Semllas"]
+            "Sonidos": ["aud122.mp3"],
+            "Alimentos": ["semlleros", "insec", "semllas"]
         }, 
         
         {
@@ -1855,8 +1855,8 @@
             "Distribucion": "< 2800 m.s.n.m",
             "Tamano": "21 cm",
             "Imagen_Ave": "ave123.webp",
-            "Sonidos": ["123/Aud123.mp3"], 
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Nectari"]
+            "Sonidos": ["aud123.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "insec", "nectari"]
         },
 
 
@@ -1871,8 +1871,8 @@
             "Distribucion": "< 1200 m.s.n.m",
             "Tamano": "20 cm",
             "Imagen_Ave": "ave124.webp",
-            "Sonidos": ["124/Aud124.mp3"], 
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+            "Sonidos": ["aud124.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "insec"]
         },
 
         {
@@ -1887,7 +1887,7 @@
             "Tamano": "19 cm",
             "Imagen_Ave": "ave125.webp",
             "Sonidos": [ ],
-            "Alimentos": ["Crusta", "Frugiv", "Semllas", "Insec", "Smlleros"]
+            "Alimentos": ["crusta", "frugiv", "semllas", "insec", "Smlleros"]
         },
 
         {
@@ -1901,8 +1901,8 @@
             "Distribucion": "< 2100 m.s.n.m",
             "Tamano": "18.5 cm",
             "Imagen_Ave": "ave126.webp",
-            "Sonidos": ["126/Aud126.mp3"], 
-            "Alimentos": ["FrutPeq", "Insec", "Smlleros"]
+            "Sonidos": ["aud126.mp3"],
+            "Alimentos": ["frutpeq", "insec", "Smlleros"]
         },
 
         {
@@ -1916,8 +1916,8 @@
             "Distribucion": "< 1600 m.s.n.m",
             "Tamano": "13.5 cm",
             "Imagen_Ave": "ave127.webp",
-            "Sonidos": ["127/Aud127-1.mp3", "127/Aud127-2.mp3", "127/Aud127-3.mp3"],
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud127_1.mp3", "aud127_2.mp3", "aud127_3.mp3"],
+            "Alimentos": ["insec"]
         },
 
         {
@@ -1931,8 +1931,8 @@
             "Distribucion": "1400 - 3200 m.s.n.m",
             "Tamano": "14 cm",
             "Imagen_Ave": "ave128.webp",
-            "Sonidos": ["128/Aud128.mp3"], 
-            "Alimentos": ["Insec"]
+            "Sonidos": ["aud128.mp3"],
+            "Alimentos": ["insec"]
         },
 
         {
@@ -1946,8 +1946,8 @@
             "Distribucion": "< 3200 m.s.n.m",
             "Tamano": "17.5 cm",
             "Imagen_Ave": "ave129.webp",
-            "Sonidos": ["129/Aud129.mp3"], 
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec"]
+            "Sonidos": ["aud129.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "insec"]
         },  
         
         {
@@ -1961,8 +1961,8 @@
             "Distribucion": "1400 – 2300 m.s.n.m",
             "Tamano": "18 cm",
             "Imagen_Ave": "ave130.webp",
-            "Sonidos": ["130/Aud130.mp3"], 
-            "Alimentos": ["Frugiv", "FrutPeq", "Insec", "Nectari"]
+            "Sonidos": ["aud130.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "insec", "nectari"]
         },
 
         {
@@ -1976,8 +1976,8 @@
             "Distribucion": "800 – 2200 m.s.n.m",
             "Tamano": "19 cm",
             "Imagen_Ave": "ave131.webp",
-            "Sonidos": ["131/Aud131.mp3"],
-            "Alimentos": ["FrutPeq", "Insec", "Semllas"]
+            "Sonidos": ["aud131.mp3"],
+            "Alimentos": ["frutpeq", "insec", "semllas"]
         },        
 
         {
@@ -1991,8 +1991,8 @@
             "Distribucion": "< 2500 m.s.n.m",
             "Tamano": "19.5 cm",
             "Imagen_Ave": "ave132.webp",
-            "Sonidos": ["132/Aud132-1.mp3", "132/Aud132-2.mp3", "132/Aud132-3.mp3"],
-            "Alimentos": ["Frugiv", "FrutPeq", "Gran", "Insec", "Nectari", "Semllas", "Semlleros"]
+            "Sonidos": ["aud132_1.mp3", "aud132_2.mp3", "aud132_3.mp3"],
+            "Alimentos": ["frugiv", "frutpeq", "gran", "insec", "nectari", "semllas", "semlleros"]
         },
         
         {
@@ -2006,8 +2006,8 @@
             "Distribucion": "600 - 2300 m.s.n.m",
             "Tamano": "20.5 cm",
             "Imagen_Ave": "ave133.webp",
-            "Sonidos": ["133/Aud133.mp3"], 
-            "Alimentos": ["Frugiv", "FrutPeq"]
+            "Sonidos": ["aud133.mp3"],
+            "Alimentos": ["frugiv", "frutpeq"]
         },   
         
         {
@@ -2021,8 +2021,8 @@
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "14.5 cm",
             "Imagen_Ave": "ave134.webp",
-            "Sonidos": ["134/Aud134-1.mp3", "134/Aud134-2.mp3"],
-            "Alimentos": ["Insec", "Semllas", "Semlleros"]
+            "Sonidos": ["aud134_1.mp3", "aud134_2.mp3"],
+            "Alimentos": ["insec", "semllas", "semlleros"]
         }, 
         
         {
@@ -2036,8 +2036,8 @@
             "Distribucion": "< 2200 m.s.n.m",
             "Tamano": "10 cm",
             "Imagen_Ave": "ave135.webp",
-            "Sonidos": ["135/Aud135-1.mp3", "135/Aud135-2.mp3"],
-            "Alimentos": ["Semlleros"]
+            "Sonidos": ["aud135_1.mp3", "aud135_2.mp3"],
+            "Alimentos": ["semlleros"]
         },
         
         {
@@ -2051,8 +2051,8 @@
             "Distribucion": "700 - 2400 m.s.n.m",
             "Tamano": "10.5 cm",
             "Imagen_Ave": "ave136.webp",
-            "Sonidos": ["136/Aud136-1.mp3", "136/Aud136-2.mp3", "136/Aud136-3.mp3"],
-            "Alimentos": ["FrutPeq", "Semlleros"]
+            "Sonidos": ["aud136_1.mp3", "aud136-2.mp3", "aud136_3.mp3"],
+            "Alimentos": ["frutpeq", "semlleros"]
         }, 
         
         {
@@ -2066,8 +2066,8 @@
             "Distribucion": "< 2300 m.s.n.m",
             "Tamano": "10 cm",
             "Imagen_Ave": "ave137.webp",
-            "Sonidos": ["137/Aud137.mp3"], 
-            "Alimentos": ["FrutPeq", "Insec", "Semlleros"]
+            "Sonidos": ["aud137.mp3"],
+            "Alimentos": ["frutpeq", "insec", "semlleros"]
         },
         
         {
@@ -2081,8 +2081,8 @@
             "Distribucion": "< 2000 m.s.n.m",
             "Tamano": "11 cm",
             "Imagen_Ave": "ave138.webp",
-            "Sonidos": ["138/Aud138.mp3"],
-            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+            "Sonidos": ["aud138.mp3"],
+            "Alimentos": ["frutpeq", "insec", "frugiv"]
         },
         
         {
@@ -2096,8 +2096,8 @@
             "Distribucion": "< 2200 m.s.n.m",
             "Tamano": "16 cm",
             "Imagen_Ave": "ave139.webp",
-            "Sonidos": ["139/Aud139.mp3"],
-            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+            "Sonidos": ["aud139.mp3"],
+            "Alimentos": ["frutpeq", "insec", "frugiv"]
         },
         
         {
@@ -2111,8 +2111,8 @@
             "Distribucion": "< 2200 m.s.n.m",
             "Tamano": "18 cm",
             "Imagen_Ave": "ave140.webp",
-            "Sonidos": ["140/Aud140.mp3"], 
-            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+            "Sonidos": ["aud140.mp3"],
+            "Alimentos": ["frutpeq", "insec", "frugiv"]
         },
         
         
@@ -2128,7 +2128,7 @@
             "Tamano": "12 cm",
             "Imagen_Ave": "ave141.webp",
             "Sonidos": [ ],
-            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+            "Alimentos": ["frutpeq", "insec", "frugiv"]
         }, 
         
         {
@@ -2143,7 +2143,7 @@
             "Tamano": "13 cm",
             "Imagen_Ave": "ave141.webp",
             "Sonidos": [ ],
-            "Alimentos": ["FrutPeq", "Insec", "Frugiv", "Nectari"]
+            "Alimentos": ["frutpeq", "insec", "frugiv", "nectari"]
         }, 
         
         {
@@ -2157,8 +2157,8 @@
             "Distribucion": "1000 – 2200 m.s.n.m",
             "Tamano": "11 cm",
             "Imagen_Ave": "ave143.webp",
-            "Sonidos": ["143/Aud143.mp3"], 
-            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+            "Sonidos": ["aud143.mp3"],
+            "Alimentos": ["frutpeq", "insec", "frugiv"]
         },     
         
         {
@@ -2172,8 +2172,8 @@
             "Distribucion": "300 - 2500 m.s.n.m",
             "Tamano": "14 cm",
             "Imagen_Ave": "ave144.webp",
-            "Sonidos": ["144/Aud144.mp3"],
-            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+            "Sonidos": ["aud144.mp3"],
+            "Alimentos": ["frutpeq", "insec", "frugiv"]
         },     
         
         {
@@ -2188,7 +2188,7 @@
             "Tamano": "13 cm",
             "Imagen_Ave": "ave145.webp",
             "Sonidos": [ ], 
-            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+            "Alimentos": ["frutpeq", "insec", "frugiv"]
         },
         
 
@@ -2203,8 +2203,8 @@
             "Distribucion": "700 - 2200 m.s.n.m",
             "Tamano": "12 cm",
             "Imagen_Ave": "ave146.webp",
-            "Sonidos": ["146/Aud146.mp3"], 
-            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+            "Sonidos": ["aud146.mp3"],
+            "Alimentos": ["frutpeq", "insec", "frugiv"]
         },
 
         {
@@ -2218,8 +2218,8 @@
             "Distribucion": "< 2200 m.s.n.m",
             "Tamano": "12 cm",
             "Imagen_Ave": "ave147.webp",
-            "Sonidos": ["147/Aud147-1.mp3", "147/Aud147-2.mp3"],
-            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+            "Sonidos": ["aud147_1.mp3", "aud147_2.mp3"],
+            "Alimentos": ["frutpeq", "insec", "frugiv"]
         },
 
         {
@@ -2233,8 +2233,8 @@
             "Distribucion": "1200 – 2500 m.s.n.m",
             "Tamano": "13 cm",
             "Imagen_Ave": "ave148.webp",
-            "Sonidos": ["148/Aud148.mp3"],
-            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+            "Sonidos": ["aud148.mp3"],
+            "Alimentos": ["frutpeq", "insec", "frugiv"]
         },
 
         {
@@ -2248,8 +2248,8 @@
             "Distribucion": "< 2600 m.s.n.m",
             "Tamano": "16 cm",
             "Imagen_Ave": "ave149.webp",
-            "Sonidos": ["149/Aud149.mp3"],
-            "Alimentos": ["FrutPeq", "Insec", "Frugiv", "Nectari"]
+            "Sonidos": ["aud149.mp3"],
+            "Alimentos": ["frutpeq", "insec", "frugiv", "nectari"]
         }, 
         
         {
@@ -2264,7 +2264,7 @@
             "Tamano": "17 cm",
             "Imagen_Ave": "ave150.webp",
             "Sonidos": [ ],
-            "Alimentos": ["FrutPeq", "Insec", "Frugiv"]
+            "Alimentos": ["frutpeq", "insec", "frugiv"]
         }      
     ]
 }

@@ -95,12 +95,12 @@
 
 
             <View
-                android:id="@+id/sound_food_background"
+                android:id="@+id/sound_background"
                 android:layout_width="0dp"
                 android:layout_height="0dp"
-                android:background="?attr/colorPrimarySurface"
+                android:background="@color/black"
                 android:theme="@style/ThemeOverlay.Bird.Black"
-                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintBottom_toTopOf="@id/food_background"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/feature_bird_detail" />
@@ -121,23 +121,60 @@
                 app:layout_constraintTop_toBottomOf="@id/feature_bird_detail" />
 
             <androidx.recyclerview.widget.RecyclerView
-                android:id="@+id/also_like_list"
+                android:id="@+id/rv_sound_bird"
                 android:layout_width="0dp"
                 android:layout_height="80dp"
                 android:layout_marginBottom="32dp"
                 android:clipToPadding="false"
+                android:orientation="horizontal"
+                android:paddingHorizontal="16dp"
+                android:theme="@style/ThemeOverlay.Bird.Black"
+                app:layout_constraintBottom_toTopOf="@id/food_background"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/title_sound_bird_detail"
+                tools:listitem="@layout/item_sound" />
+
+            <View
+                android:id="@+id/food_background"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:background="@color/white"
+                android:theme="@style/ThemeOverlay.Bird.Black"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/rv_sound_bird" />
+
+            <TextView
+                android:id="@+id/title_food_bird_detail"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingHorizontal="16dp"
+                android:paddingVertical="24dp"
+                android:text="@string/app_name"
+                android:textAppearance="?attr/textAppearanceHeadline6"
+                android:textColor="@color/utp_blue"
+                android:theme="@style/ThemeOverlay.Bird.Black"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/sound_background" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rv_food_bird"
+                android:layout_width="0dp"
+                android:layout_height="112dp"
+                android:layout_marginBottom="16dp"
+                android:clipToPadding="false"
+                android:orientation="horizontal"
                 android:paddingHorizontal="16dp"
                 android:theme="@style/ThemeOverlay.Bird.Black"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@id/title_sound_bird_detail"
-                tools:listitem="@layout/item_sound" />
-            
-
-
-
-
+                app:layout_constraintTop_toBottomOf="@id/title_food_bird_detail"
+                tools:listitem="@layout/item_food" />
         </androidx.constraintlayout.widget.ConstraintLayout>
 
     </androidx.core.widget.NestedScrollView>
