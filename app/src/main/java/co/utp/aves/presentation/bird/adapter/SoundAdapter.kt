@@ -1,7 +1,9 @@
 package co.utp.aves.presentation.bird.adapter
 
 import android.view.LayoutInflater
+import android.view.View
 import android.view.ViewGroup
+import android.widget.ProgressBar
 import androidx.recyclerview.widget.DiffUtil
 import co.utp.aves.base.BaseAdapter
 import co.utp.aves.base.BaseViewHolder
@@ -29,7 +31,7 @@ BaseAdapter<String,SoundAdapter.SoundViewHolder>(
                 soundName.text = data
 
                 soundImage.setOnClickListener {
-                    listener.onClickSound(data)
+                    listener.onClickSound(data,soundProgressBar)
                 }
             }
         }
@@ -54,5 +56,5 @@ BaseAdapter<String,SoundAdapter.SoundViewHolder>(
 }
 
 interface SoundClick{
-    fun onClickSound(sound: String)
+    fun onClickSound(sound: String, view: ProgressBar)
 }

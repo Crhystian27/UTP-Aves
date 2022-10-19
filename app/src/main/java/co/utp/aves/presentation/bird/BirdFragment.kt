@@ -33,7 +33,7 @@ class BirdFragment : BaseFragment<FragmentBirdBinding, BirdViewModel>(), BirdCli
 
 
     override fun setUI() {
-        setToolbarActivity(getString(R.string.title),
+        setToolbarActivity(getString(R.string.title_bird_fragment),
             R.color.white,
             R.color.utp_blue
         )
@@ -67,7 +67,7 @@ class BirdFragment : BaseFragment<FragmentBirdBinding, BirdViewModel>(), BirdCli
         viewModel.event.observe(viewLifecycleOwner) { event ->
             when (event) {
                 is BirdEvent.ListBird -> {
-                    setAdapter(event.result)
+                    setAdapter(event.listBird)
                 }
                 else -> {}
             }

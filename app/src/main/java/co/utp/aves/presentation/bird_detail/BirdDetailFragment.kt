@@ -6,6 +6,7 @@ import android.media.MediaPlayer
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.ProgressBar
 import android.widget.Toast
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.viewModels
@@ -18,25 +19,32 @@ import co.utp.aves.presentation.bird.adapter.*
 import co.utp.aves.presentation.model.Ave
 import co.utp.aves.utils.AVE_ITEM
 import co.utp.aves.utils.LogDebug
+import co.utp.aves.utils.LogError
 import co.utp.aves.utils.loadDrawable
 import dagger.hilt.android.AndroidEntryPoint
 
 
 @AndroidEntryPoint
-class BirdDetailFragment: BaseFragment<FragmentBirdDetailBinding,BirdViewModel>(), SoundClick {
+class BirdDetailFragment : BaseFragment<FragmentBirdDetailBinding, BirdViewModel>(), SoundClick {
 
     override val viewModel: BirdViewModel by viewModels()
 
-    var ave : Ave? =null
+    var ave: Ave? = null
 
     override fun inflateView(
         inflater: LayoutInflater,
         container: ViewGroup?
-    )= FragmentBirdDetailBinding.inflate(inflater,container,false)
+    ) = FragmentBirdDetailBinding.inflate(inflater, container, false)
 
     override fun getBundleArgs() {
-        arguments?.let{
+        arguments?.let {
             ave = it.getParcelable(AVE_ITEM)
+        }
+    }
+
+    override fun setListeners() {
+        with(binding.imgBirdDetail){
+            setOnClickListener {  }
         }
     }
 
@@ -49,14 +57,22 @@ class BirdDetailFragment: BaseFragment<FragmentBirdDetailBinding,BirdViewModel>(
             )
         }
 
-        with(binding){
+        with(binding) {
 
-            val drawable = ContextCompat.getDrawable(root.context,root.resources.getIdentifier(ave?.Imagen_Ave!!.replace(".webp",""),"drawable",root.context.packageName))
+            val drawable = ContextCompat.getDrawable(
+                root.context,
+                root.resources.getIdentifier(
+                    ave?.Imagen_Ave!!.replace(".webp", ""),
+                    "drawable",
+                    root.context.packageName
+                )
+            )
 
-            loadDrawable(imgBirdDetail,drawable!!,root.context)
+            loadDrawable(imgBirdDetail, drawable!!, root.context)
             val title = "${ave?.Nombre_Cientifico}"
             val titleFeature = "Caracteristicas"
-            val featureBody = "• Distribucion: ${ave?.Distribucion}\n• Familia: ${ave?.Familia}\n• Orden: ${ave?.Orden}\n• Tamaño: ${ave?.Tamano} "
+            val featureBody =
+                "• Distribucion: ${ave?.Distribucion}\n• Familia: ${ave?.Familia}\n• Orden: ${ave?.Orden}\n• Tamaño: ${ave?.Tamano} "
             val vocalization = "${ave?.Vocalizacion}"
             titleBirdDetail.text = title
             titleFeatureBirdDetail.text = titleFeature
@@ -64,7 +80,7 @@ class BirdDetailFragment: BaseFragment<FragmentBirdDetailBinding,BirdViewModel>(
             titleSoundBirdDetail.text = vocalization
             titleFoodBirdDetail.text = "Alimentación"
 
-            if(ave?.Sonidos.isNullOrEmpty()){
+            if (ave?.Sonidos.isNullOrEmpty()) {
                 rvSoundBird.visibility = View.GONE
             }
 
@@ -115,14 +131,17 @@ class BirdDetailFragment: BaseFragment<FragmentBirdDetailBinding,BirdViewModel>(
 
     override fun observe() {}
 
-    override fun onClickSound(sound: String) {
-        playAssetSound(sound)
+    override fun onClickSound(sound: String, view: ProgressBar) {
+        playAssetSound(sound, view)
     }
 
-    private fun playAssetSound(assetName: String) {
+    private fun playAssetSound(assetName: String, view: ProgressBar) {
+
+        val mMediaPlayer = MediaPlayer()
+        val afd: AssetFileDescriptor = requireContext().assets.openFd("sounds/$assetName")
+        view.visibility = View.VISIBLE
+
         try {
-            val afd: AssetFileDescriptor = requireContext().assets.openFd("sounds/$assetName")
-            val mMediaPlayer = MediaPlayer()
             mMediaPlayer.setDataSource(afd.fileDescriptor, afd.startOffset, afd.length)
             afd.close()
             mMediaPlayer.prepare()
@@ -130,7 +149,8 @@ class BirdDetailFragment: BaseFragment<FragmentBirdDetailBinding,BirdViewModel>(
         } catch (ex: Exception) {
             ex.toString().LogDebug()
         }
-    }
 
+
+    }
 
 }

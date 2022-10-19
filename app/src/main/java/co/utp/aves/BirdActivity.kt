@@ -19,12 +19,6 @@ class BirdActivity : BaseActivity<ActivityBirdBinding>() {
     override fun inflateView(inflater: LayoutInflater) =
         ActivityBirdBinding.inflate(inflater)
 
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        binding.toolbarMainActivity.inflateMenu(R.menu.toolbar_quit_menu)
-        actionQuitToolbar()
-    }
-
     override fun setToolbarTitle(title: String) {
         binding.toolbarMainActivity.title = title
     }
@@ -39,7 +33,9 @@ class BirdActivity : BaseActivity<ActivityBirdBinding>() {
                 navController.addOnDestinationChangedListener { _, destination, _ ->
                     when (destination.id) {
                         R.id.navigation_bird, R.id.navigation_camera, R.id.navigation_about_us -> bottomNavMenu.show()
-                        else -> bottomNavMenu.hide()
+                        else -> {
+                            bottomNavMenu.hide()
+                        }
                     }
 
                 }
@@ -64,18 +60,6 @@ class BirdActivity : BaseActivity<ActivityBirdBinding>() {
                         color
                     )
                 )
-            }
-        }
-    }
-
-    private fun actionQuitToolbar() {
-        binding.toolbarMainActivity.setOnMenuItemClickListener {
-            when (it.itemId) {
-                R.id.action_quit -> {
-                    finish()
-                    true
-                }
-                else -> false
             }
         }
     }

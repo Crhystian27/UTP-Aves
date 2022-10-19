@@ -9,10 +9,10 @@
         android:id="@+id/navigation_bird"
         android:name="co.utp.aves.presentation.bird.BirdFragment"
         android:label="BirdFragment"
-        tools:layout="@layout/fragment_bird" >
+        tools:layout="@layout/fragment_bird">
         <action
             android:id="@+id/action_bird_to_bird_detail"
-            app:destination="@id/navigation_bird_detail" >
+            app:destination="@id/navigation_bird_detail">
             <argument
                 android:name="ave"
                 app:argType="co.utp.aves.presentation.model.Ave" />
@@ -21,22 +21,40 @@
     </fragment>
 
     <fragment
+        android:id="@+id/navigation_about_us"
+        android:name="co.utp.aves.presentation.aboutus.AboutUsFragment"
+        android:label="AboutUsFragment"
+        tools:layout="@layout/fragment_about_us">
+        <action
+            android:id="@+id/action_about_us_to_about_us_detail"
+            app:destination="@id/navigation_about_us_detail">
+
+            <argument
+                android:name="aboutUs"
+                app:argType="co.utp.aves.presentation.model.AboutUs" />
+        </action>
+
+
+    </fragment>
+
+
+    <fragment
         android:id="@+id/navigation_camera"
         android:name="co.utp.aves.presentation.camera.CameraFragment"
         android:label="CameraFragment"
         tools:layout="@layout/fragment_camera" />
 
+
     <fragment
-        android:id="@+id/navigation_about_us"
-        android:name="co.utp.aves.presentation.aboutus.AboutUsFragment"
-        android:label="AboutUsFragment"
-        tools:layout="@layout/fragment_about_us" />
+        android:id="@+id/navigation_about_us_detail"
+        android:name="co.utp.aves.presentation.aboutus_detail.AboutUsDetailFragment"
+        android:label="AboutUsDetailFragment"
+        tools:layout="@layout/fragment_about_us_detail" />
 
 
     <fragment
         android:id="@+id/navigation_bird_detail"
         android:name="co.utp.aves.presentation.bird_detail.BirdDetailFragment"
         android:label="BirdDetailFragment"
-        tools:layout="@layout/fragment_bird_detail"
-        />
+        tools:layout="@layout/fragment_bird_detail" />
 </navigation>

@@ -7,13 +7,13 @@
     android:background="@color/white">
 
 
-    <!--
+
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/ti_search_bird"
-        style="@style/textInput_search"
+        style="@style/smm_textInput_search"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_margin="16dp"
+        android:layout_marginTop="@dimen/margin_padding_size_medium"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -23,10 +23,9 @@
             style="@style/smm_textInputEditText_search"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/hint_search_bird" />
+            android:hint="@string/hint_search_donations" />
 
     </com.google.android.material.textfield.TextInputLayout>
-    -->
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_bird"
@@ -34,12 +33,12 @@
         android:layout_height="0dp"
         android:layout_marginStart="1dp"
         android:layout_marginEnd="1dp"
-        android:scrollbarStyle="outsideOverlay"
         android:scrollbars="vertical"
+        android:background="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ti_search_bird"
         tools:listitem="@layout/item_bird" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

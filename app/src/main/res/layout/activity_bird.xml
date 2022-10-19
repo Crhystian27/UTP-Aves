@@ -16,8 +16,9 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:titleCentered="true"
-        app:titleTextAppearance="@style/Toolbar.TitleText"
-        tools:title="Navigation" />
+        android:paddingHorizontal="16dp"
+        app:titleTextAppearance="?attr/textAppearanceHeadline4"
+        tools:title="Navigation"/>
 
 
     <androidx.fragment.app.FragmentContainerView

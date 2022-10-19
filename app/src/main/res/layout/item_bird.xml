@@ -5,8 +5,7 @@
     android:layout_height="wrap_content"
     android:layout_margin="5dp"
     android:elevation="8dp"
-    android:foreground="@drawable/bg_gradient_rounded"
-    android:background="?attr/selectableItemBackground">
+    android:foreground="@drawable/bg_gradient_rounded">
 
     <com.google.android.material.card.MaterialCardView
         android:layout_width="match_parent"

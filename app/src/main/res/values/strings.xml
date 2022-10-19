@@ -1,9 +1,11 @@
 <resources>
 
 
-    <string name="title">Aves de Pereira</string>
+    <string name="title_bird_fragment">Aves de Pereira</string>
+    <string name="title_about_us_fragment">Creditos</string>
     <string name="app_name">UTP-Aves</string>
     <string name="json_birds">Aves</string>
+    <string name="json_about_us">AboutUs</string>
 
     <!-- Bottom Navigation View -->
     <string name="bottom_nav_birds">Birds</string>

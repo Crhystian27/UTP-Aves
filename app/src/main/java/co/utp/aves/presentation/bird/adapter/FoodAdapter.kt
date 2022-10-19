@@ -33,14 +33,14 @@ BaseAdapter<String,FoodAdapter.FoodViewHolder>(
                     "anfi" -> {foodName.text ="Anfibios" }
                     "crusta" -> {foodName.text ="Crustaceos" }
                     "frugiv" -> {foodName.text ="Frugívoro" }
-                    "frutpeq" -> {foodName.text ="Frutos\nPequeño" }
+                    "frutpeq" -> {foodName.text ="Frutos\nPequeños" }
                     "gran" -> {foodName.text ="Granos" }
                     "huevos" -> {foodName.text ="Huevos" }
                     "insec" -> {foodName.text ="Insectos" }
                     "nectari" -> {foodName.text ="Nectar" }
                     "paj" -> {foodName.text ="Pajaros" }
                     "pisci" -> {foodName.text ="Peces" }
-                    "rat" -> {foodName.text ="Roedores\ny/o\nReptiles" }
+                    "rat" -> {foodName.text ="Roedores\nReptiles" }
                     "semllas" -> {foodName.text ="Semillas" }
                     "semlleros" -> {foodName.text ="Semilleros" }
                     else -> {foodName.text = ""}

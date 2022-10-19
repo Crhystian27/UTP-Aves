@@ -18,16 +18,21 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
+
             <ImageView
                 android:id="@+id/img_bird_detail"
                 android:layout_width="0dp"
                 android:layout_height="0dp"
                 android:contentDescription="@string/app_name"
                 android:foreground="@drawable/bg_gradient"
-                app:layout_constraintDimensionRatio="4:3"
+                android:paddingTop="8dp"
+                android:paddingBottom="8dp"
+                android:src="@drawable/ave012"
+                app:layout_constraintDimensionRatio="4:4"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
+
 
             <ImageView
                 android:layout_width="32dp"
@@ -114,7 +119,7 @@
                 android:paddingVertical="24dp"
                 android:text="@string/app_name"
                 android:textAppearance="?attr/textAppearanceHeadline6"
-                android:textColor="?attr/colorOnPrimarySurface"
+                android:textColor="@color/white"
                 android:theme="@style/ThemeOverlay.Bird.Black"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
@@ -155,7 +160,7 @@
                 android:paddingVertical="24dp"
                 android:text="@string/app_name"
                 android:textAppearance="?attr/textAppearanceHeadline6"
-                android:textColor="@color/utp_blue"
+                android:textColor="@color/black"
                 android:theme="@style/ThemeOverlay.Bird.Black"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"

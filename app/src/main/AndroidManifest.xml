@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="co.utp.aves">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:name=".BirdApp"
         android:allowBackup="true"
