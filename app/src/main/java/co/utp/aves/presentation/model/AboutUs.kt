@@ -9,10 +9,12 @@ data class AboutUs(
     var Photo: String,
     var Email: String,
     var LinkedIn: String,
-    var Name: String
+    var Name: String,
+    var Title: String
 ): Parcelable
 
 
 fun equals(oldItem: AboutUs, newItem: AboutUs): Boolean =
     oldItem.Photo == newItem.Photo && oldItem.Email == newItem.Email &&
-            oldItem.LinkedIn == newItem.LinkedIn && oldItem.Name == newItem.Name
+            oldItem.Title == newItem.Title && oldItem.LinkedIn == newItem.LinkedIn &&
+            oldItem.Name == newItem.Name

@@ -29,13 +29,17 @@ BaseAdapter<AboutUs, AboutUsAdapter.AboutUsViewHolder>(
             binding.apply {
 
                 val drawable = ContextCompat.getDrawable(root.context,root.resources.getIdentifier(data.Photo.replace(".webp",""),"drawable",root.context.packageName))
-
                 loadDrawable(aboutUsImage,drawable!!, root.context)
+
                 aboutUsName.text = data.Name
-                aboutUsEmail.text = data.Email
+                aboutUsTitle.text = data.Title
 
                 aboutUsImage.setOnClickListener {
                     listener.onClickAboutUs(data)
+                }
+
+                aboutUsEmail.setOnClickListener {
+                    listener.onClickAboutUsEmail(data)
                 }
 
             }
@@ -59,4 +63,5 @@ BaseAdapter<AboutUs, AboutUsAdapter.AboutUsViewHolder>(
 
 interface AboutUsClick{
     fun onClickAboutUs(aboutUs: AboutUs)
+    fun onClickAboutUsEmail(aboutUs: AboutUs)
 }

@@ -1,14 +1,15 @@
 package co.utp.aves.presentation.aboutus
 
+import android.content.ActivityNotFoundException
+import android.content.Intent
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Toast
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
-import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
-import androidx.recyclerview.widget.StaggeredGridLayoutManager
 import co.utp.aves.R
 import co.utp.aves.base.BaseFragment
 import co.utp.aves.databinding.FragmentAboutUsBinding
@@ -16,10 +17,9 @@ import co.utp.aves.presentation.BirdEvent
 import co.utp.aves.presentation.BirdViewModel
 import co.utp.aves.presentation.aboutus.adapter.AboutUsAdapter
 import co.utp.aves.presentation.aboutus.adapter.AboutUsClick
-import co.utp.aves.presentation.bird.BirdFragmentDirections
-import co.utp.aves.presentation.bird.adapter.BirdAdapter
 import co.utp.aves.presentation.model.AboutUs
 import dagger.hilt.android.AndroidEntryPoint
+
 
 @AndroidEntryPoint
 class AboutUsFragment : BaseFragment<FragmentAboutUsBinding, BirdViewModel>(), AboutUsClick {
@@ -35,9 +35,18 @@ class AboutUsFragment : BaseFragment<FragmentAboutUsBinding, BirdViewModel>(), A
 
     override fun setUI() {
         setToolbarActivity(getString(R.string.title_about_us_fragment),
-            R.color.white,
+            null,
             R.color.utp_blue
         )
+
+        with(binding){
+            aboutUsBotanicGarden.setOnClickListener {
+                //Open url
+            }
+            aboutUsNyquist.setOnClickListener {
+                //open url
+            }
+        }
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
@@ -83,5 +92,21 @@ class AboutUsFragment : BaseFragment<FragmentAboutUsBinding, BirdViewModel>(), A
         )
     }
 
+    override fun onClickAboutUsEmail(aboutUs: AboutUs) {
+        val i = Intent(Intent.ACTION_SEND)
+        i.type = "message/rfc822"
+        i.putExtra(Intent.EXTRA_EMAIL, arrayOf("recipient@example.com"))
+        i.putExtra(Intent.EXTRA_SUBJECT, "subject of email")
+        i.putExtra(Intent.EXTRA_TEXT, "body of email")
+        try {
+            startActivity(Intent.createChooser(i, "Send mail..."))
+        } catch (ex: ActivityNotFoundException) {
+            Toast.makeText(
+                context,
+                "There are no email clients installed.",
+                Toast.LENGTH_SHORT
+            ).show()
+        }
+    }
 
 }

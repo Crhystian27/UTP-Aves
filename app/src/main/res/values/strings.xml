@@ -2,15 +2,15 @@
 
 
     <string name="title_bird_fragment">Aves de Pereira</string>
-    <string name="title_about_us_fragment">Creditos</string>
+    <string name="title_about_us_fragment"></string>
     <string name="app_name">UTP-Aves</string>
     <string name="json_birds">Aves</string>
     <string name="json_about_us">AboutUs</string>
 
     <!-- Bottom Navigation View -->
-    <string name="bottom_nav_birds">Birds</string>
-    <string name="bottom_nav_photo">Photo</string>
-    <string name="bottom_nav_about_us">About us</string>
+    <string name="bottom_nav_birds">Aves</string>
+    <string name="bottom_nav_photo">Captura de Ave</string>
+    <string name="bottom_nav_about_us">Créditos</string>
 
     <string name="toolbar_quit">Quit</string>
 

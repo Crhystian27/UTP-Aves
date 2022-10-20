@@ -3,9 +3,9 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="@color/white"
     android:layout_marginStart="32dp"
-    android:layout_marginTop="32dp">
+    android:layout_marginTop="32dp"
+    android:background="@color/white">
 
     <ImageView
         android:id="@+id/about_us_image"
@@ -13,7 +13,7 @@
         android:layout_height="104dp"
         android:contentDescription="@string/app_name"
         android:scaleType="centerCrop"
-        app:layout_constraintBottom_toBottomOf="@id/about_us_email"
+        app:layout_constraintBottom_toBottomOf="@id/about_us_title"
         app:layout_constraintDimensionRatio="1:1"
         app:layout_constraintEnd_toStartOf="@id/about_us_name"
         app:layout_constraintStart_toStartOf="parent"
@@ -26,9 +26,10 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:ellipsize="end"
+        android:gravity="center_vertical"
         android:lines="2"
         android:paddingHorizontal="16dp"
-        android:paddingTop="16dp"
+        android:paddingVertical="8dp"
         android:text="@string/app_name"
         android:textAppearance="?attr/textAppearanceSubtitle1"
         app:layout_constraintEnd_toEndOf="parent"
@@ -43,14 +44,15 @@
         android:layout_height="wrap_content"
         android:importantForAccessibility="no"
         android:paddingStart="16dp"
-        app:layout_constraintBottom_toBottomOf="@id/about_us_email"
+        app:layout_constraintBottom_toBottomOf="@id/about_us_title"
+        app:layout_constraintEnd_toStartOf="@id/about_us_title"
         app:layout_constraintStart_toStartOf="@id/about_us_name"
-        app:layout_constraintTop_toTopOf="@id/about_us_email"
+        app:layout_constraintTop_toTopOf="@id/about_us_title"
         app:srcCompat="@drawable/ic_linkedin"
         app:tint="@color/utp_blue" />
 
     <TextView
-        android:id="@+id/about_us_email"
+        android:id="@+id/about_us_title"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:paddingVertical="16dp"
@@ -59,9 +61,23 @@
         android:textAppearance="?attr/textAppearanceCaption"
         android:textColor="@color/utp_blue"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/about_us_email"
         app:layout_constraintStart_toEndOf="@id/about_us_icon"
         app:layout_constraintTop_toBottomOf="@id/about_us_name" />
+
+
+    <ImageView
+        android:id="@+id/about_us_email"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:importantForAccessibility="no"
+        android:paddingEnd="16dp"
+        app:layout_constraintBottom_toBottomOf="@id/about_us_title"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/about_us_title"
+        app:layout_constraintTop_toTopOf="@id/about_us_title"
+        app:srcCompat="@drawable/ic_email"
+        app:tint="@color/black" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

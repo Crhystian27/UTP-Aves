@@ -21,6 +21,7 @@
         <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/drawable/ic_bird_white.xml" value="0.1" />
         <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/drawable/ic_camera.xml" value="0.1405" />
         <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/drawable/ic_camera_selected.xml" value="0.1435" />
+        <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/drawable/ic_email.xml" value="0.189" />
         <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/drawable/ic_launcher_background.xml" value="0.175" />
         <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/drawable/ic_linkedin.xml" value="0.1" />
         <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/drawable/ic_play.xml" value="0.12" />
@@ -35,13 +36,13 @@
         <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/drawable/shape_bottom_nav_icon_tint.xml" value="0.1435" />
         <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/layout/activity_bird.xml" value="0.25" />
         <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/layout/activity_root.xml" value="0.1" />
-        <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/layout/fragment_about_us.xml" value="0.175" />
+        <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/layout/fragment_about_us.xml" value="0.25" />
         <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/layout/fragment_about_us_detail.xml" value="0.1" />
-        <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/layout/fragment_bird.xml" value="0.22" />
+        <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/layout/fragment_bird.xml" value="0.1" />
         <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/layout/fragment_bird_detail.xml" value="0.21481481481481482" />
         <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/layout/fragment_camera.xml" value="0.175" />
         <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/layout/fragment_list_bird.xml" value="0.18802083333333333" />
-        <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/layout/item_about_us.xml" value="0.2777777777777778" />
+        <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/layout/item_about_us.xml" value="0.33" />
         <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/layout/item_bird.xml" value="0.22" />
         <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/layout/item_food.xml" value="0.33" />
         <entry key="..\:/Users/cristian.soto/AndroidStudioProjects/UTP-Aves/app/src/main/res/layout/item_sound.xml" value="0.40384615384615385" />

@@ -7,13 +7,13 @@
     android:background="@color/white">
 
 
-
+    <!--
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/ti_search_bird"
-        style="@style/smm_textInput_search"
+        style="@style/textInput_search"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="@dimen/margin_padding_size_medium"
+        android:layout_marginTop="16dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -27,6 +27,8 @@
 
     </com.google.android.material.textfield.TextInputLayout>
 
+    -->
+
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_bird"
         android:layout_width="0dp"
@@ -38,7 +40,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/ti_search_bird"
+       app:layout_constraintTop_toTopOf="parent"
         tools:listitem="@layout/item_bird" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

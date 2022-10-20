@@ -5,6 +5,7 @@ import android.os.Bundle
 import androidx.navigation.findNavController
 import androidx.navigation.ui.setupWithNavController
 import android.view.LayoutInflater
+import android.view.View
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.lifecycleScope
 import co.utp.aves.base.BaseActivity
@@ -32,8 +33,19 @@ class BirdActivity : BaseActivity<ActivityBirdBinding>() {
             lifecycleScope.launchWhenCreated {
                 navController.addOnDestinationChangedListener { _, destination, _ ->
                     when (destination.id) {
-                        R.id.navigation_bird, R.id.navigation_camera, R.id.navigation_about_us -> bottomNavMenu.show()
+                        R.id.navigation_bird, R.id.navigation_camera -> {
+
+                            binding.toolbarMainActivity.visibility = View.VISIBLE
+                            bottomNavMenu.show()
+                        }
+
+                        R.id.navigation_about_us -> {
+                            binding.toolbarMainActivity.visibility = View.GONE
+                            bottomNavMenu.show()
+                        }
+
                         else -> {
+                            binding.toolbarMainActivity.visibility = View.GONE
                             bottomNavMenu.hide()
                         }
                     }
