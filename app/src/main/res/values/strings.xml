@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
 
@@ -13,5 +14,9 @@
     <string name="bottom_nav_about_us">Créditos</string>
 
     <string name="toolbar_quit">Quit</string>
+
+    <string name="hint_search">Busca tu ave</string>
+
+    <string name="back_pressed">Pulse de nuevo el botón atrás para salir</string>
 
 </resources>

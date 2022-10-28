@@ -4,12 +4,13 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_marginStart="32dp"
-    android:layout_marginTop="32dp"
-    android:background="@color/white">
+    android:layout_marginTop="32dp">
 
-    <ImageView
+    <com.google.android.material.imageview.ShapeableImageView
         android:id="@+id/about_us_image"
         android:layout_width="104dp"
+        android:foreground="@drawable/bg_gradient_rounded"
+        app:shapeAppearance="@style/ShapeAppearanceOverlay.App.SelectedCornerRadius"
         android:layout_height="104dp"
         android:contentDescription="@string/app_name"
         android:scaleType="centerCrop"
@@ -19,6 +20,16 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@id/about_us_name"
         app:srcCompat="@drawable/soto" />
+
+    <View
+        android:id="@+id/background"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@color/white"
+        app:layout_constraintBottom_toBottomOf="@id/about_us_title"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@id/about_us_icon"
+        app:layout_constraintTop_toTopOf="@id/about_us_name" />
 
 
     <TextView
@@ -41,7 +52,7 @@
     <ImageView
         android:id="@+id/about_us_icon"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:importantForAccessibility="no"
         android:paddingStart="16dp"
         app:layout_constraintBottom_toBottomOf="@id/about_us_title"
@@ -78,6 +89,8 @@
         app:layout_constraintTop_toTopOf="@id/about_us_title"
         app:srcCompat="@drawable/ic_email"
         app:tint="@color/black" />
+
+
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

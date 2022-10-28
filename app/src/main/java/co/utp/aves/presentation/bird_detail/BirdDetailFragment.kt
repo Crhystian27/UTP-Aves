@@ -1,14 +1,11 @@
 package co.utp.aves.presentation.bird_detail
 
 import android.annotation.SuppressLint
-import android.content.res.AssetFileDescriptor
-import android.media.MediaPlayer
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.ProgressBar
-import android.widget.Toast
 import androidx.core.content.ContextCompat
+import androidx.fragment.app.FragmentActivity
 import androidx.fragment.app.viewModels
 import androidx.recyclerview.widget.LinearLayoutManager
 import co.utp.aves.R
@@ -18,8 +15,6 @@ import co.utp.aves.presentation.BirdViewModel
 import co.utp.aves.presentation.bird.adapter.*
 import co.utp.aves.presentation.model.Ave
 import co.utp.aves.utils.AVE_ITEM
-import co.utp.aves.utils.LogDebug
-import co.utp.aves.utils.LogError
 import co.utp.aves.utils.loadDrawable
 import dagger.hilt.android.AndroidEntryPoint
 
@@ -44,7 +39,7 @@ class BirdDetailFragment : BaseFragment<FragmentBirdDetailBinding, BirdViewModel
 
     override fun setListeners() {
         with(binding.imgBirdDetail){
-            setOnClickListener {  }
+            setOnClickListener { } //todo implement view image
         }
     }
 
@@ -131,26 +126,18 @@ class BirdDetailFragment : BaseFragment<FragmentBirdDetailBinding, BirdViewModel
 
     override fun observe() {}
 
-    override fun onClickSound(sound: String, view: ProgressBar) {
-        playAssetSound(sound, view)
+    override fun onClickSound(sound: String) {
+        activity?.showBottomSheet(sound)
     }
-
-    private fun playAssetSound(assetName: String, view: ProgressBar) {
-
-        val mMediaPlayer = MediaPlayer()
-        val afd: AssetFileDescriptor = requireContext().assets.openFd("sounds/$assetName")
-        view.visibility = View.VISIBLE
-
-        try {
-            mMediaPlayer.setDataSource(afd.fileDescriptor, afd.startOffset, afd.length)
-            afd.close()
-            mMediaPlayer.prepare()
-            mMediaPlayer.start()
-        } catch (ex: Exception) {
-            ex.toString().LogDebug()
-        }
+}
 
 
+
+fun FragmentActivity?.showBottomSheet(sound: String): BirdMusicBottomSheetFragment {
+    val bottomSheet = BirdMusicBottomSheetFragment()
+    bottomSheet.sound = sound
+    this?.let {
+        bottomSheet.show(it.supportFragmentManager, BirdMusicBottomSheetFragment::class.java.name)
     }
-
+    return bottomSheet
 }

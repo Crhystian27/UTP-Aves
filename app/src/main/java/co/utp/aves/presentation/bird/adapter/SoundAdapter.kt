@@ -28,10 +28,8 @@ BaseAdapter<String,SoundAdapter.SoundViewHolder>(
         override fun bind(data: String) {
             binding.apply {
 
-                soundName.text = ""
-
-                soundImage.setOnClickListener {
-                    listener.onClickSound(data,soundProgressBar)
+                sound.setOnClickListener {
+                    listener.onClickSound(data)
                 }
             }
         }
@@ -56,5 +54,5 @@ BaseAdapter<String,SoundAdapter.SoundViewHolder>(
 }
 
 interface SoundClick{
-    fun onClickSound(sound: String, view: ProgressBar)
+    fun onClickSound(sound: String)
 }

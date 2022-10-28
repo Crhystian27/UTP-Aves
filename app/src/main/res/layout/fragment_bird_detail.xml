@@ -24,7 +24,7 @@
                 android:layout_width="0dp"
                 android:layout_height="0dp"
                 android:contentDescription="@string/app_name"
-                android:foreground="@drawable/bg_gradient"
+                android:foreground="@drawable/bg_gradient_detail"
                 android:paddingTop="8dp"
                 android:paddingBottom="8dp"
                 android:src="@drawable/ave012"

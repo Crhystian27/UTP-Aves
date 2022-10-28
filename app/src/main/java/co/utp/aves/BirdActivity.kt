@@ -1,13 +1,13 @@
 package co.utp.aves
 
 
-import android.os.Bundle
-import androidx.navigation.findNavController
-import androidx.navigation.ui.setupWithNavController
 import android.view.LayoutInflater
 import android.view.View
+import android.widget.Toast
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.lifecycleScope
+import androidx.navigation.findNavController
+import androidx.navigation.ui.setupWithNavController
 import co.utp.aves.base.BaseActivity
 import co.utp.aves.databinding.ActivityBirdBinding
 import co.utp.aves.utils.hide
@@ -54,6 +54,7 @@ class BirdActivity : BaseActivity<ActivityBirdBinding>() {
             }
         }
     }
+
 
     override fun setToolbarStyle(titleColor: Int?, backgroundColor: Int?) {
         binding.apply {
