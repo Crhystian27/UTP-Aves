@@ -29,6 +29,8 @@
             android:layout_width="match_parent"
             android:paddingStart="16dp"
             android:paddingEnd="16dp"
+            android:textColor="@color/utp_blue"
+            android:textColorHint="@color/grey"
             android:layout_height="wrap_content"
             android:hint="@string/hint_search" />
 

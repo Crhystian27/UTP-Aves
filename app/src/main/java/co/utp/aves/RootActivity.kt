@@ -14,18 +14,14 @@ class RootActivity : BaseActivity<ActivityRootBinding>() {
     override fun inflateView(inflater: LayoutInflater) = ActivityRootBinding.inflate(inflater)
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        installSplashScreen()
+        val screenSplash = installSplashScreen()
         super.onCreate(savedInstanceState)
-    }
 
-    override fun setUI() {
-        /*with(binding){
-            Glide.with(this@RootActivity)
-                .load(R.raw.bird_utp)
-                .into(splashBird)
 
-        }*/
+        Thread.sleep(1500)
+        screenSplash.setKeepOnScreenCondition{false}
         startActivity(Intent(this@RootActivity, BirdActivity::class.java))
         finish()
+
     }
 }

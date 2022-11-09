@@ -1,19 +1,19 @@
 package co.utp.aves.presentation.bird_detail
 
+import android.media.AudioAttributes
 import android.media.MediaPlayer
+import android.media.MediaPlayer.OnPreparedListener
 import android.os.Bundle
 import android.os.Handler
-import android.os.Looper
 import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.SeekBar
 import androidx.fragment.app.FragmentManager
-import co.utp.aves.R
 import co.utp.aves.databinding.ItemMusicBinding
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
-import kotlin.math.ceil
+import java.io.IOException
 
 
 class BirdMusicBottomSheetFragment : BottomSheetDialogFragment() {
@@ -22,17 +22,18 @@ class BirdMusicBottomSheetFragment : BottomSheetDialogFragment() {
 
     private lateinit var binding: ItemMusicBinding
 
-    private var mediaPlayer: MediaPlayer? = null
+    private lateinit var mediaPlayer: MediaPlayer
 
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
 
-        val rawSound = context?.resources?.getIdentifier(
+        val rawSound = requireContext().resources.getIdentifier(
             sound.replace(".mp3", ""),
             "raw",
             requireContext().packageName
         )
-        controlSound(rawSound!!)
+
+        controlSound(rawSound)
     }
 
     override fun onCreateView(
@@ -67,34 +68,43 @@ class BirdMusicBottomSheetFragment : BottomSheetDialogFragment() {
 
     private fun controlSound(assetName: Int) {
 
-        binding.fabPlay.setOnClickListener {
-            if (mediaPlayer == null) {
 
-                mediaPlayer = MediaPlayer.create(context, assetName)
-                initializeSeekBar()
-            }
-            mediaPlayer?.start()
+
+        //    binding.fabPlay.setBackgroundResource(R.drawable.ic_pause_player)
+
+
+        binding.fabPlay.setOnClickListener {
+                try {
+                    mediaPlayer = MediaPlayer.create(context, assetName).apply {
+                        setAudioAttributes(
+                            AudioAttributes.Builder()
+                                .setContentType(AudioAttributes.CONTENT_TYPE_MUSIC)
+                                .setUsage(AudioAttributes.USAGE_MEDIA)
+                                .build()
+                        )  
+                    }
+                    mediaPlayer.prepare()
+                    mediaPlayer.setOnPreparedListener { media -> media.start() }
+                    mediaPlayer.prepareAsync()
+
+                }catch (e: IOException){
+                    e.printStackTrace()
+                }
 
         }
 
         binding.fabPause.setOnClickListener {
-            if (mediaPlayer != null) {
-                mediaPlayer?.pause()
-            }
+            mediaPlayer.pause()
         }
 
         binding.fabStop.setOnClickListener {
-            if (mediaPlayer != null) {
-                mediaPlayer?.stop()
-                mediaPlayer?.reset()
-                mediaPlayer?.release()
-                mediaPlayer = null
-            }
+            mediaPlayer.stop()
+
         }
 
         binding.seekBarSong.setOnSeekBarChangeListener(object : SeekBar.OnSeekBarChangeListener {
             override fun onProgressChanged(seekBar: SeekBar?, progress: Int, fromUser: Boolean) {
-                if (fromUser) mediaPlayer?.seekTo(progress)
+                mediaPlayer?.seekTo(progress)
             }
 
             override fun onStartTrackingTouch(seekBar: SeekBar?) {
@@ -109,24 +119,21 @@ class BirdMusicBottomSheetFragment : BottomSheetDialogFragment() {
         })
 
         binding.closeSong.setOnClickListener {
-            if (mediaPlayer != null) {
-                mediaPlayer?.stop()
-                mediaPlayer?.reset()
-                mediaPlayer?.release()
-                mediaPlayer = null
-            }
+                mediaPlayer.stop()
+                mediaPlayer.reset()
+                mediaPlayer.release()
             dismiss()
         }
     }
 
-    private fun initializeSeekBar() {
-        binding.seekBarSong.max = mediaPlayer!!.duration
+    private fun initializeSeekBar(mediaPlayer: MediaPlayer) {
+        binding.seekBarSong.max = mediaPlayer.duration
 
         val handler = Handler()
             handler.postDelayed(object : Runnable {
                 override fun run() {
                     try {
-                        binding.seekBarSong.max = mediaPlayer!!.currentPosition
+                        binding.seekBarSong.max = mediaPlayer.currentPosition
                         handler.postDelayed(this, 1000)
                     } catch (e: Exception) {
                         binding.seekBarSong.progress = 0

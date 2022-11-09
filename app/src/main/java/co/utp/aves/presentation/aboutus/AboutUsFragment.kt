@@ -49,6 +49,10 @@ class AboutUsFragment : BaseFragment<FragmentAboutUsBinding, BirdViewModel>(), A
         }
     }
 
+    override fun setListeners() {
+
+    }
+
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         viewModel.getAboutUs()
@@ -95,9 +99,9 @@ class AboutUsFragment : BaseFragment<FragmentAboutUsBinding, BirdViewModel>(), A
     override fun onClickAboutUsEmail(aboutUs: AboutUs) {
         val i = Intent(Intent.ACTION_SEND)
         i.type = "message/rfc822"
-        i.putExtra(Intent.EXTRA_EMAIL, arrayOf("recipient@example.com"))
+        i.putExtra(Intent.EXTRA_EMAIL, aboutUs.Email)
         i.putExtra(Intent.EXTRA_SUBJECT, "subject of email")
-        i.putExtra(Intent.EXTRA_TEXT, "body of email")
+        i.putExtra(Intent.EXTRA_TEXT, "")
         try {
             startActivity(Intent.createChooser(i, "Send mail..."))
         } catch (ex: ActivityNotFoundException) {
