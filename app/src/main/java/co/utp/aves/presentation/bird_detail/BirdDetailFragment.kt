@@ -4,14 +4,19 @@ import android.annotation.SuppressLint
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Toast
+import androidx.activity.OnBackPressedCallback
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.FragmentActivity
 import androidx.fragment.app.viewModels
+import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import co.utp.aves.R
+import co.utp.aves.base.BaseActivity
 import co.utp.aves.base.BaseFragment
 import co.utp.aves.databinding.FragmentBirdDetailBinding
 import co.utp.aves.presentation.BirdViewModel
+import co.utp.aves.presentation.bird.BirdFragmentDirections
 import co.utp.aves.presentation.bird.adapter.*
 import co.utp.aves.presentation.model.Ave
 import co.utp.aves.utils.AVE_ITEM
@@ -24,6 +29,8 @@ class BirdDetailFragment : BaseFragment<FragmentBirdDetailBinding, BirdViewModel
 
     override val viewModel: BirdViewModel by viewModels()
 
+
+    private var pressedTime: Long = 0
     var ave: Ave? = null
 
     override fun inflateView(
@@ -41,6 +48,8 @@ class BirdDetailFragment : BaseFragment<FragmentBirdDetailBinding, BirdViewModel
         with(binding.imgBirdDetail){
             setOnClickListener { } //todo implement view image
         }
+
+        handleBack()
     }
 
     override fun setUI() {
@@ -84,6 +93,24 @@ class BirdDetailFragment : BaseFragment<FragmentBirdDetailBinding, BirdViewModel
         }
     }
 
+    private fun handleBack() {
+        (requireActivity() as? BaseActivity<*>)?.hideBack()
+        requireActivity().onBackPressedDispatcher.addCallback(
+            this,
+            object : OnBackPressedCallback(true) {
+                override fun handleOnBackPressed() {
+
+                    findNavController().navigate(
+                        BirdDetailFragmentDirections.actionBirdDetailToBird()
+                    )
+                }
+            })
+
+
+    }
+
+
+
 
     @SuppressLint("NotifyDataSetChanged")
     private fun setFoodAdapter(food: List<String>) {
@@ -126,16 +153,18 @@ class BirdDetailFragment : BaseFragment<FragmentBirdDetailBinding, BirdViewModel
 
     override fun observe() {}
 
-    override fun onClickSound(sound: String) {
-        activity?.showBottomSheet(sound)
+    override fun onClickSound(sound: String, position: Int) {
+        ave?.Nombre_Comun?.let { activity?.showBottomSheet(sound, it, position.toString()) }
     }
 }
 
 
 
-fun FragmentActivity?.showBottomSheet(sound: String): BirdMusicBottomSheetFragment {
+fun FragmentActivity?.showBottomSheet(sound: String, name: String, position: String): BirdMusicBottomSheetFragment {
     val bottomSheet = BirdMusicBottomSheetFragment()
     bottomSheet.sound = sound
+    bottomSheet.name = name
+    bottomSheet.position = position
     this?.let {
         bottomSheet.show(it.supportFragmentManager, BirdMusicBottomSheetFragment::class.java.name)
     }

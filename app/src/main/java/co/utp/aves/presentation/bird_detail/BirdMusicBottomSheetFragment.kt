@@ -19,10 +19,12 @@ import java.io.IOException
 class BirdMusicBottomSheetFragment : BottomSheetDialogFragment() {
 
     lateinit var sound: String
+    lateinit var name:  String
+    lateinit var position: String
 
     private lateinit var binding: ItemMusicBinding
 
-    private lateinit var mediaPlayer: MediaPlayer
+     private lateinit var mediaPlayer: MediaPlayer
 
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
@@ -33,7 +35,7 @@ class BirdMusicBottomSheetFragment : BottomSheetDialogFragment() {
             requireContext().packageName
         )
 
-        controlSound(rawSound)
+        controlSound(rawSound, name)
     }
 
     override fun onCreateView(
@@ -66,80 +68,47 @@ class BirdMusicBottomSheetFragment : BottomSheetDialogFragment() {
     }
 
 
-    private fun controlSound(assetName: Int) {
+    private fun controlSound(assetName: Int, name: String) {
 
+        val nameTitle = "$name - $position"
 
+        binding.fabPause.visibility= View.GONE
 
-        //    binding.fabPlay.setBackgroundResource(R.drawable.ic_pause_player)
+        if(sound.contains("_")) binding.titleBirdSong.text = nameTitle else binding.titleBirdSong.text = name
+
+        mediaPlayer = MediaPlayer.create(context, assetName).apply {
+            setAudioAttributes(
+                AudioAttributes.Builder()
+                    .setContentType(AudioAttributes.CONTENT_TYPE_MUSIC)
+                    .setUsage(AudioAttributes.USAGE_MEDIA)
+                    .build()
+            )
+        }
+
 
 
         binding.fabPlay.setOnClickListener {
-                try {
-                    mediaPlayer = MediaPlayer.create(context, assetName).apply {
-                        setAudioAttributes(
-                            AudioAttributes.Builder()
-                                .setContentType(AudioAttributes.CONTENT_TYPE_MUSIC)
-                                .setUsage(AudioAttributes.USAGE_MEDIA)
-                                .build()
-                        )  
-                    }
-                    mediaPlayer.prepare()
-                    mediaPlayer.setOnPreparedListener { media -> media.start() }
-                    mediaPlayer.prepareAsync()
-
-                }catch (e: IOException){
-                    e.printStackTrace()
-                }
+            mediaPlayer.start()
+            binding.fabPlay.visibility = View.GONE
+            binding.fabPause.visibility= View.VISIBLE
 
         }
 
         binding.fabPause.setOnClickListener {
             mediaPlayer.pause()
+            binding.fabPlay.visibility = View.VISIBLE
+            binding.fabPause.visibility = View.GONE
         }
 
         binding.fabStop.setOnClickListener {
             mediaPlayer.stop()
-
+            binding.fabPlay.visibility = View.VISIBLE
+            binding.fabPause.visibility = View.GONE
         }
-
-        binding.seekBarSong.setOnSeekBarChangeListener(object : SeekBar.OnSeekBarChangeListener {
-            override fun onProgressChanged(seekBar: SeekBar?, progress: Int, fromUser: Boolean) {
-                mediaPlayer?.seekTo(progress)
-            }
-
-            override fun onStartTrackingTouch(seekBar: SeekBar?) {
-
-            }
-
-            override fun onStopTrackingTouch(seekBar: SeekBar?) {
-
-            }
-
-
-        })
 
         binding.closeSong.setOnClickListener {
                 mediaPlayer.stop()
-                mediaPlayer.reset()
-                mediaPlayer.release()
             dismiss()
         }
-    }
-
-    private fun initializeSeekBar(mediaPlayer: MediaPlayer) {
-        binding.seekBarSong.max = mediaPlayer.duration
-
-        val handler = Handler()
-            handler.postDelayed(object : Runnable {
-                override fun run() {
-                    try {
-                        binding.seekBarSong.max = mediaPlayer.currentPosition
-                        handler.postDelayed(this, 1000)
-                    } catch (e: Exception) {
-                        binding.seekBarSong.progress = 0
-                    }
-                }
-            }, 0)
-
     }
 }

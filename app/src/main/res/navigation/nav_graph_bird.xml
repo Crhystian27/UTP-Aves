@@ -21,6 +21,22 @@
     </fragment>
 
     <fragment
+        android:id="@+id/navigation_camera"
+        android:name="co.utp.aves.presentation.camera.CameraFragment"
+        android:label="CameraFragment"
+        tools:layout="@layout/fragment_camera" >
+
+        <action
+            android:id="@+id/action_camera_to_bird_detail"
+            app:destination="@id/navigation_bird_detail" >
+            <argument
+                android:name="ave"
+                app:argType="co.utp.aves.presentation.model.Ave"/>
+        </action>
+    </fragment>
+
+
+    <fragment
         android:id="@+id/navigation_about_us"
         android:name="co.utp.aves.presentation.aboutus.AboutUsFragment"
         android:label="AboutUsFragment"
@@ -34,15 +50,7 @@
                 app:argType="co.utp.aves.presentation.model.AboutUs" />
         </action>
 
-
     </fragment>
-
-
-    <fragment
-        android:id="@+id/navigation_camera"
-        android:name="co.utp.aves.presentation.camera.CameraFragment"
-        android:label="CameraFragment"
-        tools:layout="@layout/fragment_camera" />
 
 
     <fragment
@@ -56,5 +64,9 @@
         android:id="@+id/navigation_bird_detail"
         android:name="co.utp.aves.presentation.bird_detail.BirdDetailFragment"
         android:label="BirdDetailFragment"
-        tools:layout="@layout/fragment_bird_detail" />
+        tools:layout="@layout/fragment_bird_detail" >
+        <action
+            android:id="@+id/action_bird_detail_to_bird"
+            app:destination="@id/navigation_bird" />
+    </fragment>
 </navigation>

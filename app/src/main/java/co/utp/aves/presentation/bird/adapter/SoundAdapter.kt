@@ -29,7 +29,7 @@ BaseAdapter<String,SoundAdapter.SoundViewHolder>(
             binding.apply {
 
                 sound.setOnClickListener {
-                    listener.onClickSound(data)
+                    listener.onClickSound(data,adapterPosition)
                 }
             }
         }
@@ -54,5 +54,5 @@ BaseAdapter<String,SoundAdapter.SoundViewHolder>(
 }
 
 interface SoundClick{
-    fun onClickSound(sound: String)
+    fun onClickSound(sound: String,position: Int)
 }

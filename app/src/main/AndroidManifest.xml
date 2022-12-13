@@ -4,6 +4,10 @@
     package="co.utp.aves">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <!-- Declare features -->
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
         android:name=".BirdApp"

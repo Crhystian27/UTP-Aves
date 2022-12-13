@@ -29,7 +29,7 @@ class BirdRepository @Inject constructor(@ApplicationContext private val context
     }
 
     override suspend fun findBird(idAve: String?): Ave {
-        return jsonAve.Aves.find { it.Codigo == idAve }!!
+        return jsonAve.Aves.find { it.Nombre_Cientifico == idAve }!!
     }
 
     override suspend fun getAboutUs(): List<AboutUs> {
