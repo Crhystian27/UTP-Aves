@@ -2,7 +2,6 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/bottomSheet"
-    android:background="@drawable/rounded_shape"
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
 
@@ -37,11 +36,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="24dp"
-        android:visibility="gone"
         android:progressTint="@color/utp_blue"
         android:thumbTint="@color/utp_blue_light"
         app:layout_constraintBottom_toTopOf="@id/container_play_pause"
-        app:layout_constraintTop_toBottomOf="@id/close_song" />
+        app:layout_constraintTop_toBottomOf="@id/title_bird_song" />
 
     <LinearLayout
         android:id="@+id/container_play_pause"
@@ -52,7 +50,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/title_bird_song">
+        app:layout_constraintTop_toBottomOf="@id/seekBar_song">
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
             android:id="@+id/fab_play"
@@ -65,28 +63,5 @@
             app:backgroundTint="@color/utp_blue"
             app:tint="@color/white" />
 
-
-        <com.google.android.material.floatingactionbutton.FloatingActionButton
-            android:id="@+id/fab_pause"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="24dp"
-            android:contentDescription="@string/app_name"
-            android:elevation="8dp"
-            android:src="@drawable/ic_pause_player"
-            app:backgroundTint="@color/utp_blue"
-            app:tint="@color/white" />
-
-
-        <com.google.android.material.floatingactionbutton.FloatingActionButton
-            android:id="@+id/fab_stop"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_margin="24dp"
-            android:contentDescription="@string/app_name"
-            android:elevation="8dp"
-            android:src="@drawable/ic_stop_player"
-            app:backgroundTint="@color/utp_blue"
-            app:tint="@color/white" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

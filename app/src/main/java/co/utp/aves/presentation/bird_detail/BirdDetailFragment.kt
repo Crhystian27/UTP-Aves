@@ -164,7 +164,6 @@ fun FragmentActivity?.showBottomSheet(sound: String, name: String, position: Str
     val bottomSheet = BirdMusicBottomSheetFragment()
     bottomSheet.sound = sound
     bottomSheet.name = name
-    bottomSheet.position = position
     this?.let {
         bottomSheet.show(it.supportFragmentManager, BirdMusicBottomSheetFragment::class.java.name)
     }
