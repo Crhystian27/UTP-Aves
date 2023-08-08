@@ -1,35 +1,32 @@
 {"AboutUs":
     [
         {
-            "Name":"Ana Maria López Echeverry",
-            "LinkedIn": "https://www.linkedin.com/in/ana-maria-l%C3%B3pez-echeverry-01019638/",
-            "Email": "anamayi@utp.edu.co",
-            "Photo": "lopez",
-            "Title": "Docente/Investigadora"
-        },
-
-        {
-            "Name":"Francisco Alejandro Medina Aguirre",
-            "LinkedIn": "",
-            "Email": "famedina@utp.edu.co",
-            "Photo": "medina",
-            "Title": "Docente/Investigador"
-        },
-
-        {
-            "Name":"Sebastian López Flórez",
+            "Name":"Sebastian López\nFlórez",
             "LinkedIn": "https://www.linkedin.com/in/sebastian-lopez-florez-b50002125/",
             "Email": "sebastianlopezflorez@utp.edu.co",
             "Photo": "florez",
             "Title": "Artificial Intelligence"
         },
-
         {
-            "Name":"Cristian David Soto Ramirez",
+            "Name":"Cristian David Soto\nRamirez",
             "LinkedIn": "https://www.linkedin.com/in/cristiandavidsoto/",
             "Email": "cdsoto@utp.edu.co",
             "Photo": "soto",
             "Title": "Android Developer"
+        },
+        {
+            "Name":"Francisco Alejandro\nMedina Aguirre",
+            "LinkedIn": "",
+            "Email": "famedina@utp.edu.co",
+            "Photo": "medina",
+            "Title": "Docente/Investigador"
+        },
+        {
+            "Name":"Ana Maria López\nEcheverry",
+            "LinkedIn": "https://www.linkedin.com/in/ana-maria-l%C3%B3pez-echeverry-01019638/",
+            "Email": "anamayi@utp.edu.co",
+            "Photo": "lopez",
+            "Title": "Docente/Investigadora"
         }
     ]
 }

@@ -8,6 +8,7 @@ import android.view.animation.AnimationUtils
 import androidx.core.animation.doOnEnd
 import androidx.core.view.drawToBitmap
 import com.google.android.material.bottomnavigation.BottomNavigationView
+import com.google.android.material.tabs.TabLayout
 
 /**
  * Potentially animate showing a [BottomNavigationView].
@@ -86,5 +87,11 @@ fun BottomNavigationView.hide() {
             parent.overlay.remove(drawable)
         }
         start()
+    }
+}
+
+fun TabLayout.addTabs(tabs: List<String>) {
+    tabs.forEach { tab ->
+        addTab(newTab().setText(tab))
     }
 }

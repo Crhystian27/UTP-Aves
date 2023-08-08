@@ -46,8 +46,8 @@
             app:destination="@id/navigation_about_us_detail">
 
             <argument
-                android:name="aboutUs"
-                app:argType="co.utp.aves.presentation.model.AboutUs" />
+                android:name="url"
+                app:argType="string" />
         </action>
 
     </fragment>

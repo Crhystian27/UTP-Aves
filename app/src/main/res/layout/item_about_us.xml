@@ -2,6 +2,7 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
+    android:id="@+id/cl_about_us"
     android:layout_height="wrap_content"
     android:layout_marginStart="32dp"
     android:layout_marginTop="16dp">
@@ -9,16 +10,15 @@
     <com.google.android.material.imageview.ShapeableImageView
         android:id="@+id/about_us_image"
         android:layout_width="104dp"
-        android:foreground="@drawable/bg_gradient_rounded"
-        app:shapeAppearance="@style/ShapeAppearanceOverlay.App.SelectedCornerRadius"
         android:layout_height="104dp"
         android:contentDescription="@string/app_name"
         android:scaleType="centerCrop"
-        app:layout_constraintBottom_toBottomOf="@id/about_us_title"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintDimensionRatio="1:1"
         app:layout_constraintEnd_toStartOf="@id/about_us_name"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@id/about_us_name"
+        app:shapeAppearance="@style/ShapeAppearanceOverlay.App.SelectedCornerRadius"
         app:srcCompat="@drawable/soto" />
 
     <View
@@ -35,17 +35,19 @@
     <TextView
         android:id="@+id/about_us_name"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:ellipsize="end"
-        android:gravity="center_vertical"
+        android:gravity="start|center_vertical"
         android:lines="2"
         android:paddingHorizontal="16dp"
         android:paddingVertical="8dp"
         android:text="@string/app_name"
-        android:textColor="@color/black"
         android:textAppearance="?attr/textAppearanceSubtitle1"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/about_us_title"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_weight="1"
         app:layout_constraintStart_toEndOf="@id/about_us_image"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -55,7 +57,7 @@
         android:layout_width="wrap_content"
         android:layout_height="0dp"
         android:importantForAccessibility="no"
-        android:paddingStart="16dp"
+        android:paddingHorizontal="12dp"
         app:layout_constraintBottom_toBottomOf="@id/about_us_title"
         app:layout_constraintEnd_toStartOf="@id/about_us_title"
         app:layout_constraintStart_toStartOf="@id/about_us_name"
@@ -67,32 +69,17 @@
         android:id="@+id/about_us_title"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:paddingVertical="16dp"
-        android:paddingStart="8dp"
+        android:paddingHorizontal="4dp"
+        android:paddingVertical="8dp"
         android:text="@string/app_name"
-        android:textAppearance="?attr/textAppearanceCaption"
+        android:textAppearance="?attr/textAppearanceSubtitle1"
         android:textColor="@color/utp_blue"
+        android:textSize="16sp"
+        android:textStyle="italic"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@id/about_us_email"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@id/about_us_icon"
         app:layout_constraintTop_toBottomOf="@id/about_us_name" />
-
-
-    <ImageView
-        android:id="@+id/about_us_email"
-        android:layout_width="wrap_content"
-        android:layout_height="0dp"
-        android:importantForAccessibility="no"
-        android:paddingEnd="16dp"
-        app:layout_constraintBottom_toBottomOf="@id/about_us_title"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@id/about_us_title"
-        app:layout_constraintTop_toTopOf="@id/about_us_title"
-        app:srcCompat="@drawable/ic_email"
-        app:tint="@color/black" />
-
-
-
-
+    
 </androidx.constraintlayout.widget.ConstraintLayout>
 

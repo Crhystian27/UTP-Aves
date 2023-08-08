@@ -18,11 +18,11 @@ class AboutUsDetailFragment : BaseFragment<FragmentAboutUsDetailBinding, BirdVie
 
     override val viewModel: BirdViewModel by viewModels()
 
-    var aboutUs: AboutUs? = null
+    var url: String? = null
 
     override fun getBundleArgs() {
         arguments?.let {
-            aboutUs = it.getParcelable(ABOUT_US_ITEM)
+            url = it.getString(ABOUT_US_ITEM)
         }
     }
 
@@ -32,15 +32,14 @@ class AboutUsDetailFragment : BaseFragment<FragmentAboutUsDetailBinding, BirdVie
     ) = FragmentAboutUsDetailBinding.inflate(inflater, container, false)
 
     override fun setUI() {
-        aboutUs?.Name?.let {
             setToolbarActivity(
-                it,
+                "",
                 R.color.white,
                 R.color.utp_blue
             )
-        }
 
-        aboutUs?.LinkedIn?.let { initWeb(it) }
+
+        url?.let { initWeb(it) }
 
     }
 

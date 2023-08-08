@@ -2,6 +2,9 @@ package co.utp.aves.utils
 
 import android.content.Context
 import android.graphics.drawable.Drawable
+import android.net.ConnectivityManager
+import android.net.NetworkCapabilities
+import android.os.Build
 import android.widget.ImageView
 import androidx.annotation.StringRes
 import co.utp.aves.R
@@ -47,4 +50,21 @@ fun getJson(@StringRes fileNameString: Int, context: Context): String {
 
 fun InputStream.readTextAndClose(charset: Charset = Charsets.UTF_8): String {
     return this.bufferedReader(charset).use { it.readText() }
+}
+
+
+fun isNetworkAvailable(context: Context?): Boolean {
+    if (context == null) return false
+    val connectivityManager =
+        context.getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
+    val networkCapabilities =
+        connectivityManager.getNetworkCapabilities(connectivityManager.activeNetwork)
+
+    return networkCapabilities?.run {
+        hasTransport(NetworkCapabilities.TRANSPORT_CELLULAR) ||
+                hasTransport(NetworkCapabilities.TRANSPORT_WIFI) ||
+                (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q && hasTransport(
+                    NetworkCapabilities.TRANSPORT_ETHERNET
+                ))
+    } ?: false
 }

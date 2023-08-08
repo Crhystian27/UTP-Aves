@@ -104,7 +104,7 @@ class BirdFragment : BaseFragment<FragmentBirdBinding, BirdViewModel>(), BirdCli
             if (adapter == null) {
                 layoutManager = StaggeredGridLayoutManager(
                     2,
-                    LinearLayoutManager.VERTICAL
+                    StaggeredGridLayoutManager.VERTICAL
                 )
 
                 adapter = BirdAdapter(this@BirdFragment)
@@ -133,6 +133,4 @@ class BirdFragment : BaseFragment<FragmentBirdBinding, BirdViewModel>(), BirdCli
             )
         )
     }
-
-
 }

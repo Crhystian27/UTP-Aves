@@ -4,9 +4,10 @@
 
     <string name="title_bird_fragment">Aves de Pereira</string>
     <string name="title_about_us_fragment"></string>
-    <string name="app_name">UTP-Aves</string>
+    <string name="app_name">Aves de Pereira</string>
     <string name="json_birds">Aves</string>
     <string name="json_about_us">AboutUs</string>
+    <string name="json_about_us_dependencies">AboutUsDependencies</string>
 
     <!-- Bottom Navigation View -->
     <string name="bottom_nav_birds">Aves</string>
@@ -16,6 +17,9 @@
     <string name="toolbar_quit">Quit</string>
 
     <string name="hint_search">Busca tu ave</string>
+
+    <string name="string_collaborators">Colaboradores</string>
+    <string name="string_dependencies">Dependencias</string>
 
     <string name="back_pressed">Pulse de nuevo el botón atrás para salir</string>
 

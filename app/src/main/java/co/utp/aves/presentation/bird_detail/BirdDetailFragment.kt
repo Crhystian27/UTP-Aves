@@ -4,7 +4,6 @@ import android.annotation.SuppressLint
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Toast
 import androidx.activity.OnBackPressedCallback
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.FragmentActivity
@@ -16,7 +15,6 @@ import co.utp.aves.base.BaseActivity
 import co.utp.aves.base.BaseFragment
 import co.utp.aves.databinding.FragmentBirdDetailBinding
 import co.utp.aves.presentation.BirdViewModel
-import co.utp.aves.presentation.bird.BirdFragmentDirections
 import co.utp.aves.presentation.bird.adapter.*
 import co.utp.aves.presentation.model.Ave
 import co.utp.aves.utils.AVE_ITEM
@@ -29,8 +27,6 @@ class BirdDetailFragment : BaseFragment<FragmentBirdDetailBinding, BirdViewModel
 
     override val viewModel: BirdViewModel by viewModels()
 
-
-    private var pressedTime: Long = 0
     var ave: Ave? = null
 
     override fun inflateView(
@@ -45,7 +41,7 @@ class BirdDetailFragment : BaseFragment<FragmentBirdDetailBinding, BirdViewModel
     }
 
     override fun setListeners() {
-        with(binding.imgBirdDetail){
+        with(binding.imgBirdDetail) {
             setOnClickListener { } //todo implement view image
         }
 
@@ -110,8 +106,6 @@ class BirdDetailFragment : BaseFragment<FragmentBirdDetailBinding, BirdViewModel
     }
 
 
-
-
     @SuppressLint("NotifyDataSetChanged")
     private fun setFoodAdapter(food: List<String>) {
         with(binding.rvFoodBird) {
@@ -159,8 +153,11 @@ class BirdDetailFragment : BaseFragment<FragmentBirdDetailBinding, BirdViewModel
 }
 
 
-
-fun FragmentActivity?.showBottomSheet(sound: String, name: String, position: String): BirdMusicBottomSheetFragment {
+fun FragmentActivity?.showBottomSheet(
+    sound: String,
+    name: String,
+    position: String
+): BirdMusicBottomSheetFragment {
     val bottomSheet = BirdMusicBottomSheetFragment()
     bottomSheet.sound = sound
     bottomSheet.name = name

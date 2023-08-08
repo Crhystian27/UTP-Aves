@@ -1,0 +1,19 @@
+{"AboutUsDependencies":
+    [
+        {
+            "Name":"Jardín Botánico UTP",
+            "Url": "https://www2.utp.edu.co/jardin/",
+            "Image": "garden"
+        },
+        {
+            "Name":"GI. Nyquist",
+            "Url": "https://blog.utp.edu.co/nyquist/quienes-somos/",
+            "Image": "nyquist"
+        },
+        {
+            "Name":"Universidad Tecnológica de Pereira",
+            "Url": "https://www.utp.edu.co/",
+            "Image": "utp"
+        }
+    ]
+}

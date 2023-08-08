@@ -34,12 +34,8 @@ BaseAdapter<AboutUs, AboutUsAdapter.AboutUsViewHolder>(
                 aboutUsName.text = data.Name
                 aboutUsTitle.text = data.Title
 
-                aboutUsImage.setOnClickListener {
+                clAboutUs.setOnClickListener {
                     listener.onClickAboutUs(data)
-                }
-
-                aboutUsEmail.setOnClickListener {
-                    listener.onClickAboutUsEmail(data)
                 }
 
             }
@@ -63,5 +59,4 @@ BaseAdapter<AboutUs, AboutUsAdapter.AboutUsViewHolder>(
 
 interface AboutUsClick{
     fun onClickAboutUs(aboutUs: AboutUs)
-    fun onClickAboutUsEmail(aboutUs: AboutUs)
 }

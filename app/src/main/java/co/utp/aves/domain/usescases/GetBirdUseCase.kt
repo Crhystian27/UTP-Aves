@@ -5,10 +5,10 @@ import co.utp.aves.domain.interfaces.IBirdRepository
 import co.utp.aves.presentation.model.Ave
 import javax.inject.Inject
 
-class GetBirdUseCase @Inject constructor(private val repository: IBirdRepository):
+class GetBirdUseCase @Inject constructor(private val repository: IBirdRepository) :
     BaseUseCaseNoParams<List<Ave>>() {
 
-    override suspend fun execute(): List<Ave> {
-        return repository.getListBirds()
-    }
+    override suspend fun execute(): List<Ave> =
+        repository.getListBirds()
+
 }

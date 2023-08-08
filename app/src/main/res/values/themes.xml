@@ -16,20 +16,17 @@
     </style>
 
 
-    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
-        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_inset</item>
-        <item name="postSplashScreenTheme">@style/Theme.UTPAves</item>
-        <item name="windowSplashScreenBackground">@color/white</item>
-        <item name="windowSplashScreenAnimationDuration">300</item>
-    </style>
-
-
     <style name="ThemeOverlay.Bird.Black" parent="@style/ThemeOverlay.MaterialComponents.Light">
         <item name="colorPrimary">@color/black</item>
         <item name="colorPrimaryVariant">@color/black</item>
         <item name="colorSecondary">@color/white</item>
         <item name="colorSecondaryVariant">@color/white</item>
         <item name="colorOnPrimary">#fff</item>
+    </style>
+
+    <style name="TextFilterTitle">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">16sp</item>
     </style>
 
 
