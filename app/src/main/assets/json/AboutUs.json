@@ -16,7 +16,7 @@
         },
         {
             "Name":"Francisco Alejandro\nMedina Aguirre",
-            "LinkedIn": "",
+            "LinkedIn": "https://www.linkedin.com/in/francisco-alejandro-medina-aguirre-992494291/",
             "Email": "famedina@utp.edu.co",
             "Photo": "medina",
             "Title": "Docente/Investigador"
@@ -27,6 +27,34 @@
             "Email": "anamayi@utp.edu.co",
             "Photo": "lopez",
             "Title": "Docente/Investigadora"
+        },
+        {
+            "Name":"Juan Manuel\nVelásquez Isaza",
+            "LinkedIn": "",
+            "Email": "jumavefes@utp.edu.co",
+            "Photo": "velasquez",
+            "Title": "Docente/Investigador"
+        },
+        {
+            "Name":"Jorge Hugo García\nSierra",
+            "LinkedIn": "",
+            "Email": "jorgehugo@utp.edu.co",
+            "Photo": "garcia",
+            "Title": "Docente/Investigador"
+        },
+        {
+            "Name":"Santiago Nieto\nZapata",
+            "LinkedIn": "",
+            "Email": "santiago.n.z@utp.edu.co",
+            "Photo": "nieto",
+            "Title": "Investigador"
+        },
+        {
+            "Name":"Jaime Andrés\nSuarez Mejía",
+            "LinkedIn": "",
+            "Email": "",
+            "Photo": "suarez",
+            "Title": "Investigador"
         }
     ]
 }

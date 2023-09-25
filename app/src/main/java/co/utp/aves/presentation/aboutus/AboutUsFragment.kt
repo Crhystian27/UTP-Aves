@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.GridLayoutManager
@@ -63,7 +64,8 @@ class AboutUsFragment : BaseFragment<FragmentAboutUsBinding, BirdViewModel>(), A
                 override fun onTabSelected(tab: TabLayout.Tab) {
                     when(tab.text){
                         collaborators -> {rvAboutUs.visibility = View.VISIBLE}
-                        dependencies -> {rvAboutUsDependencies.visibility = View.VISIBLE}
+                        dependencies -> {rvAboutUsDependencies.visibility = View.VISIBLE
+                            infoDependencies.visibility = View.VISIBLE}
                     }
 
                 }
@@ -71,16 +73,27 @@ class AboutUsFragment : BaseFragment<FragmentAboutUsBinding, BirdViewModel>(), A
                 override fun onTabUnselected(tab: TabLayout.Tab) {
                     when(tab.text){
                         collaborators -> {rvAboutUs.visibility = View.GONE}
-                        dependencies -> {rvAboutUsDependencies.visibility = View.GONE}
+                        dependencies -> {rvAboutUsDependencies.visibility = View.GONE
+                            infoDependencies.visibility = View.GONE}
                     }
                 }
 
                 override fun onTabReselected(tab: TabLayout.Tab) {}
             })
 
+            infoDependencies.setOnClickListener {
+                showSimpleDialog()
+            }
 
         }
 
+    }
+
+    private fun showSimpleDialog() {
+        val dialogBuilder = AlertDialog.Builder(requireContext())
+        dialogBuilder.setTitle("Recuerda.")
+        dialogBuilder.setMessage("Esta app se elaboró con el apoyo de la Vicerrectoría de Investigaciones, Innovación y Extensión de la Universidad Tecnológica de Pereira.\n\nCon el nombre de proyecto:\nÁrea urbana de Pereira:\nTerritorio de aves, sonidos y colores.\nCódigo: 2-23-6.")
+        dialogBuilder.create().show()
     }
 
     private fun setAdapterAboutUs(aboutUs: List<AboutUs>) {

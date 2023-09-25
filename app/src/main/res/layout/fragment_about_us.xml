@@ -11,9 +11,10 @@
         android:id="@+id/tl_about_us"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="16dp"
         android:layout_marginStart="32dp"
         android:layout_marginEnd="32dp"
+        android:layout_marginBottom="16dp"
+        android:background="@color/utp_blue"
         android:contentDescription="@string/app_name"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -22,15 +23,15 @@
         app:tabIndicatorGravity="bottom"
         app:tabIndicatorHeight="3dp"
         app:tabMaxWidth="0dp"
-        android:background="@color/utp_blue"
         app:tabSelectedTextColor="@color/white"
-        app:tabTextColor="@color/grey"
-        app:tabTextAppearance="@style/TextFilterTitle" />
+        app:tabTextAppearance="@style/TextFilterTitle"
+        app:tabTextColor="@color/grey" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_about_us"
         android:layout_width="match_parent"
         android:layout_height="0dp"
+        android:layout_marginBottom="4dp"
         android:scrollbars="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -43,18 +44,28 @@
         android:id="@+id/rv_about_us_dependencies"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:visibility="gone"
         android:layout_marginTop="8dp"
+        android:layout_marginBottom="4dp"
         android:scrollbars="vertical"
+        android:visibility="gone"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/tl_about_us"
         tools:listitem="@layout/item_bird" />
 
-
-
-
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/info_dependencies"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_marginBottom="16dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/ic_info"
+        app:backgroundTint="@color/grey"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 
 
     <!--

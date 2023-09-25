@@ -14,6 +14,11 @@
             "Name":"Universidad Tecnológica de Pereira",
             "Url": "https://www.utp.edu.co/",
             "Image": "utp"
+        },
+        {
+            "Name":"Vicerrectoría de Investigaciones,\nInnovación y Extensión",
+            "Url": "https://www2.utp.edu.co/vicerrectoria/investigaciones/",
+            "Image": "vice"
         }
     ]
 }

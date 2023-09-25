@@ -13,7 +13,7 @@
             "Imagen_Ave": "ave001.webp",
             "Sonidos": ["aud001.mp3"],
             "Alimentos": ["anfi", "crusta", "frugiv", "frutpeq", "insec", "semllas", "semlleros"]
-        }, 
+        },
 
         {
             "Codigo":"002",
@@ -89,7 +89,7 @@
             "Sonidos": ["aud006.mp3"],
             "Alimentos": ["frugiv", "frutpeq", "insec"]
         },
-        
+
         {
             "Codigo":"007",
             "Nombre_Comun": "Paloma colorada",
@@ -178,7 +178,7 @@
             "Imagen_Ave": "ave012.webp",
             "Sonidos": ["aud012.mp3"],
             "Alimentos": ["insec"]
-        },  
+        },
 
         {
             "Codigo":"013",
@@ -193,8 +193,8 @@
             "Imagen_Ave": "ave013.webp",
             "Sonidos": ["aud013.mp3"],
             "Alimentos": ["insec"]
-        },  
-        
+        },
+
         {
             "Codigo":"014",
             "Nombre_Comun": "Gallina ciega común / Guarda caminos común",
@@ -208,8 +208,8 @@
             "Imagen_Ave": "ave014.webp",
             "Sonidos": ["aud014_1.mp3", "aud014_2.mp3"],
             "Alimentos": ["insec"]
-        },  
-        
+        },
+
         {
             "Codigo":"015",
             "Nombre_Comun": "Colibrí collarejo",
@@ -224,7 +224,7 @@
             "Sonidos": [ ],
             "Alimentos": ["insec", "nectari"]
         },
-        
+
         {
             "Codigo":"016",
             "Nombre_Comun": "Ermitaño verde",
@@ -238,8 +238,8 @@
             "Imagen_Ave": "ave016.webp",
             "Sonidos": ["aud016_1.mp3", "aud016_2.mp3"],
             "Alimentos": ["insec", "nectari"]
-        }, 
-        
+        },
+
         {
             "Codigo":"017",
             "Nombre_Comun": "Colibrí cola de raqueta",
@@ -253,8 +253,8 @@
             "Imagen_Ave": "ave017.webp",
             "Sonidos": [ ],
             "Alimentos": ["insec", "nectari"]
-        },    
-        
+        },
+
         {
             "Codigo":"018",
             "Nombre_Comun": "Colibrí Coliazul",
@@ -268,14 +268,14 @@
             "Imagen_Ave": "ave018.webp",
             "Sonidos": ["aud018.mp3"],
             "Alimentos": ["insec", "nectari"]
-        },    
-        
+        },
+
         {
             "Codigo":"019",
             "Nombre_Comun": "Pollita de agua",
             "Nombre_Cientifico": "Aramides cajaneus",
             "Orden": "Gruiforme",
-            "Familia": "Aramidae",
+            "Familia": "Rallidae",
             "Nombre_Ingles": "Gray-necked Wood-Rail",
             "Vocalizacion": "Interpreta un canto fuerte, solitaria, en duetos o grupos familiares y en postura erguida “Cu - Cu - Cu - Cu - Cu - Cui - Ca - Cui - Ca”, repetidamente",
             "Distribucion": "< 2000 m.s.n.m",
@@ -283,7 +283,7 @@
             "Imagen_Ave": "ave019.webp",
             "Sonidos": ["aud019.mp3"],
             "Alimentos": ["crusta", "insec", "pisci"]
-        },  
+        },
 
         {
             "Codigo":"020",
@@ -298,7 +298,7 @@
             "Imagen_Ave": "ave020.webp",
             "Sonidos": ["aud020.mp3"],
             "Alimentos": ["crusta", "insec", "semllas", "semlleros"]
-        },         
+        },
 
         {
             "Codigo":"021",
@@ -313,7 +313,7 @@
             "Imagen_Ave": "ave021.webp",
             "Sonidos": ["aud021.mp3"],
             "Alimentos": ["anfi", "crusta", "frutpeq", "insec", "pisci", "semllas", "semlleros"]
-        },  
+        },
 
         {
             "Codigo":"022",
@@ -329,7 +329,7 @@
             "Sonidos": ["aud022.mp3"],
             "Alimentos": ["crusta", "insec", "pisci"]
         },
-        
+
         {
             "Codigo":"023",
             "Nombre_Comun": "Garcita rayada",
@@ -343,7 +343,7 @@
             "Imagen_Ave": "ave023.webp",
             "Sonidos": ["aud023.mp3"],
             "Alimentos": ["anfi", "crusta", "insec", "pisci", "rat"]
-        }, 
+        },
 
         {
             "Codigo":"024",
@@ -359,7 +359,7 @@
             "Sonidos": [ ],
             "Alimentos": ["anfi", "crusta", "insec", "pisci", "rat"]
         },
-        
+
         {
             "Codigo":"025",
             "Nombre_Comun": "Coclí",
@@ -373,9 +373,9 @@
             "Imagen_Ave": "ave025.webp",
             "Sonidos": ["aud025_1.mp3","aud025_2.mp3"],
             "Alimentos": ["anfi", "crusta", "insec", "pisci", "rat"]
-        }, 
-        
-        
+        },
+
+
         {
             "Codigo":"026",
             "Nombre_Comun": "Guala común",
@@ -390,7 +390,7 @@
             "Sonidos": ["aud026.mp3"],
             "Alimentos": []
         },
-        
+
         {
             "Codigo":"027",
             "Nombre_Comun": "Caracolero selvático",
@@ -404,8 +404,8 @@
             "Imagen_Ave": "ave027.webp",
             "Sonidos": ["aud027.mp3"],
             "Alimentos": ["anfi", "crusta", "insec"]
-        },    
-        
+        },
+
         {
             "Codigo":"028",
             "Nombre_Comun": "Caracolero selvático",
@@ -419,8 +419,8 @@
             "Imagen_Ave": "ave028.webp",
             "Sonidos": ["aud027.mp3"],
             "Alimentos": ["anfi", "crusta", "insec"]
-        },   
-        
+        },
+
         {
             "Codigo":"029",
             "Nombre_Comun": "Águila iguanera",
@@ -435,7 +435,7 @@
             "Sonidos": ["aud029.mp3"],
             "Alimentos": ["anfi", "rat", "paj"]
         },
-        
+
         {
             "Codigo":"030",
             "Nombre_Comun": "Águila coronada",
@@ -449,8 +449,8 @@
             "Imagen_Ave": "ave030.webp",
             "Sonidos": ["aud030.mp3"],
             "Alimentos": ["anfi", "rat", "paj"]
-        },   
-        
+        },
+
         {
             "Codigo":"031",
             "Nombre_Comun": "Águila real de montaña / Águila crestada",
@@ -465,7 +465,7 @@
             "Sonidos": ["aud031.mp3"],
             "Alimentos": ["anfi", "rat", "paj"]
         },
-        
+
         {
             "Codigo":"032",
             "Nombre_Comun": "Azor cordillerano",
@@ -479,9 +479,9 @@
             "Imagen_Ave": "ave032.webp",
             "Sonidos": ["aud032.mp3"],
             "Alimentos": ["anfi", "rat", "paj"]
-        }, 
-        
-        
+        },
+
+
         {
             "Codigo":"033",
             "Nombre_Comun": "Gavilán caminero",
@@ -495,9 +495,9 @@
             "Imagen_Ave": "ave033.webp",
             "Sonidos": ["aud033_1.mp3", "aud033_2.mp3", "aud033_3.mp3"],
             "Alimentos": ["anfi", "insec", "rat", "paj", "pisci"]
-        }, 
-        
-        
+        },
+
+
         {
             "Codigo":"034",
             "Nombre_Comun": "Águila paramuna",
@@ -526,8 +526,8 @@
             "Imagen_Ave": "ave035.webp",
             "Sonidos": ["aud035.mp3"],
             "Alimentos": ["crusta", "insec", "rat"]
-        },    
-        
+        },
+
         {
             "Codigo":"036",
             "Nombre_Comun": "Búho de anteojos",
@@ -541,8 +541,8 @@
             "Imagen_Ave": "ave036.webp",
             "Sonidos": [ ],
             "Alimentos": ["anfi", "insec", "rat"]
-        },  
-        
+        },
+
         {
             "Codigo":"037",
             "Nombre_Comun": "Búho moteado",
@@ -556,8 +556,8 @@
             "Imagen_Ave": "ave037.webp",
             "Sonidos": ["aud037_1.mp3", "aud037_2.mp3"],
             "Alimentos": ["anfi", "insec", "rat"]
-        }, 
-        
+        },
+
         {
             "Codigo":"038",
             "Nombre_Comun": "Quetzal cabecidorado",
@@ -571,8 +571,8 @@
             "Imagen_Ave": "ave038.webp",
             "Sonidos": ["aud038.mp3"],
             "Alimentos": ["frugiv", "frutpeq"]
-        },  
-        
+        },
+
         {
             "Codigo":"039",
             "Nombre_Comun": "Trogón collarejo",
@@ -588,7 +588,7 @@
             "Alimentos": ["frugiv", "frutpeq", "insec"]
         },
 
-        
+
         {
             "Codigo":"040",
             "Nombre_Comun": "Barranquero coronado",
@@ -617,9 +617,9 @@
             "Imagen_Ave": "ave041.webp",
             "Sonidos": ["aud041.mp3"],
             "Alimentos": ["frugiv", "frutpeq", "insec"]
-        },        
-                
-        
+        },
+
+
         {
             "Codigo":"042",
             "Nombre_Comun": "Tucancito esmeralda",
@@ -634,7 +634,7 @@
             "Sonidos": ["aud042.mp3"],
             "Alimentos": ["frugiv", "frutpeq", "insec", "huevos", "anfi"]
         },
-        
+
         {
             "Codigo":"043",
             "Nombre_Comun": "Tucancito rabirrojo",
@@ -648,8 +648,8 @@
             "Imagen_Ave": "ave043.webp",
             "Sonidos": ["aud043.mp3"],
             "Alimentos": ["frugiv", "frutpeq", "insec", "huevos", "anfi"]
-        }, 
-        
+        },
+
         {
             "Codigo":"044",
             "Nombre_Comun": "Terlaque pechiazul",
@@ -663,8 +663,8 @@
             "Imagen_Ave": "ave044.webp",
             "Sonidos": ["aud044.mp3"],
             "Alimentos": ["frugiv", "frutpeq", "insec"]
-        },   
-        
+        },
+
         {
             "Codigo":"045",
             "Nombre_Comun": "Carpinterito punteado",
@@ -678,8 +678,8 @@
             "Imagen_Ave": "ave045.webp",
             "Sonidos": ["aud045.mp3"],
             "Alimentos": ["insec"]
-        },  
-        
+        },
+
         {
             "Codigo":"046",
             "Nombre_Comun": "Carpintero payaso",
@@ -693,8 +693,8 @@
             "Imagen_Ave": "ave046.webp",
             "Sonidos": ["aud046.mp3"],
             "Alimentos": ["frutpeq", "insec", "anfi", "nectari", "semllas"]
-        },  
-        
+        },
+
         {
             "Codigo":"047",
             "Nombre_Comun": "Carpintero habado",
@@ -723,8 +723,8 @@
             "Imagen_Ave": "ave048.webp",
             "Sonidos": ["aud048.mp3"],
             "Alimentos": ["frugiv", "frutpeq", "insec"]
-        }, 
-        
+        },
+
         {
             "Codigo":"049",
             "Nombre_Comun": "Carpintero cariblanco",
@@ -738,12 +738,12 @@
             "Imagen_Ave": "ave049.webp",
             "Sonidos": ["aud049.mp3"],
             "Alimentos": ["frugiv", "frutpeq", "insec"]
-        },    
+        },
 
 
         {
             "Codigo":"050",
-            "Nombre_Comun": "Carpintero cariblanco",
+            "Nombre_Comun": "Carpintero buchipunteado",
             "Nombre_Cientifico": "Colaptes punctigula",
             "Orden": "Piciforme",
             "Familia": "Picidae",
@@ -754,7 +754,7 @@
             "Imagen_Ave": "ave050.webp",
             "Sonidos": ["aud050.mp3"],
             "Alimentos": ["frugiv", "frutpeq", "insec"]
-        }, 
+        },
 
 
         {
@@ -785,8 +785,8 @@
             "Imagen_Ave": "ave052.webp",
             "Sonidos": ["aud052.mp3"],
             "Alimentos": ["anfi", "crusta", "gran", "frutpeq", "insec", "pisci", "rat", "semllas"]
-        },  
-        
+        },
+
         {
             "Codigo":"053",
             "Nombre_Comun": "Halcón murcielaguero",
@@ -800,7 +800,7 @@
             "Imagen_Ave": "ave053.webp",
             "Sonidos": [ ],
             "Alimentos": ["anfi", "insec", "rat"]
-        }, 
+        },
 
         {
             "Codigo":"054",
@@ -816,7 +816,7 @@
             "Sonidos": ["aud054.mp3"],
             "Alimentos": ["anfi", "insec", "rat"]
         },
-        
+
         {
             "Codigo":"055",
             "Nombre_Comun": "Periquito bronceado",
@@ -830,8 +830,8 @@
             "Imagen_Ave": "ave055.webp",
             "Sonidos": ["aud055.mp3"],
             "Alimentos": ["frugiv", "frutpeq", "gran", "nectari", "semllas"]
-        },        
-        
+        },
+
 
         {
             "Codigo":"056",
@@ -846,8 +846,8 @@
             "Imagen_Ave": "ave056.webp",
             "Sonidos": ["aud056_1.mp3", "aud056_2.mp3"],
             "Alimentos": ["frugiv", "frutpeq", "gran", "nectari", "semllas"]
-        }, 
-        
+        },
+
         {
             "Codigo":"057",
             "Nombre_Comun": "Periquito de anteojos",
@@ -861,9 +861,9 @@
             "Imagen_Ave": "ave057.webp",
             "Sonidos": ["aud057_1.mp3", "aud057_2.mp3", "aud057_3.mp3"],
             "Alimentos": ["frugiv", "frutpeq", "gran", "nectari", "semllas"]
-        },     
-        
-        
+        },
+
+
         {
             "Codigo":"058",
             "Nombre_Comun": "Lora frentiroja",
@@ -877,8 +877,8 @@
             "Imagen_Ave": "ave058.webp",
             "Sonidos": ["aud058_1.mp3", "aud058_2.mp3"],
             "Alimentos": ["frugiv", "frutpeq", "gran", "nectari", "semllas"]
-        },  
-        
+        },
+
         {
             "Codigo":"059",
             "Nombre_Comun": "Batará mayor (Macho)",
@@ -892,8 +892,8 @@
             "Imagen_Ave": "ave059.webp",
             "Sonidos": ["aud059.mp3"],
             "Alimentos": ["anfi", "crusta", "insec"]
-        },   
-        
+        },
+
         {
             "Codigo":"060",
             "Nombre_Comun": "Batará mayor (hembra)",
@@ -907,7 +907,7 @@
             "Imagen_Ave": "ave060.webp",
             "Sonidos": ["aud059.mp3"],
             "Alimentos": ["anfi", "crusta", "insec"]
-        }, 
+        },
 
         {
             "Codigo":"061",
@@ -923,7 +923,7 @@
             "Sonidos": ["aud061_1.mp3", "aud061_2.mp3", "aud061_3.mp3"],
             "Alimentos": ["insec", "semllas"]
         },
-        
+
         {
             "Codigo":"062",
             "Nombre_Comun": "Batará carcajada (hembra)",
@@ -938,7 +938,7 @@
             "Sonidos": ["aud061_1.mp3", "aud061_2.mp3", "aud061_3.mp3"],
             "Alimentos": ["insec", "semllas"]
         },
-        
+
         {
             "Codigo":"063",
             "Nombre_Comun": "Batará occidental",
@@ -967,9 +967,9 @@
             "Imagen_Ave": "ave064.webp",
             "Sonidos": ["aud064.mp3"],
             "Alimentos": ["frutpeq", "insec"]
-        },   
-        
-        
+        },
+
+
         {
             "Codigo":"065",
             "Nombre_Comun": "Hormiguero de Parker",
@@ -983,8 +983,8 @@
             "Imagen_Ave": "ave065.webp",
             "Sonidos": ["aud065.mp3"],
             "Alimentos": ["insec"]
-        },    
-        
+        },
+
         {
             "Codigo":"066",
             "Nombre_Comun": "Hormiguero yeguá",
@@ -999,7 +999,7 @@
             "Sonidos": ["aud066.mp3"],
             "Alimentos": ["insec"]
         },
-        
+
         {
             "Codigo":"067",
             "Nombre_Comun": "Hormiguero inmaculado",
@@ -1014,7 +1014,7 @@
             "Sonidos": ["aud067.mp3"],
             "Alimentos": ["anfi", "insec"]
         },
-        
+
         {
             "Codigo":"068",
             "Nombre_Comun": "Tororoi dorsiescamado",
@@ -1028,8 +1028,8 @@
             "Imagen_Ave": "ave068.webp",
             "Sonidos": ["aud068.mp3"],
             "Alimentos": ["anfi", "insec"]
-        },  
-        
+        },
+
         {
             "Codigo":"069",
             "Nombre_Comun": "Tororoi comprapán",
@@ -1044,7 +1044,7 @@
             "Sonidos": ["aud069.mp3"],
             "Alimentos": ["anfi", "insec"]
         },
-        
+
         {
             "Codigo":"070",
             "Nombre_Comun": "Trepatroncos cocoa",
@@ -1058,8 +1058,8 @@
             "Imagen_Ave": "ave070.webp",
             "Sonidos": ["aud070.mp3"],
             "Alimentos": ["anfi", "insec"]
-        },  
-        
+        },
+
         {
             "Codigo":"071",
             "Nombre_Comun": "Trepatroncos campestre",
@@ -1074,7 +1074,7 @@
             "Sonidos": ["aud071.mp3"],
             "Alimentos": ["anfi", "insec", "frutpeq"]
         },
-        
+
         {
             "Codigo":"072",
             "Nombre_Comun": "Rastrojero rubicundo",
@@ -1088,8 +1088,8 @@
             "Imagen_Ave": "ave072.webp",
             "Sonidos": ["aud072.mp3"],
             "Alimentos": ["insec", "frutpeq"]
-        },   
-        
+        },
+
         {
             "Codigo":"073",
             "Nombre_Comun": "Rastrojero pizarra",
@@ -1103,8 +1103,8 @@
             "Imagen_Ave": "ave073.webp",
             "Sonidos": ["aud073.mp3"],
             "Alimentos": ["insec"]
-        },   
-        
+        },
+
         {
             "Codigo":"074",
             "Nombre_Comun": "Rastrojero pálido",
@@ -1118,8 +1118,8 @@
             "Imagen_Ave": "ave074.webp",
             "Sonidos": ["aud074.mp3"],
             "Alimentos": ["insec"]
-        }, 
-        
+        },
+
         {
             "Codigo":"075",
             "Nombre_Comun": "Rastrojero de azara / Chamicero piscuís",
@@ -1133,8 +1133,8 @@
             "Imagen_Ave": "ave075.webp",
             "Sonidos": ["aud075_1.mp3", "aud075_2.mp3"],
             "Alimentos": ["insec"]
-        }, 
-        
+        },
+
         {
             "Codigo":"076",
             "Nombre_Comun": "Mosquerito cabecigrís",
@@ -1149,7 +1149,7 @@
             "Sonidos": ["aud076_1.mp3", "aud076_2.mp3"],
             "Alimentos": ["insec"]
         },
-        
+
         {
             "Codigo":"077",
             "Nombre_Comun": "Mosquerito coronado",
@@ -1163,8 +1163,8 @@
             "Imagen_Ave": "ave077.webp",
             "Sonidos": ["aud077.mp3"],
             "Alimentos": ["insec", "frutpeq"]
-        },     
-        
+        },
+
         {
             "Codigo":"078",
             "Nombre_Comun": "Elaenia copetona",
@@ -1178,8 +1178,8 @@
             "Imagen_Ave": "ave078.webp",
             "Sonidos": [ ],
             "Alimentos": ["insec", "frutpeq"]
-        },   
-        
+        },
+
         {
             "Codigo":"079",
             "Nombre_Comun": "Atrapamoscas ocráceo / Patito de hule",
@@ -1193,8 +1193,8 @@
             "Imagen_Ave": "ave079.webp",
             "Sonidos": ["aud079.mp3"],
             "Alimentos": ["insec", "frutpeq"]
-        },  
-        
+        },
+
         {
             "Codigo":"080",
             "Nombre_Comun": "Tiranuelo matapalos / Tiranuelo cejiamarillo",
@@ -1223,7 +1223,7 @@
             "Imagen_Ave": "ave081.webp",
             "Sonidos": ["aud081_1.mp3", "aud081_2.mp3", "aud081_3.mp3"],
             "Alimentos": ["insec"]
-        },        
+        },
 
         {
             "Codigo":"082",
@@ -1238,7 +1238,7 @@
             "Imagen_Ave": "ave082.webp",
             "Sonidos": ["aud082.mp3"],
             "Alimentos": ["insec", "frutpeq"]
-        },        
+        },
 
         {
             "Codigo":"083",
@@ -1253,8 +1253,8 @@
             "Imagen_Ave": "ave083.webp",
             "Sonidos": ["aud083.mp3"],
             "Alimentos": ["insec", "frutpeq"]
-        }, 
-        
+        },
+
         {
             "Codigo":"084",
             "Nombre_Comun": "Atrapamoscas guardapuentes / Mosquero negro",
@@ -1298,8 +1298,8 @@
             "Imagen_Ave": "ave086.webp",
             "Sonidos": ["aud086.mp3"],
             "Alimentos": ["insec"]
-        }, 
-        
+        },
+
         {
             "Codigo":"087",
             "Nombre_Comun": "Atrapamoscas ganadero",
@@ -1314,7 +1314,7 @@
             "Sonidos": ["aud087.mp3"],
             "Alimentos": ["insec", "frugiv"]
         },
-        
+
         {
             "Codigo":"088",
             "Nombre_Comun": "Sirirí rayado",
@@ -1328,8 +1328,8 @@
             "Imagen_Ave": "ave088.webp",
             "Sonidos": ["aud088_1.mp3", "aud088_2.mp3"],
             "Alimentos": ["insec", "frutpeq", "anfi"]
-        }, 
-        
+        },
+
         {
             "Codigo":"089",
             "Nombre_Comun": "Bichofué gritón",
@@ -1344,8 +1344,8 @@
             "Sonidos": ["aud089_1.mp3", "aud089_2.mp3"],
             "Alimentos": ["insec", "frugiv", "anfi", "crusta", "frutpeq", "pisci", "rat", "semllas"]
         },
-        
-        
+
+
         {
             "Codigo":"090",
             "Nombre_Comun": "Suelda crestinegra",
@@ -1389,8 +1389,8 @@
             "Imagen_Ave": "ave092.webp",
             "Sonidos": ["aud092.mp3"],
             "Alimentos": ["insec", "frutpeq"]
-        },  
-        
+        },
+
         {
             "Codigo":"093",
             "Nombre_Comun": "Atrapamoscas apical",
@@ -1404,7 +1404,7 @@
             "Imagen_Ave": "ave093.webp",
             "Sonidos": ["aud093.mp3"],
             "Alimentos": ["insec", "frutpeq"]
-        }, 
+        },
 
         {
             "Codigo":"094",
@@ -1419,7 +1419,7 @@
             "Imagen_Ave": "ave094.webp",
             "Sonidos": ["aud094.mp3"],
             "Alimentos": ["anfi", "frutpeq", "frugiv"]
-        }, 
+        },
 
         {
             "Codigo":"095",
@@ -1434,7 +1434,7 @@
             "Imagen_Ave": "ave095.webp",
             "Sonidos": ["aud095_1.mp3", "aud095_2.mp3", "aud095_3.mp3"] ,
             "Alimentos": ["anfi", "frutpeq"]
-        }, 
+        },
 
         {
             "Codigo":"096",
@@ -1449,7 +1449,7 @@
             "Imagen_Ave": "ave096.webp",
             "Sonidos": ["aud096_1.mp3", "aud096_2.mp3", "aud096_3.mp3"],
             "Alimentos": ["insec"]
-        }, 
+        },
 
         {
             "Codigo":"097",
@@ -1462,10 +1462,10 @@
             "Distribucion": "< 3400 m.s.n.m",
             "Tamano": "14 cm",
             "Imagen_Ave": "ave097.webp",
-            "Sonidos": [ ], 
+            "Sonidos": [ ],
             "Alimentos": ["insec", "frutpeq"]
-        },         
-        
+        },
+
         {
             "Codigo":"098",
             "Nombre_Comun": "Vireo chivÍ",
@@ -1479,7 +1479,7 @@
             "Imagen_Ave": "ave098.webp",
             "Sonidos": ["aud098.mp3"],
             "Alimentos": ["insec", "frutpeq"]
-        }, 
+        },
 
         {
             "Codigo":"099",
@@ -1539,8 +1539,8 @@
             "Imagen_Ave": "ave102.webp",
             "Sonidos": ["aud102.mp3"],
             "Alimentos": ["insec"]
-        },    
-        
+        },
+
         {
             "Codigo":"103",
             "Nombre_Comun": "Cucarachero ruiseñor / Cucarachero de pecho escamoso",
@@ -1554,8 +1554,8 @@
             "Imagen_Ave": "ave103.webp",
             "Sonidos": ["aud103_1.mp3", "aud103_2.mp3", "aud103_3.mp3"] ,
             "Alimentos": ["insec"]
-        },    
-        
+        },
+
         {
             "Codigo":"104",
             "Nombre_Comun": "Cucarachero flautista",
@@ -1569,7 +1569,7 @@
             "Imagen_Ave": "ave104.webp",
             "Sonidos": ["aud104.mp3"],
             "Alimentos": ["insec"]
-        }, 
+        },
 
         {
             "Codigo":"105",
@@ -1585,7 +1585,7 @@
             "Sonidos": ["aud105.mp3"],
             "Alimentos": ["insec"]
         },
-        
+
         {
             "Codigo":"106",
             "Nombre_Comun": "Cucarachero jaspeado / Cucarachero buchipecoso",
@@ -1600,7 +1600,7 @@
             "Sonidos": ["aud106.mp3"],
             "Alimentos": ["insec"]
         },
-        
+
         {
             "Codigo":"107",
             "Nombre_Comun": "Cucarachero sepia",
@@ -1614,7 +1614,7 @@
             "Imagen_Ave": "ave107.webp",
             "Sonidos": ["aud107.mp3"],
             "Alimentos": ["insec"]
-        },   
+        },
 
 
         {
@@ -1630,7 +1630,7 @@
             "Imagen_Ave": "ave108.webp",
             "Sonidos": ["aud108_1.mp3", "aud108_2.mp3", "aud108_3.mp3"] ,
             "Alimentos": ["insec"]
-        }, 
+        },
 
 
         {
@@ -1646,7 +1646,7 @@
             "Imagen_Ave": "ave109.webp",
             "Sonidos": ["aud109.mp3"],
             "Alimentos": ["insec"]
-        }, 
+        },
 
         {
             "Codigo":"110",
@@ -1661,7 +1661,7 @@
             "Imagen_Ave": "ave110.webp",
             "Sonidos": ["aud110_1.mp3", "aud110_2.mp3", "aud110_3.mp3"],
             "Alimentos": ["frutpeq", "semllas","insec"]
-        }, 
+        },
 
         {
             "Codigo":"111",
@@ -1676,7 +1676,7 @@
             "Imagen_Ave": "ave111.webp",
             "Sonidos": ["aud111.mp3"],
             "Alimentos": ["Frut", "semllas","insec"]
-        }, 
+        },
 
         {
             "Codigo":"112",
@@ -1691,7 +1691,7 @@
             "Imagen_Ave": "ave112.webp",
             "Sonidos": ["aud112.mp3"],
             "Alimentos": ["frugiv", "frutpeq","insec"]
-        }, 
+        },
 
         {
             "Codigo":"113",
@@ -1706,8 +1706,8 @@
             "Imagen_Ave": "ave113.webp",
             "Sonidos": ["aud113.mp3"],
             "Alimentos": ["anfi", "crusta", "frugiv", "frutpeq", "huevos", "insec", "rat", "semllas"]
-        },        
-        
+        },
+
         {
             "Codigo":"114",
             "Nombre_Comun": "Mirla ollera",
@@ -1827,8 +1827,8 @@
             "Imagen_Ave": "ave121.webp",
             "Sonidos": ["aud121.mp3"],
             "Alimentos": ["frutpeq", "insec", "semllas"]
-        }, 
-        
+        },
+
         {
             "Codigo":"122",
             "Nombre_Comun": "Copetón común / Pinche",
@@ -1842,8 +1842,8 @@
             "Imagen_Ave": "ave122.webp",
             "Sonidos": ["aud122.mp3"],
             "Alimentos": ["semlleros", "insec", "semllas"]
-        }, 
-        
+        },
+
         {
             "Codigo":"123",
             "Nombre_Comun": "Turpial montañero",
@@ -1948,8 +1948,8 @@
             "Imagen_Ave": "ave129.webp",
             "Sonidos": ["aud129.mp3"],
             "Alimentos": ["frugiv", "frutpeq", "insec"]
-        },  
-        
+        },
+
         {
             "Codigo":"130",
             "Nombre_Comun": "Piranga bermeja",
@@ -1978,7 +1978,7 @@
             "Imagen_Ave": "ave131.webp",
             "Sonidos": ["aud131.mp3"],
             "Alimentos": ["frutpeq", "insec", "semllas"]
-        },        
+        },
 
         {
             "Codigo":"132",
@@ -1994,7 +1994,7 @@
             "Sonidos": ["aud132_1.mp3", "aud132_2.mp3", "aud132_3.mp3"],
             "Alimentos": ["frugiv", "frutpeq", "gran", "insec", "nectari", "semllas", "semlleros"]
         },
-        
+
         {
             "Codigo":"133",
             "Nombre_Comun": "Saltátor alinegro",
@@ -2008,8 +2008,8 @@
             "Imagen_Ave": "ave133.webp",
             "Sonidos": ["aud133.mp3"],
             "Alimentos": ["frugiv", "frutpeq"]
-        },   
-        
+        },
+
         {
             "Codigo":"134",
             "Nombre_Comun": "Canario coronado",
@@ -2023,8 +2023,8 @@
             "Imagen_Ave": "ave134.webp",
             "Sonidos": ["aud134_1.mp3", "aud134_2.mp3"],
             "Alimentos": ["insec", "semllas", "semlleros"]
-        }, 
-        
+        },
+
         {
             "Codigo":"135",
             "Nombre_Comun": "Espiguero capuchino",
@@ -2039,7 +2039,7 @@
             "Sonidos": ["aud135_1.mp3", "aud135_2.mp3"],
             "Alimentos": ["semlleros"]
         },
-        
+
         {
             "Codigo":"136",
             "Nombre_Comun": "Semillero cariamarillo",
@@ -2051,10 +2051,10 @@
             "Distribucion": "700 - 2400 m.s.n.m",
             "Tamano": "10.5 cm",
             "Imagen_Ave": "ave136.webp",
-            "Sonidos": ["aud136_1.mp3", "aud136-2.mp3", "aud136_3.mp3"],
+            "Sonidos": ["aud136_1.mp3", "aud136_2.mp3", "aud136_3.mp3"],
             "Alimentos": ["frutpeq", "semlleros"]
-        }, 
-        
+        },
+
         {
             "Codigo":"137",
             "Nombre_Comun": "Volatinero negro",
@@ -2069,7 +2069,7 @@
             "Sonidos": ["aud137.mp3"],
             "Alimentos": ["frutpeq", "insec", "semlleros"]
         },
-        
+
         {
             "Codigo":"138",
             "Nombre_Comun": "Mielero común",
@@ -2084,7 +2084,7 @@
             "Sonidos": ["aud138.mp3"],
             "Alimentos": ["frutpeq", "insec", "frugiv"]
         },
-        
+
         {
             "Codigo":"139",
             "Nombre_Comun": "Asoma terciopelo / Toche pico de plata",
@@ -2099,7 +2099,7 @@
             "Sonidos": ["aud139.mp3"],
             "Alimentos": ["frutpeq", "insec", "frugiv"]
         },
-        
+
         {
             "Codigo":"140",
             "Nombre_Comun": "Asoma candela / Toche enjalmado",
@@ -2114,8 +2114,8 @@
             "Sonidos": ["aud140.mp3"],
             "Alimentos": ["frutpeq", "insec", "frugiv"]
         },
-        
-        
+
+
         {
             "Codigo":"141",
             "Nombre_Comun": "Tángara multicolor",
@@ -2129,8 +2129,8 @@
             "Imagen_Ave": "ave141.webp",
             "Sonidos": [ ],
             "Alimentos": ["frutpeq", "insec", "frugiv"]
-        }, 
-        
+        },
+
         {
             "Codigo":"142",
             "Nombre_Comun": "Mielero verde",
@@ -2144,8 +2144,8 @@
             "Imagen_Ave": "ave141.webp",
             "Sonidos": [ ],
             "Alimentos": ["frutpeq", "insec", "frugiv", "nectari"]
-        }, 
-        
+        },
+
         {
             "Codigo":"143",
             "Nombre_Comun": "Dacnis turquesa",
@@ -2159,8 +2159,8 @@
             "Imagen_Ave": "ave143.webp",
             "Sonidos": ["aud143.mp3"],
             "Alimentos": ["frutpeq", "insec", "frugiv"]
-        },     
-        
+        },
+
         {
             "Codigo":"144",
             "Nombre_Comun": "Tángara rastrojera",
@@ -2174,8 +2174,8 @@
             "Imagen_Ave": "ave144.webp",
             "Sonidos": ["aud144.mp3"],
             "Alimentos": ["frutpeq", "insec", "frugiv"]
-        },     
-        
+        },
+
         {
             "Codigo":"145",
             "Nombre_Comun": "Tángara capirotada",
@@ -2187,10 +2187,10 @@
             "Distribucion": "1400 - 2300 m.s.n.m",
             "Tamano": "13 cm",
             "Imagen_Ave": "ave145.webp",
-            "Sonidos": [ ], 
+            "Sonidos": [ ],
             "Alimentos": ["frutpeq", "insec", "frugiv"]
         },
-        
+
 
         {
             "Codigo":"146",
@@ -2250,8 +2250,8 @@
             "Imagen_Ave": "ave149.webp",
             "Sonidos": ["aud149.mp3"],
             "Alimentos": ["frutpeq", "insec", "frugiv", "nectari"]
-        }, 
-        
+        },
+
         {
             "Codigo":"150",
             "Nombre_Comun": "Azulejo palmero",
@@ -2265,6 +2265,6 @@
             "Imagen_Ave": "ave150.webp",
             "Sonidos": [ ],
             "Alimentos": ["frutpeq", "insec", "frugiv"]
-        }      
+        }
     ]
 }
