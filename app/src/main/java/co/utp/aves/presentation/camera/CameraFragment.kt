@@ -4,8 +4,6 @@ package co.utp.aves.presentation.camera
 import android.Manifest
 import android.annotation.SuppressLint
 import android.content.pm.PackageManager
-import android.graphics.BitmapFactory
-import android.graphics.Color
 import android.os.Build
 import android.os.Bundle
 import android.util.Log
@@ -122,14 +120,7 @@ class CameraFragment : BaseFragment<FragmentCameraBinding, BirdViewModel>() {
     }
 
     private fun convertWord(input: String): String {
-        val words = input.split("_").mapIndexed { index, word ->
-            if (index == 0) {
-                word.replaceFirstChar { it.uppercase() }
-            } else {
-                word
-            }
-        }
-        return words.joinToString(" ")
+        return input.replace("_"," ")
     }
 
     override fun onDestroy() {
@@ -169,11 +160,6 @@ class CameraFragment : BaseFragment<FragmentCameraBinding, BirdViewModel>() {
                         val msg = "Photo capture succeeded: ${outputFileResults.savedUri}"
                         Log.d(TAG, msg)
 
-                        binding.imageCaptured.imgBird.setImageBitmap(
-                            BitmapFactory.decodeFile(
-                                photoFile.absolutePath
-                            )
-                        )
                         //pytorchImage(photoFile.absolutePath)
                         outputFileResults.savedUri?.toFile()
                             ?.let { it1 -> viewModel.uploadImage(it1) }

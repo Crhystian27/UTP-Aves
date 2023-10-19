@@ -70,11 +70,13 @@ class BirdDetailFragment : BaseFragment<FragmentBirdDetailBinding, BirdViewModel
 
             loadDrawable(imgBirdDetail, drawable!!, root.context)
             val title = "${ave?.Nombre_Cientifico}"
+            val subTitle = "${ave?.Nombre_Comun}"
             val titleFeature = "Caracteristicas"
             val featureBody =
                 "• Distribucion: ${ave?.Distribucion}\n• Familia: ${ave?.Familia}\n• Orden: ${ave?.Orden}\n• Tamaño: ${ave?.Tamano} "
             val vocalization = "${ave?.Vocalizacion}"
             titleBirdDetail.text = title
+            subtitleBirdDetail.text = subTitle
             titleFeatureBirdDetail.text = titleFeature
             featureBirdDetail.text = featureBody
             titleSoundBirdDetail.text = vocalization

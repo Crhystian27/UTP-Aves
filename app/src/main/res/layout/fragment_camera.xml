@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/utp_blue">
+    android:background="@color/white">
 
     <androidx.camera.view.PreviewView
         android:id="@+id/cameraView"
@@ -27,18 +26,20 @@
         app:layout_constraintStart_toStartOf="parent"
         app:tint="@android:color/white" />
 
-    <include
-        android:id="@+id/image_captured"
-        layout="@layout/item_bird"
+
+    <com.facebook.shimmer.ShimmerFrameLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginStart="32dp"
-        android:layout_marginEnd="32dp"
-        android:layout_marginTop="56dp"
-        android:layout_marginBottom="56dp"
+        app:shimmer_auto_start="true"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent">
+
+        <include
+            android:id="@+id/image_captured"
+            layout="@layout/shimmer_bird_detail_" />
+    </com.facebook.shimmer.ShimmerFrameLayout>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

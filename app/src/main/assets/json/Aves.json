@@ -1183,7 +1183,7 @@
         {
             "Codigo":"079",
             "Nombre_Comun": "Atrapamoscas ocráceo / Patito de hule",
-            "Nombre_Cientifico": "Tyrannulus elatusMionectes oleagineus",
+            "Nombre_Cientifico": "Mionectes oleagineus",
             "Orden": "Passeriforme",
             "Familia": "Tyrannidae",
             "Nombre_Ingles": "Ochre-bellied Flycatcher",
@@ -1675,7 +1675,7 @@
             "Tamano": "18 cm",
             "Imagen_Ave": "ave111.webp",
             "Sonidos": ["aud111.mp3"],
-            "Alimentos": ["Frut", "semllas","insec"]
+            "Alimentos": ["frugiv", "semllas","insec"]
         },
 
         {
@@ -2141,7 +2141,7 @@
             "Vocalizacion": "Series repetitivas y cortas, en momentos agudas o ásperas “Chip-Chip-Chip”",
             "Distribucion": "< 2300 m.s.n.m",
             "Tamano": "13 cm",
-            "Imagen_Ave": "ave141.webp",
+            "Imagen_Ave": "ave142.webp",
             "Sonidos": [ ],
             "Alimentos": ["frutpeq", "insec", "frugiv", "nectari"]
         },
