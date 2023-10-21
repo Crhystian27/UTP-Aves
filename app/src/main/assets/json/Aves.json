@@ -393,8 +393,8 @@
 
         {
             "Codigo":"027",
-            "Nombre_Comun": "Caracolero selvático",
-            "Nombre_Cientifico": "Chondrohierax uncinatus (macho)",
+            "Nombre_Comun": "Caracolero selvático macho",
+            "Nombre_Cientifico": "Chondrohierax uncinatus macho",
             "Orden": "Accipitriforme",
             "Familia": "Accipitridae",
             "Nombre_Ingles": "Hook-billed kite",
@@ -408,8 +408,8 @@
 
         {
             "Codigo":"028",
-            "Nombre_Comun": "Caracolero selvático",
-            "Nombre_Cientifico": "Chondrohierax uncinatus (hembra)",
+            "Nombre_Comun": "Caracolero selvático hembra",
+            "Nombre_Cientifico": "Chondrohierax uncinatus hembra",
             "Orden": "Accipitriforme",
             "Familia": "Accipitridae",
             "Nombre_Ingles": "Hook-billed kite",
@@ -881,8 +881,8 @@
 
         {
             "Codigo":"059",
-            "Nombre_Comun": "Batará mayor (Macho)",
-            "Nombre_Cientifico": "Taraba major",
+            "Nombre_Comun": "Batará mayor macho",
+            "Nombre_Cientifico": "Taraba major macho",
             "Orden": "Passeriforme",
             "Familia": "Thamnophilidae",
             "Nombre_Ingles": "Great Antshrike",
@@ -896,8 +896,8 @@
 
         {
             "Codigo":"060",
-            "Nombre_Comun": "Batará mayor (hembra)",
-            "Nombre_Cientifico": "Taraba major",
+            "Nombre_Comun": "Batará mayor hembra",
+            "Nombre_Cientifico": "Taraba major hembra",
             "Orden": "Passeriforme",
             "Familia": "Thamnophilidae",
             "Nombre_Ingles": "Great Antshrike",
@@ -911,8 +911,8 @@
 
         {
             "Codigo":"061",
-            "Nombre_Comun": "Batará carcajada (macho)",
-            "Nombre_Cientifico": "Thamnophilus multistriatus",
+            "Nombre_Comun": "Batará carcajada macho",
+            "Nombre_Cientifico": "Thamnophilus multistriatus macho",
             "Orden": "Passeriforme",
             "Familia": "Thamnophilidae",
             "Nombre_Ingles": "Bar-crested Antshrike",
@@ -926,8 +926,8 @@
 
         {
             "Codigo":"062",
-            "Nombre_Comun": "Batará carcajada (hembra)",
-            "Nombre_Cientifico": "Thamnophilus multistriatus",
+            "Nombre_Comun": "Batará carcajada hembra",
+            "Nombre_Cientifico": "Thamnophilus multistriatus hembra",
             "Orden": "Passeriforme",
             "Familia": "Thamnophilidae",
             "Nombre_Ingles": "Bar-crested Antshrike",
